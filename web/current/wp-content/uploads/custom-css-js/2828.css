@@ -1,0 +1,778 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/*------------------------------------------------*/
+/*-----------------[BASIC STYLES]-----------------*/
+/*------------------------------------------------*/
+/* Main Header Divider */
+#main-header { 
+      box-shadow: 0 0px 0; 
+     -moz-box-shadow: 0 0px 0; 
+     -webkit-box-shadow: 0 0px 0;
+}
+
+/* Gallery Lightbox Container */
+.mfp-content {
+	/*max-height: 680px !important;*/ 
+	max-width: 900px !important; 
+	/*overflow: hidden;*/
+}
+
+
+
+
+/*------------------------------------------------*/
+/*----------------PROPERTY LISTNGS----------------*/
+/*------------------------------------------------*/
+
+/* Search Form */
+.harvie-search-text.et_pb_text_0 {
+	margin-top: 100px;
+	margin-bottom: 40px !important;
+}
+
+.harvie-search-text2.et_pb_text_0 {
+	margin-top: 50px;
+	margin-bottom: 30px !important;
+}
+
+body  .epl-search-form {
+	overflow: hidden;
+	background-color:rgba(232,232,232, 0.75);
+	margin-top: 0px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	padding-left: 3%;
+	padding-right: 3%;
+	width: 100%;
+}
+
+#property_address, .epl-search-btn, .select2-container .select2-choice {
+	font-size: 14px;
+	font-family: 'Source Sans Pro';
+	font-weight: 700;
+}
+
+.select2-container .select2-choice {
+	font-size: 14px;
+	font-family: 'Source Sans Pro';
+	font-weight: 700;
+  min-height:47px;
+  line-height:46px;
+  border-bottom: none;
+}
+
+.harvie-search .epl-search-forms-wrapper.epl-search-default {
+	max-width: 100%;
+}
+
+.harvie-search .epl-post_type {
+	width: 16.65%;
+	margin-top: -1px;
+}
+
+.harvie-search .epl-property_address {
+	width: 66.7%; 
+}
+
+#property_address {
+	padding-left: 10px !important;
+}
+
+.harvie-search .epl-search-custom-size { 					
+ 	width: 16.65%;
+	float: right;
+	margin-top: 15px;
+}
+
+.harvie-search .epl-search-btn {
+	-webkit-appearance: none;   
+	height: 46px;
+	border: none;
+    cursor: pointer;
+	background: #000;
+	color: #fff;
+	width: 100% !important;
+}
+
+.harvie-search .epl-property_category,
+.harvie-search .epl-property_price_from, 
+.harvie-search .epl-property_price_to, .harvie-search .epl-property_bedrooms_min,
+.harvie-search .epl-property_bathrooms,  .harvie-search .epl-property_carport{
+	width: 16.65% !important;
+	float: left;
+}
+
+body .epl-search-form .in-field {
+	border: 1px solid #B7B7B7;
+	padding: 0px;
+	line-height: 1.3;
+	text-transform: capitalize;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+	border: none;
+	margin-top: 15px;
+	color: #000;
+	font-weight: bold;
+}
+
+#epl_ps_tab_1 > form .more-options {
+	bottom: -45px;
+}
+
+.select2-results .select2-result-label{
+ text-transform:capitalize;
+}
+
+
+/* Hidden Property Labels and Max Bedrrom */
+.harvie-search .epl-property_bedrooms_max {display:none;}
+
+body .epl-search-form .epl-search-label {
+	display:none;
+}
+
+/* Hidden Sort */
+.epl-properties-sorting{
+	display: none;
+}
+
+/* Next Page */
+.epl-paginate-default-wrapper {
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+/*Home Inspection Table*/
+.epl_open_homes_tbl { width: 100%; color: #000;}
+.epl_open_homes_tbl div  { min-height: 30px; float: left;margin-top:10px;margin-bottom:0px;}
+.epl_open_homes_col1 { width: 25%;}
+.epl_open_homes_col2 {margin-left:2%; width: 25%; font-weight: bold;}
+.epl_open_homes_col3,.epl_open_homes_col4,.epl_open_homes_col5, .epl_open_homes_col6 { margin-left:2%; width: 10%; text-align:center;}
+
+/*-- Open Homes Title --*/
+.open_title_hdr {
+	font-weight:bold;
+	margin-bottom: 0px;
+}
+
+.open_title_col1 {
+	margin-left: 0px;
+	margin-right:-20px;
+}
+
+/* for epl-table-open on desktop/tablet*/
+.epl-desktop {
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	cursor: pointer;
+}
+
+.epl-desktop:hover {
+	background: #f0f0f0;
+}
+
+.epl-table-open .home-open-date {
+	margin-top: -5px !important;
+}
+
+/*Property Cards - Black*/
+.epl-property-blog-entry-wrapper { 
+ 	background-color: #000 !important;
+	color: #fff;
+}
+
+.epl-property-blog-entry-wrapper .item-street, .epl-property-blog-entry-wrapper .entry-title-sub, .epl-property-blog-entry-wrapper .property-feature-icons span {
+	color: #fff;
+}
+
+/* Gallery Caption and Author Box */
+.gallery-caption, .epl-author-box-container {
+    display: none;
+}
+
+.epl-tab-section {
+	margin-top: 10px;
+	margin-bottom: 25px;
+}
+
+.open_title_col1 {
+margin-left:0px;
+}
+
+.epl-gallery-entry {
+	display:none;
+}
+
+
+
+.mobile-inspection-tbl {
+	display:table;
+	border-collapse: collapse;
+	width: 100%;
+	table-layout: fixed;
+}
+
+.mobile-inspection-row {
+	display:table-row;
+	border: 1px solid #a8a8a8;
+	height: auto;
+
+}
+
+.mobile-inspection-row >div {
+	padding: 5px;
+}
+
+.mobile-inspection-col-left {
+	display:table-cell;
+	width: 80px;
+}
+
+.col-center {
+	text-align:center !important;
+	padding-top: 20px !important;
+	height: 50px;
+}
+
+.mobile-inspection-row ul.home-open-wrapper, .mobile-inspection-row .epl-inspection-times {
+	padding: 0px !important;
+}
+
+.mobile-inspection-col-right {
+	display:table-cell;
+	width:100%;
+	text-align:left;
+}
+
+.button-listing {
+	margin-left: -70px;
+	padding: 10px 30px 10px 30px;
+	width: 120px !important;
+	background: #555;
+	color: #fff;
+	border-radius: 3px;
+	cursor: pointer;
+	text-align: center;
+}
+
+/*-- Property Listing Title --*/
+.entry-header .entry-title, .entry-header .entry-title-sub {
+	font-size: 20px !important;
+}
+
+
+.epl_open_homes_col1 {
+	margin-top: -10px;
+	margin-left: -20px;
+}
+
+.property-feature-icons {
+	margin-top: -2px;
+}
+
+.icon.air {display:none; }	
+
+/*-- EPL Grid and List Icons --*/
+.view-list, .view-grid {display:none;}
+
+/*-- Open Homes Title Alignment --*/
+.open_title_col1 {
+	margin-left: 0px;
+	margin-right:-20px;
+}
+
+
+/*------------------------------------------------*/
+/*--------------------[MENU]----------------------*/
+/*------------------------------------------------*/
+#top-menu .current-menu-item a::before,
+#top-menu .current_page_item a::before,
+#top-menu .current-menu-ancestor a::before, #top-menu  .current-menu-parent a::before{
+ content: "";
+ position: absolute;
+ z-index: 2;
+ left: 0;
+ right: 0;
+}
+
+#mobile_menu .current_page_item, #mobile_menu .current_menu_parent a {
+background: #a8a8a8;/*Change this*/
+color: #fff !important;/*Change this*/
+}
+
+.et_mobile_menu .menu-item-has-children > a {
+background: none !important; font-weight: 600 !important;}
+
+#top-menu li a:before {
+ content: "";
+ position: absolute;
+ z-index: -2;
+ left: 0;
+ right: 100%;
+ bottom: 110%;
+ background: #000000; /*** COLOR OF THE LINE ***/
+ height: 2px; /*** THICKNESS OF THE LINE ***/
+ -webkit-transition-property: right;
+ transition-property: right;
+ -webkit-transition-duration: 0.3s;
+ transition-duration: 0.3s;
+ -webkit-transition-timing-function: ease-out;
+ transition-timing-function: ease-out;
+}
+#top-menu li a:hover {
+	opacity: 1 !important;
+  	background: transparent;
+}
+#top-menu li a:hover:before {
+ right: 0;
+} 
+
+#top-menu li li a:before {
+ bottom: 10%;
+ opacity: 0;
+} 
+
+span.mobile_menu_bar:before {
+    color: #6b6b6b !important;
+}
+
+#top-menu li {  	
+    padding-left: 15px !important;
+	padding-right: 15px !important;      
+}
+
+/*-----Project for User Experience-----*/
+li#menu-item-3074 {  	
+    padding-left: 20px !important;
+	padding-right: 20px !important;      
+}
+
+li#menu-item-104 {  	    
+	padding-right: 12px !important;      
+}
+
+li#menu-item-102 {  	
+    padding-left: 12px !important;
+}
+
+/*-----Slim Horizontal Submenus-----*/
+
+.nav li ul {
+    visibility: hidden;
+    z-index: 9999;
+    position: fixed;
+    width: 100vw;
+    left: 0;
+    padding: 0;
+    text-align: center !important;
+    border: none;
+    box-shadow: none;
+	margin-top: -50px;
+	background-color: rgba(255, 255, 255,0) !important;  
+}
+.nav li.et-reverse-direction-nav li ul {
+    right: 0;
+    top: auto;
+}
+#top-menu li li a {
+    width: 100%;
+	padding-left: 10px;    
+    padding-right: 10px;    
+	padding-top: 20px;    
+    padding-bottom: 50px;    
+	line-height: 24px;
+}
+
+#top-menu li li a::after{
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #000;
+    transition: width .5s;
+    margin-top: -26px;
+}
+
+#top-menu li li a:hover::after {
+    width: 100%;
+}
+
+/* remove divi default effects for items with a drop down menu */
+#top-menu .menu-item-has-children > a:first-child:after{content: '';}
+
+#top-menu .menu-item-has-children > a:first-child, #et-secondary-nav .menu-item-has-children > a:first-child {
+	padding-right: 0px;}
+
+/*------------------------------------------------*/
+/*----------------[CONTACT FORMS]-----------------*/
+/*------------------------------------------------*/
+
+.harvie-form {
+	margin-top: 80px;
+  display: -webkit-box;    
+  display: -moz-box;      
+  display: -ms-flexbox;     
+  display: -webkit-flex;    
+  display: flex;       
+}
+
+.form-left {
+	width: 50%;
+	margin-right: 20px;
+}
+
+.form-right {
+	text-align:right;
+	width: 50%;
+	margin-left: 20px;
+}
+
+
+#first-name, #last-name, #con-address,
+#con-number, #con-email {
+	width: 100%;
+	border: none;
+	border-bottom: 1px solid #a8a8a8;
+	margin-bottom: 10px;
+	color: black !important;
+	background: transparent;
+}
+
+#con-comment {
+	width: 100%;
+	border: 1px solid #a8a8a8;
+	margin-bottom: 20px;
+	height: 240px;
+}
+
+#con-button {
+	margin-right: -20px;
+	margin-left: 25px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background: #555;
+	color: #fff;
+	border: none;
+	margin-top: 10px;
+	transition: all .25s ease;
+}
+
+#con-button:hover {
+	background-color: white  !important;
+	color: black;
+	text-decoration:none;
+	border: 1px solid #555;
+}
+
+.con-label {
+	font-size: 12px;
+	color: #000000;
+}
+
+::placeholder { 
+   color:rgba(0,0,0,0.9); 
+}
+::-webkit-input-placeholder { /* WebKit browsers */
+   color:rgba(0,0,0,0.9) !important; 
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:rgba(0,0,0,0.9) !important; 
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:rgba(0,0,0,0.9) !important; 
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+   color:rgba(0,0,0,0.9) !important; 
+}
+
+
+div.wpcf7-response-output, div.wpcf7-validation-errors { display: none !important; }
+span .wpcf7-not-valid {
+    border: 1px solid #ff0000 !important;
+}
+
+/*-- Contact Form Thank you --*/
+#thankyou, #thankyou2, #thankyou3  {
+	display: none;
+}
+
+
+/*------------------------------------------------*/
+/*----------------------[MAP]---------------------*/
+/*------------------------------------------------*/
+
+.et_pb_map {
+height: 300px!important;
+}
+
+
+/*------------------------------------------------*/
+/*---------------------[FOOTER]-------------------*/
+/*------------------------------------------------*/
+
+#footer-widgets {
+	padding-bottom: 0px}
+
+/*Footer Contact Button*/
+.button1 {
+    background-color: #6b6b6b; 
+    border: none;
+    color: white !important;
+    padding: 12px 12px;
+    text-align: center;
+    font-size: 12px !important;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.footer_harvie {
+	margin-top: 6px;
+}
+
+/*Footer Widget Area*/
+.footer_container{  
+	width:100%;
+  	position:absolute;	
+	text-align: justify;
+}
+
+.left_footer {
+    float: left;
+	max-width: 340px;	
+	margin-right: 30px;
+}
+
+.right_footer {
+    float:right;
+    text-align: right;
+}
+
+
+#footer-widgets {
+	padding-top: 45px !important;
+}
+
+.et_pb_widget div 
+ {
+	line-height: 1em !important;
+}
+/* Facebook */
+a.icon {
+width: 30px;
+  	height: 30px;
+  	border-radius: 50%;
+	background: #fff;
+	padding-top: 6px;
+	margin-top: -6px;
+	color: #000 !important;
+	font-size: 18px;
+	z-index: 200;
+}
+
+/*------------------------------------------------*/
+/*--------------------[SIDEBAR]-------------------*/
+/*------------------------------------------------*/
+
+/*** Hide sidebar Start
+Take out the divider line between content and sidebar ***/
+
+/* Hide divider line */
+#main-content .container:before {background: none;}
+ 
+#sidebar {display:none;}
+/*** Hide Sidebar End ***/
+
+/*------------------------------------------------*/
+/*------------[CAPTIONS AND ALIGNMENTS]-----------*/
+/*------------------------------------------------*/
+
+blockquote {
+	border:none;
+	position: relative;  
+	margin: 0 0 0 0;
+    padding-left: 20px; 
+	padding-right: 20px; 
+}
+
+blockquote :before { 
+    content: "\201C";
+    font-weight: bold;
+    font-size:30px;
+    color:#000;
+    position: absolute; 
+    top: -0.2em;
+    left: -10px; 
+} 
+
+blockquote :after { 
+    content: "\201D";
+    font-weight: bold;
+    font-size:30px;
+    color:#000;
+    position: absolute; 
+    top: -0.2em;
+    right: -10px; 
+}
+
+
+/*------------------------------------------------*/
+/*--------------------[SLIDER]--------------------*/
+/*------------------------------------------------*/
+
+/*Why Us Slider */ 
+
+.flex-viewport {  
+	width: 80%;
+    max-width: 1080px;
+	margin: 0;
+	position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, 0)
+}
+
+.flex-direction-nav a { height:50px !important; width:48px !important;
+	  }
+
+.flex-next  {	right: 20px !important; opacity: 1 !important; 
+}
+
+.flex-prev { left: 20px !important; opacity: 1 !important; }
+
+/* Team Member and Property Card Hover Overlay*/
+
+.metaslider li:hover, .epl-property-blog.project-card:hover {
+  	opacity: 0.5;
+	transition: all 1s;
+    -webkit-transition: all 1s;
+} 
+
+/*------------------------------------------------*/
+/*------------------[TRANSITIONS]-----------------*/
+/*------------------------------------------------*/
+
+
+
+/*------------------------------------------------*/
+/*---------------[RESPONSIVE LAYOUTS]-------------*/
+/*------------------------------------------------*/
+
+@media only screen and ( min-width: 981px ) {
+
+  #main-content { /*min-height: 600px; */ 
+  		
+		min-height: calc(100vh - 305px);
+		min-height: -o-calc(100vh - 305px); 
+		min-height: -webkit-calc(100vh - 305px); 
+		min-height: -moz-calc(100vh - 305px); 
+}
+  
+  	#left-area {
+    	width: 100%;
+    	padding: 0px 0px 0px !important;
+    	float: none !important;
+	}
+
+
+/*
+	#post-1440 .epl-search-form,
+	#post-11 .epl-search-form {
+		padding-top: 50px;
+		padding-bottom: 20px;
+	}  */
+}
+
+@media only screen and (max-width: 980px) {
+
+.harvie-search-text.et_pb_text_0, 
+.harvie-search-text2.et_pb_text_0  {
+	margin-top: 0px;
+	margin-bottom: 20px !important;
+}
+
+
+body  .epl-search-form {
+	padding: 15px 10px;
+	padding-bottom: 50px;
+	text-align: center;
+	
+}
+
+.harvie-search .epl-post_type, .harvie-search .epl-property_address, .harvie-search .epl-search-custom-size, .harvie-search .epl-property_category, .harvie-search .epl-property_carport {
+	width: 100% !important;
+	margin-top: 10px; 
+}
+
+#property_address {
+	text-align: center;
+	margin-top: 10px; 
+}
+
+.harvie-search .epl-property_price_from, 
+.harvie-search .epl-property_price_to, .harvie-search .epl-property_bedrooms_min,
+.harvie-search .epl-property_bathrooms {
+	width: 50% !important;
+	margin-top: 10px;
+}
+
+.harvie-search .epl-search-btn { 	
+	margin-top: 5px;
+}
+
+	.footer_msg, .footer_contact {
+		display: none;
+	}  
+
+	#footer-bottom {
+		height: 30px;
+	}
+  
+ 
+.et_pb_column.project-custom-column-1-in-3 {
+    width: 50% !important;
+}
+  
+}
+
+
+@media only screen and ( max-width: 767px ) {
+
+}
+
+@media only screen and ( max-width: 530px){
+ .et_pb_column.project-custom-column-1-in-3 {
+    width: 100% !important;
+}
+}
+
+@media only screen and ( max-width: 480px ) {
+
+	.harvie-form {
+		margin-top: 40px;
+  		display: block;       
+	}
+
+	.form-left, .form-right {
+		width: 80%;
+		margin-left:10%;
+		margin-bottom: 20px;
+	}  
+  
+	.footer_tc, .footer_priv {
+		display: none;
+	}
+   
+    .flex-next {
+      right: 0px !important;
+  }
+
+  .flex-prev {
+      left: 0px !important;
+  }
+    
+}</style>
+<!-- end Simple Custom CSS and JS -->
