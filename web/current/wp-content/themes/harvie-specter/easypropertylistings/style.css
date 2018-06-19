@@ -1,0 +1,12 @@
+.select2-container.in-field.field-width {
+	padding-top: 0px;
+}
+button.more-options.btn {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
+
