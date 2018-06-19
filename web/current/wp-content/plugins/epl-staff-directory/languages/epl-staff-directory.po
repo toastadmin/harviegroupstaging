@@ -1,0 +1,683 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EPL - Staff Directory 2.3\n"
+"POT-Creation-Date: 2017-02-01 10:24+0800\n"
+"PO-Revision-Date: 2017-02-01 10:24+0800\n"
+"Last-Translator: Merv Barrett <support@realestateconnected.com.au>\n"
+"Language-Team: Easy Property Listings <support@easypropertylistings.com.au>\n"
+"Language: en_AU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: epl-staff-directory.php:99
+msgid ""
+"Please activate <b>Easy Property Listings</b> to enable all functions of EPL "
+"- Staff Directory"
+msgstr ""
+
+#: includes/admin-functions.php:32 includes/admin-functions.php:104
+#: includes/post-type-directory.php:26
+msgid "Staff Directory"
+msgstr ""
+
+#: includes/admin-functions.php:36
+msgid "List"
+msgstr ""
+
+#: includes/admin-functions.php:37
+msgid "Grid"
+msgstr ""
+
+#: includes/admin-functions.php:47
+msgid "Settings"
+msgstr ""
+
+#: includes/admin-functions.php:52
+msgid "Staff Directory Post Slug"
+msgstr ""
+
+#: includes/admin-functions.php:54
+msgid ""
+"This is the custom post type slug which forms your page URL eg: /directory/. "
+"Note: Make sure you re-save your WordPress permalinks after changing this to "
+"avoid \"not found\" errors. Visit Dashboard > Settings > Permalinks and "
+"press Save Changes."
+msgstr ""
+
+#: includes/admin-functions.php:55 includes/install.php:27
+#: includes/install.php:75
+msgid "Directory"
+msgstr ""
+
+#: includes/admin-functions.php:62 includes/admin-functions.php:126
+msgid "Author Box"
+msgstr ""
+
+#: includes/admin-functions.php:67
+msgid "Box Style"
+msgstr ""
+
+#: includes/admin-functions.php:70
+msgid "Tabbed"
+msgstr ""
+
+#: includes/admin-functions.php:71 includes/meta-boxes-directory.php:87
+msgid "Bio"
+msgstr ""
+
+#: includes/admin-functions.php:77
+msgid "Read More Label"
+msgstr ""
+
+#: includes/admin-functions.php:83
+msgid "Image Type"
+msgstr ""
+
+#: includes/admin-functions.php:86
+msgid "Use Gravatar Image"
+msgstr ""
+
+#: includes/admin-functions.php:87
+msgid "Use Staff Directory Image"
+msgstr ""
+
+#: includes/admin-functions.php:93
+msgid "Image Size in Advanced Author Box"
+msgstr ""
+
+#: includes/admin-functions.php:100
+msgid "Author should link to"
+msgstr ""
+
+#: includes/admin-functions.php:103
+msgid "Author Profile"
+msgstr ""
+
+#: includes/admin-functions.php:110
+msgid "Number of recent listings in tab"
+msgstr ""
+
+#: includes/admin-functions.php:119
+msgid "Single"
+msgstr ""
+
+#: includes/admin-functions.php:123 includes/admin-functions.php:205
+msgid "Page Style"
+msgstr ""
+
+#: includes/admin-functions.php:127
+msgid "Big Image"
+msgstr ""
+
+#: includes/admin-functions.php:133
+msgid "Number of Listings"
+msgstr ""
+
+#: includes/admin-functions.php:136
+msgid "Number of listings displayed for each staff member."
+msgstr ""
+
+#: includes/admin-functions.php:141
+msgid "Listing Template"
+msgstr ""
+
+#: includes/admin-functions.php:144
+msgid "Card"
+msgstr ""
+
+#: includes/admin-functions.php:145
+msgid "Blog"
+msgstr ""
+
+#: includes/admin-functions.php:146
+msgid "Slim"
+msgstr ""
+
+#: includes/admin-functions.php:147
+msgid "Table"
+msgstr ""
+
+#: includes/admin-functions.php:148
+msgid "Table Open"
+msgstr ""
+
+#: includes/admin-functions.php:150
+msgid "template used to display staff listings"
+msgstr ""
+
+#: includes/admin-functions.php:154
+msgid "Show sold/leased"
+msgstr ""
+
+#: includes/admin-functions.php:157 includes/admin-functions.php:176
+#: includes/admin-functions.php:237 includes/admin-functions.php:246
+#: includes/admin-functions.php:255 includes/admin-functions.php:264
+#: includes/meta-boxes-directory.php:41
+msgid "Yes"
+msgstr ""
+
+#: includes/admin-functions.php:158 includes/admin-functions.php:177
+#: includes/admin-functions.php:238 includes/admin-functions.php:247
+#: includes/admin-functions.php:256 includes/admin-functions.php:265
+msgid "No"
+msgstr ""
+
+#: includes/admin-functions.php:165
+msgid "Number of Sold/Leased Listings"
+msgstr ""
+
+#: includes/admin-functions.php:168
+msgid "Number of sold/leased listings displayed for each staff member."
+msgstr ""
+
+#: includes/admin-functions.php:173
+msgid "Show recent posts on staff directory"
+msgstr ""
+
+#: includes/admin-functions.php:184
+msgid "Number of blog posts"
+msgstr ""
+
+#: includes/admin-functions.php:187
+msgid "Number of blog posts displayed for each staff member."
+msgstr ""
+
+#: includes/admin-functions.php:194
+msgid "Archives"
+msgstr ""
+
+#: includes/admin-functions.php:198
+msgid "Staff members per page"
+msgstr ""
+
+#: includes/admin-functions.php:200
+msgid "Leave blank for WordPress default."
+msgstr ""
+
+#: includes/admin-functions.php:212
+msgid "Number of Columns in Grid"
+msgstr ""
+
+#: includes/admin-functions.php:219
+msgid "Image Size on Archive Page"
+msgstr ""
+
+#: includes/admin-functions.php:225
+msgid "Excerpt"
+msgstr ""
+
+#: includes/admin-functions.php:228
+msgid "No Excerpt"
+msgstr ""
+
+#: includes/admin-functions.php:229
+msgid "Display Excerpt"
+msgstr ""
+
+#: includes/admin-functions.php:234
+msgid "Show Position"
+msgstr ""
+
+#: includes/admin-functions.php:243
+msgid "Show Mobile"
+msgstr ""
+
+#: includes/admin-functions.php:252
+msgid "Show Icons"
+msgstr ""
+
+#: includes/admin-functions.php:261
+msgid "Show Vcard"
+msgstr ""
+
+#: includes/admin-functions.php:334
+msgid "Office Phone"
+msgstr ""
+
+#: includes/admin-functions.php:347
+msgid "Location"
+msgstr ""
+
+#: includes/admin-functions.php:351
+msgid "Image"
+msgstr ""
+
+#: includes/admin-functions.php:352
+msgid "Name"
+msgstr ""
+
+#: includes/admin-functions.php:353
+msgid "Details"
+msgstr ""
+
+#: includes/admin-functions.php:355
+msgid "Linked Author"
+msgstr ""
+
+#: includes/admin-functions.php:356 includes/tax-department.php:22
+#: includes/tax-department.php:23
+msgid "Department"
+msgstr ""
+
+#: includes/admin-functions.php:358
+msgid "Order"
+msgstr ""
+
+#: includes/admin-functions.php:359
+msgid "<span title=\"Comments\" class=\"comment-grey-bubble\"></span>"
+msgstr ""
+
+#: includes/admin-functions.php:360
+msgid "Date"
+msgstr ""
+
+#: includes/admin-functions.php:410
+msgid "Leased"
+msgstr ""
+
+#: includes/admin-functions.php:415
+msgid "Current"
+msgstr ""
+
+#: includes/admin-functions.php:420
+msgid "Sold"
+msgstr ""
+
+#: includes/admin-functions.php:425
+msgid "Withdrawn"
+msgstr ""
+
+#: includes/admin-functions.php:430
+msgid "Off Market"
+msgstr ""
+
+#: includes/admin-functions.php:462
+msgid "No Department Set"
+msgstr ""
+
+#: includes/admin-functions.php:484
+msgid "No Suburb Set"
+msgstr ""
+
+#: includes/admin-functions.php:514 includes/meta-boxes-directory.php:84
+#: templates/content/author-meta.php:27
+msgid "Email"
+msgstr ""
+
+#: includes/install.php:29 includes/install.php:77
+#: includes/template-functions.php:500
+#: templates/content/widget-staff-directory-author.php:79
+msgid "Read More"
+msgstr ""
+
+#: includes/meta-boxes-directory.php:27
+msgid "Contact Details"
+msgstr ""
+
+#: includes/meta-boxes-directory.php:38
+msgid "Staff Section"
+msgstr ""
+
+#: includes/meta-boxes-directory.php:43
+msgid "Enable this to create a section"
+msgstr ""
+
+#: includes/meta-boxes-directory.php:68
+msgid "Linked Author Details"
+msgstr ""
+
+#: includes/meta-boxes-directory.php:83
+#: templates/content/content-directory-box-simple-card.php:50
+#: templates/content/content-directory-box-simple-grav.php:34
+#: templates/content/content-directory-single-big-image.php:43
+#: templates/content/widget-staff-directory-author.php:45
+msgid "Mobile"
+msgstr ""
+
+#: includes/meta-boxes-directory.php:85
+msgid "Position"
+msgstr ""
+
+#: includes/meta-boxes-directory.php:86
+msgid "Slogan"
+msgstr ""
+
+#: includes/meta-boxes-directory.php:88
+msgid "Video"
+msgstr ""
+
+#: includes/meta-boxes-directory.php:89 templates/content/author-meta.php:39
+msgid "Facebook"
+msgstr ""
+
+#: includes/meta-boxes-directory.php:90
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/meta-boxes-directory.php:91 includes/meta-boxes-directory.php:94
+#: templates/content/author-meta.php:35
+msgid "Google"
+msgstr ""
+
+#: includes/meta-boxes-directory.php:92 templates/content/author-meta.php:31
+msgid "Twitter"
+msgstr ""
+
+#: includes/meta-boxes-directory.php:93 templates/content/author-meta.php:47
+msgid "Skype"
+msgstr ""
+
+#: includes/meta-boxes-directory.php:101
+msgid "Edit User"
+msgstr ""
+
+#: includes/post-type-directory.php:27 includes/post-type-directory.php:28
+msgid "Staff"
+msgstr ""
+
+#: includes/post-type-directory.php:29
+msgid "Add New"
+msgstr ""
+
+#: includes/post-type-directory.php:30
+msgid "Add New Staff Member"
+msgstr ""
+
+#: includes/post-type-directory.php:31
+msgid "Edit Staff Member"
+msgstr ""
+
+#: includes/post-type-directory.php:32
+msgid "New Staff Member"
+msgstr ""
+
+#: includes/post-type-directory.php:33
+msgid "Update Staff Member"
+msgstr ""
+
+#: includes/post-type-directory.php:34
+msgid "All Staff Members"
+msgstr ""
+
+#: includes/post-type-directory.php:35
+msgid "View Staff Member"
+msgstr ""
+
+#: includes/post-type-directory.php:36
+msgid "Search Staff Member"
+msgstr ""
+
+#: includes/post-type-directory.php:37
+msgid "Staff Member Not Found"
+msgstr ""
+
+#: includes/post-type-directory.php:38
+msgid "Staff Member Not Found in Trash"
+msgstr ""
+
+#: includes/post-type-directory.php:39
+msgid "Parent Staff Member:"
+msgstr ""
+
+#: includes/tax-department.php:24
+msgid "Departments"
+msgstr ""
+
+#: includes/tax-department.php:25
+msgid "All Departments"
+msgstr ""
+
+#: includes/tax-department.php:26
+msgid "Parent Department"
+msgstr ""
+
+#: includes/tax-department.php:27
+msgid "Parent Department:"
+msgstr ""
+
+#: includes/tax-department.php:28
+msgid "New Department Name"
+msgstr ""
+
+#: includes/tax-department.php:29
+msgid "Add New Department"
+msgstr ""
+
+#: includes/tax-department.php:30
+msgid "Edit Department"
+msgstr ""
+
+#: includes/tax-department.php:31
+msgid "Update Department"
+msgstr ""
+
+#: includes/tax-department.php:32
+msgid "Separate Department with commas"
+msgstr ""
+
+#: includes/tax-department.php:33
+msgid "Search Department"
+msgstr ""
+
+#: includes/tax-department.php:34
+msgid "Add or remove Department"
+msgstr ""
+
+#: includes/tax-department.php:35
+msgid "Choose from the most used Department"
+msgstr ""
+
+#: includes/tax-department.php:36
+msgid "Department Not Found"
+msgstr ""
+
+#: includes/template-functions.php:185
+msgid "Recent Listings"
+msgstr ""
+
+#: includes/template-functions.php:186
+msgid "Client Feedback"
+msgstr ""
+
+#: includes/template-functions.php:377
+msgid "Read More &rarr;"
+msgstr ""
+
+#: includes/template-functions.php:645
+msgid "Latest Updates"
+msgstr ""
+
+#: includes/template-functions.php:912 includes/widget-search-agent-hook.php:23
+msgid "Agent"
+msgstr ""
+
+#: includes/widget-advanced-author.php:24
+msgid "EPL - Staff Directory Author"
+msgstr ""
+
+#: includes/widget-advanced-author.php:25
+msgid "Display Staff Author"
+msgstr ""
+
+#: includes/widget-advanced-author.php:92
+msgid "Title:"
+msgstr ""
+
+#: includes/widget-advanced-author.php:97
+msgid "Image Size"
+msgstr ""
+
+#: includes/widget-advanced-author.php:111
+msgid "Display Author Image"
+msgstr ""
+
+#: includes/widget-advanced-author.php:116
+msgid "Display Icons"
+msgstr ""
+
+#: includes/widget-advanced-author.php:121
+msgid "Display Bio"
+msgstr ""
+
+#: includes/widget-advanced-author.php:126
+msgid "Display Vcard"
+msgstr ""
+
+#: templates/content/author-meta.php:27
+msgid "Contact"
+msgstr ""
+
+#: templates/content/author-meta.php:27
+msgid "by Email"
+msgstr ""
+
+#: templates/content/author-meta.php:31 templates/content/author-meta.php:35
+#: templates/content/author-meta.php:39 templates/content/author-meta.php:43
+#: templates/content/author-meta.php:47
+msgid "Follow"
+msgstr ""
+
+#: templates/content/author-meta.php:31
+msgid "on Twitter"
+msgstr ""
+
+#: templates/content/author-meta.php:35
+msgid "on Google"
+msgstr ""
+
+#: templates/content/author-meta.php:39
+msgid "on Facebook"
+msgstr ""
+
+#: templates/content/author-meta.php:43
+msgid "on Linkedin"
+msgstr ""
+
+#: templates/content/author-meta.php:43
+msgid "Linkedin"
+msgstr ""
+
+#: templates/content/author-meta.php:47
+msgid "on Skype"
+msgstr ""
+
+#: templates/content/content-directory-box-simple-card.php:68
+#: templates/content/content-directory-box-simple-grav.php:52
+#: templates/content/widget-staff-directory-author.php:66
+msgid "Download Vcard"
+msgstr ""
+
+#: templates/content/content-directory-single-big-image.php:77
+#: templates/content/content-directory-single.php:51
+msgid "Pages:"
+msgstr ""
+
+#: templates/content/content-directory-single-big-image.php:80
+#: templates/content/content-directory-single.php:54
+msgid "Edit this entry."
+msgstr ""
+
+#: templates/content/shortcode-directory.php:41
+msgid "Nothing found, please check back later."
+msgstr ""
+
+#: templates/depreciated-post-types/default/archive-directory.php:21
+#: templates/depreciated-post-types/genesis/author.php:49
+#: templates/depreciated-post-types/ithemes-builder/archive-directory.php:22
+msgid "Archive"
+msgstr ""
+
+#: templates/depreciated-post-types/default/archive-directory.php:62
+#: templates/depreciated-post-types/genesis/author.php:109
+#: templates/depreciated-post-types/ithemes-builder/archive-directory.php:64
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: templates/depreciated-post-types/default/archive-directory.php:63
+#: templates/depreciated-post-types/genesis/author.php:110
+#: templates/depreciated-post-types/ithemes-builder/archive-directory.php:65
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: templates/depreciated-post-types/genesis/archive-directory.php:39
+#, php-format
+msgid "Property in %s"
+msgstr ""
+
+#: templates/depreciated-post-types/genesis/archive-directory.php:42
+msgid "Search Result"
+msgstr ""
+
+#: templates/depreciated-post-types/genesis/archive-directory.php:50
+msgid "Listing"
+msgstr ""
+
+#: templates/depreciated-post-types/genesis/archive-directory.php:99
+msgid "Listing not Found"
+msgstr ""
+
+#: templates/depreciated-post-types/genesis/archive-directory.php:103
+msgid "Listing not found, expand your search criteria and try again."
+msgstr ""
+
+#: templates/depreciated-post-types/genesis/author.php:22
+#: templates/depreciated-post-types/genesis/author.php:25
+#: templates/depreciated-post-types/genesis/author.php:28
+#: templates/depreciated-post-types/genesis/author.php:37
+#: templates/depreciated-post-types/genesis/author.php:40
+#: templates/depreciated-post-types/genesis/author.php:43
+#: templates/depreciated-post-types/ithemes-builder/archive-directory.php:16
+#, php-format
+msgid "Archive for %s"
+msgstr ""
+
+#: templates/depreciated-post-types/genesis/author.php:34
+#, php-format
+msgid "Author Archive for %s"
+msgstr ""
+
+#: templates/depreciated-post-types/genesis/author.php:46
+msgid "Time Archive"
+msgstr ""
+
+#: templates/depreciated-post-types/genesis/author.php:72
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: templates/depreciated-post-types/genesis/author.php:73
+#: templates/depreciated-post-types/genesis/author.php:92
+#, php-format
+msgid "Comments %s"
+msgstr ""
+
+#: templates/depreciated-post-types/genesis/author.php:73
+#: templates/depreciated-post-types/genesis/author.php:92
+msgid "(0)"
+msgstr ""
+
+#: templates/depreciated-post-types/genesis/author.php:73
+#: templates/depreciated-post-types/genesis/author.php:92
+msgid "(1)"
+msgstr ""
+
+#: templates/depreciated-post-types/genesis/author.php:73
+#: templates/depreciated-post-types/genesis/author.php:92
+msgid "(%)"
+msgstr ""
+
+#: templates/depreciated-post-types/genesis/author.php:94
+#, php-format
+msgid "Categories : %s"
+msgstr ""
+
+#: templates/depreciated-post-types/genesis/author.php:95
+msgid "Tags : "
+msgstr ""

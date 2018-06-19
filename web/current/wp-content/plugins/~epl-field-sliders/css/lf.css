@@ -1,0 +1,76 @@
+.epl-search-form.epl-lf-search-form-container{
+	display:block!important;
+	width:auto!important;
+}
+.epl-lf-search-forms-wrapper {
+    max-width: none !important;
+}
+
+.epl-lf-search-forms-wrapper .epl-search-submit-row{
+	float:none;
+	 display:none;
+}
+.epl-lf-search-form > div:not(.epl-lf-range-slider) , .epl-lf-search-form > div:not(.epl-search-row.epl-search-land-area),  .epl-lf-search-form > div:not(.epl-search-row.epl-search-building-area) {
+    width: 30.3% !important;
+    min-width:200px;
+
+}
+.blockDiv {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #FFF;
+  width: 0px;
+  height: 0px;
+  z-index: 10;
+
+}
+.epl-lf-range-slider {
+    padding: 0 5px;
+    position: relative;
+    vertical-align: top;
+}
+#epl_lp_property_price, #epl_lp_property_price_rental,
+#epl_mobile_lp_property_price, #epl_mobile_lp_property_price_rental{
+    background: #bababa none repeat scroll 0 0 !important;
+    border: medium none;
+    box-shadow: none;
+    height: 3px;
+}
+#epl_lp_property_price .ui-slider-range, #epl_lp_property_price_rental .ui-slider-range,
+ #epl_mobile_lp_property_price .ui-slider-range, #epl_mobile_lp_property_price_rental .ui-slider-range{
+    background: #bfa249 none repeat scroll 0 0;
+    border: medium none;
+    box-shadow: none;
+    height: 3px;
+}
+#epl_lp_property_price .ui-slider-handle, #epl_lp_property_price_rental .ui-slider-handle,
+#epl_mobile_lp_property_price .ui-slider-handle, #epl_mobile_lp_property_price_rental .ui-slider-handle
+ {
+    background: #bfa249 none repeat scroll 0 0;
+    border: 1px solid #bfa249;
+    box-shadow: 0 0 0 1px #ffffff inset;
+    cursor: default;
+    display: block;
+    height: 12px;
+    position: absolute;
+    width: 12px;
+    border-radius: 0;
+}
+#label_epl_lp_property_price, #label_epl_lp_property_price_rental,
+#label_epl_mobile_lp_property_price, #label_epl_mobile_lp_property_price_rental {
+    box-sizing: border-box;
+    display: block;
+    position: absolute;
+    right: 3px;
+    text-align: center;
+    width: 100%;
+    line-height: 1.3;
+}
+#label_epl_lp_property_price_rental .epl-lf-label-txt:after,
+#label_epl_mobile_lp_property_price_rental .epl-lf-label-txt:after {
+	content: "+";
+}
+.epl_lp_property_price_rental_wrap {
+    display: none;
+}

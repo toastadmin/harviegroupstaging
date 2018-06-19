@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EPL - Listing Templates 2.2.3\n"
+"POT-Creation-Date: 2017-02-15 12:16+0800\n"
+"PO-Revision-Date: 2017-02-15 12:16+0800\n"
+"Last-Translator: Merv Barrett <support@realestateconnected.com.au>\n"
+"Language-Team: Easy Property Listings <support@easypropertylistings.com.au>\n"
+"Language: en_AU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: epl-listing-templates.php:97
+msgid ""
+"Please activate <b>Easy Property Listings</b> to enable all functions of EPL "
+"- Listing Templates"
+msgstr ""
+
+#: includes/admin-functions.php:24
+msgid "Listing Templates"
+msgstr ""
+
+#: includes/admin-functions.php:29
+msgid "Single"
+msgstr ""
+
+#: includes/admin-functions.php:34
+msgid "Single Listing Template: Featured Image"
+msgstr ""
+
+#: includes/admin-functions.php:37 includes/admin-functions.php:47
+#: includes/admin-functions.php:71 includes/admin-functions.php:82
+msgid "Enable"
+msgstr ""
+
+#: includes/admin-functions.php:38 includes/admin-functions.php:48
+#: includes/admin-functions.php:72 includes/admin-functions.php:83
+msgid "Disable"
+msgstr ""
+
+#: includes/admin-functions.php:44
+msgid "Author Box: Display the Real Estate agent or Property Manager title"
+msgstr ""
+
+#: includes/admin-functions.php:54
+msgid "Single Listing Template"
+msgstr ""
+
+#: includes/admin-functions.php:63
+msgid "Archives"
+msgstr ""
+
+#: includes/admin-functions.php:68
+msgid "Masonry Effect?"
+msgstr ""
+
+#: includes/admin-functions.php:74
+msgid ""
+"Enable jQuery masonry effect when using grid view on listing archive pages."
+msgstr ""
+
+#: includes/admin-functions.php:79
+msgid "Grid/List View"
+msgstr ""
+
+#: includes/admin-functions.php:86
+msgid "Show or hide the grid/list view option on listing archive pages."
+msgstr ""
+
+#: includes/admin-functions.php:91
+msgid "Read More label"
+msgstr ""
+
+#: includes/admin-functions.php:93 includes/template-functions.php:286
+msgid "View &raquo;"
+msgstr ""
+
+#: includes/admin-functions.php:94
+msgid "Customise the Read More label on some templates."
+msgstr ""
+
+#: includes/admin-functions.php:99
+msgid "Loop Listing Template"
+msgstr ""
+
+#: includes/admin-functions.php:123
+msgid "Listing Template Manager license key"
+msgstr ""
+
+#: includes/admin-functions.php:188
+#, php-format
+msgid ""
+"Listing Templates: Legacy Styles currently enabled, disable for best "
+"results. Visit <a href=\"%s\">Advanced Settings</a>."
+msgstr ""
+
+#: includes/template-functions.php:72
+msgid "Coming soon"
+msgstr ""
+
+#: includes/template-functions.php:230
+#: templates/content/content-listing-single-10-circle-author.php:117
+#: templates/content/content-listing-single-4-2col.php:60
+msgid "Property Manager"
+msgstr ""
+
+#: includes/template-functions.php:232
+#: templates/content/content-listing-single-10-circle-author.php:110
+#: templates/content/content-listing-single-4-2col.php:53
+msgid "Real Estate Agent"
+msgstr ""
+
+#: templates/content/content-listing-single-1-condensed.php:83
+#: templates/content/content-listing-single-10-circle-author.php:128
+#: templates/content/content-listing-single-11-text-two-columns.php:75
+#: templates/content/content-listing-single-3-2col-no-pic.php:50
+#: templates/content/content-listing-single-4-2col.php:75
+#: templates/content/content-listing-single-5-project.php:55
+#: templates/content/content-listing-single-6-2col-option-2.php:64
+#: templates/content/content-listing-single-7-2col-option-3.php:81
+#: templates/content/content-listing-single-8-heading-top.php:80
+#: templates/content/content-listing-single-9-split.php:111
+msgid "Pages:"
+msgstr ""
+
+#: templates/content/other/loop-listing-blog-lux.php:51
+msgid "See More"
+msgstr ""

@@ -1,0 +1,50 @@
+/**
+ * EPL Location Profiles Admin CSS
+ *
+ * @package     EPL-LOCATION-PROFILES
+ * @since	2.3
+ * @subpackage  CSS/Admin
+ * @copyright   Copyright (c) 2016, Merv Barrett
+ * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+ */
+
+/* Post Type List Admin Columns */
+.epl-admin-page.post-type-location_profile {
+
+}
+.epl-admin-page.post-type-location_profile .column-cb,
+.epl-admin-page.post-type-location_profile .column-title,
+.epl-admin-page.post-type-location_profile .column-thumb,
+.epl-admin-page.post-type-location_profile .column-details,
+.epl-admin-page.post-type-location_profile .column-author,
+.epl-admin-page.post-type-location_profile .column-department,
+.epl-admin-page.post-type-location_profile .column-suburb,
+.epl-admin-page.post-type-location_profile .column-order,
+.epl-admin-page.post-type-location_profile .column-comments,
+.epl-admin-page.post-type-location_profile .column-date {
+
+}
+.epl-admin-page.post-type-location_profile .column-thumb img {
+	max-width: 100%;
+	height: auto;
+}
+/* Responsive */
+@media screen and (max-width: 782px) {
+
+	.epl-admin-page.post-type-location_profile .column-thumb,
+	.epl-admin-page.post-type-location_profile .column-details,
+	.epl-admin-page.post-type-location_profile .column-author,
+	.epl-admin-page.post-type-location_profile .column-department,
+	.epl-admin-page.post-type-location_profile .column-suburb,
+	.epl-admin-page.post-type-location_profile .column-order,
+	.epl-admin-page.post-type-location_profile .column-comments,
+	.epl-admin-page.post-type-location_profile .column-date {
+		display: none;
+	}
+	.epl-admin-page.post-type-location_profile .column-thumb {
+		display: none !important;
+	}
+	.epl-admin-page.post-type-location_profile .column-thumb[data-colname="Image"] {
+		color: transparent;
+	}
+}

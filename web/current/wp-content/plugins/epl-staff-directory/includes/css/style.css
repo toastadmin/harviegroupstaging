@@ -1,0 +1,13 @@
+/**
+ * EPL Staff Directory CSS
+ *
+ * @package     EPL-STAFF-DIRECTORY
+ * @since	2.3
+ * @subpackage  CSS
+ * @copyright   Copyright (c) 2014, Merv Barrett
+ * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+ */
+
+.epl-author-section-header {
+	width: 100% !important;
+}

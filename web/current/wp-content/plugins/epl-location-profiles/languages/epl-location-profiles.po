@@ -1,0 +1,485 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EPL - Location Profiles 2.3\n"
+"POT-Creation-Date: 2017-02-02 13:03+0800\n"
+"PO-Revision-Date: 2017-02-02 13:03+0800\n"
+"Last-Translator: Merv Barrett <support@realestateconnected.com.au>\n"
+"Language-Team: Easy Property Listings <support@easypropertylistings.com.au>\n"
+"Language: en_AU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_ex\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: epl-location-profiles.php:99
+msgid ""
+"Please activate <b>Easy Property Listings</b> to enable all functions of EPL "
+"- Location Profiles"
+msgstr ""
+
+#: includes/admin-functions.php:44 includes/admin-functions.php:329
+msgid "Location Profiles"
+msgstr ""
+
+#: includes/admin-functions.php:53
+msgid "Settings"
+msgstr ""
+
+#: includes/admin-functions.php:58
+msgid "Location Profile Post Type Name"
+msgstr ""
+
+#: includes/admin-functions.php:60
+msgid ""
+"This is the custom post type slug which forms your page URL. Note: Make sure "
+"you re-save your WordPress permalinks after changing this to avoid \"not "
+"found\" errors. Visit Dashboard > Settings > Permalinks and press Save "
+"Changes. Use a singular term e.g <strong>Suburb Profile</strong>, instead of "
+"Suburb Profile<strong>s</strong>. Default is <strong>Location Profile</"
+"strong>."
+msgstr ""
+
+#: includes/admin-functions.php:64
+msgid "Tabs Orientation"
+msgstr ""
+
+#: includes/admin-functions.php:67
+msgid "Vertical"
+msgstr ""
+
+#: includes/admin-functions.php:68
+msgid "Horizontal"
+msgstr ""
+
+#: includes/admin-functions.php:76
+msgid "List Labels"
+msgstr ""
+
+#: includes/admin-functions.php:82
+msgid ""
+"The settings below adjust the basic configuration options for the slider "
+"display. Enter the labels of the list items that appear on the first tab of "
+"the location profile box These can give a quick overview of key things about "
+"a location. They will appear when editing a location profile and will appear "
+"in-front of the value in the list. E.g. Population: 2,400"
+msgstr ""
+
+#: includes/admin-functions.php:88
+msgid "Bullet List Tab Label"
+msgstr ""
+
+#: includes/admin-functions.php:90
+msgid "E.g.: Fast Facts"
+msgstr ""
+
+#: includes/admin-functions.php:95
+msgid "Bullet List Name 1"
+msgstr ""
+
+#: includes/admin-functions.php:97
+msgid "E.g.: Number of properties"
+msgstr ""
+
+#: includes/admin-functions.php:102
+msgid "Bullet List Name 2"
+msgstr ""
+
+#: includes/admin-functions.php:104
+msgid "E.g.: Growth Rate"
+msgstr ""
+
+#: includes/admin-functions.php:109
+msgid "Bullet List Name 3"
+msgstr ""
+
+#: includes/admin-functions.php:111
+msgid "E.g.: Number of schools"
+msgstr ""
+
+#: includes/admin-functions.php:116
+msgid "Bullet List Name 4"
+msgstr ""
+
+#: includes/admin-functions.php:118
+msgid "E.g.: Population"
+msgstr ""
+
+#: includes/admin-functions.php:123
+msgid "Bullet List Name 5"
+msgstr ""
+
+#: includes/admin-functions.php:125
+msgid "E.g.: Investment type"
+msgstr ""
+
+#: includes/admin-functions.php:131
+msgid "Tab Box Labels"
+msgstr ""
+
+#: includes/admin-functions.php:137
+msgid ""
+"These will display when editing and viewing a location profile. Also these "
+"are the labels that will appear in the location profile tabbed box which "
+"when linked by the location will appear on listings that have a matching "
+"location. When editing a location profile each tab box works like the "
+"WordPress editor so you can put text, images and links."
+msgstr ""
+
+#: includes/admin-functions.php:143
+msgid "Tab 0 Name"
+msgstr ""
+
+#: includes/admin-functions.php:145
+msgid "E.g.: Shopping"
+msgstr ""
+
+#: includes/admin-functions.php:150
+msgid "Tab 1 Name"
+msgstr ""
+
+#: includes/admin-functions.php:152
+msgid "E.g.: Property Facts"
+msgstr ""
+
+#: includes/admin-functions.php:157
+msgid "Tab 2 Name"
+msgstr ""
+
+#: includes/admin-functions.php:159
+msgid "E.g.: Education"
+msgstr ""
+
+#: includes/admin-functions.php:164
+msgid "Tab 3 Name"
+msgstr ""
+
+#: includes/admin-functions.php:166
+msgid "E.g.: Facilities"
+msgstr ""
+
+#: includes/admin-functions.php:171
+msgid "Tab 4 Name"
+msgstr ""
+
+#: includes/admin-functions.php:173
+msgid "E.g.: History"
+msgstr ""
+
+#: includes/admin-functions.php:178
+msgid "Tab 5 Name"
+msgstr ""
+
+#: includes/admin-functions.php:180
+msgid "E.g.: About Us"
+msgstr ""
+
+#: includes/admin-functions.php:186
+msgid "Single"
+msgstr ""
+
+#: includes/admin-functions.php:192
+msgid ""
+"Adjust how the single location profile displays with the settings below."
+msgstr ""
+
+#: includes/admin-functions.php:198
+msgid "Show the tabbed info-box"
+msgstr ""
+
+#: includes/admin-functions.php:201 includes/admin-functions.php:211
+#: includes/admin-functions.php:221 includes/admin-functions.php:231
+#: includes/admin-functions.php:241 includes/admin-functions.php:292
+#: includes/admin-functions.php:338 includes/admin-functions.php:348
+#: includes/admin-functions.php:358 includes/admin-functions.php:369
+#: includes/admin-functions.php:380
+msgid "Enable"
+msgstr ""
+
+#: includes/admin-functions.php:202 includes/admin-functions.php:212
+#: includes/admin-functions.php:222 includes/admin-functions.php:232
+#: includes/admin-functions.php:242 includes/admin-functions.php:293
+#: includes/admin-functions.php:339 includes/admin-functions.php:349
+#: includes/admin-functions.php:359 includes/admin-functions.php:370
+#: includes/admin-functions.php:381
+msgid "Disable"
+msgstr ""
+
+#: includes/admin-functions.php:208
+msgid "Display attached images in a gallery"
+msgstr ""
+
+#: includes/admin-functions.php:218
+msgid "Display the map"
+msgstr ""
+
+#: includes/admin-functions.php:228
+msgid "Display author box"
+msgstr ""
+
+#: includes/admin-functions.php:238
+msgid "Show Listings"
+msgstr ""
+
+#: includes/admin-functions.php:248
+msgid "Number of Listings"
+msgstr ""
+
+#: includes/admin-functions.php:251
+msgid "Number of listings displayed."
+msgstr ""
+
+#: includes/admin-functions.php:256
+msgid "Default Template"
+msgstr ""
+
+#: includes/admin-functions.php:259
+msgid "Default"
+msgstr ""
+
+#: includes/admin-functions.php:260 includes/widget-location-profiles.php:213
+msgid "Card"
+msgstr ""
+
+#: includes/admin-functions.php:261
+msgid "Slim"
+msgstr ""
+
+#: includes/admin-functions.php:262
+msgid "Table"
+msgstr ""
+
+#: includes/admin-functions.php:263
+msgid "Table Open"
+msgstr ""
+
+#: includes/admin-functions.php:289
+msgid "Show Location Profiles"
+msgstr ""
+
+#: includes/admin-functions.php:299
+msgid "Number of Location Profiles"
+msgstr ""
+
+#: includes/admin-functions.php:302
+msgid "Number of Location Profiles displayed for each staff member."
+msgstr ""
+
+#: includes/admin-functions.php:330
+msgid ""
+"<h3 style=\"margin-top:0;\">Location Profiles Map Tabs</h3> <p>Select the "
+"map tabs you want to display on a single location profile.</p>"
+msgstr ""
+
+#: includes/admin-functions.php:335
+msgid "Satellite Tab"
+msgstr ""
+
+#: includes/admin-functions.php:345
+msgid "Street Tab"
+msgstr ""
+
+#: includes/admin-functions.php:355
+msgid "Transit Tab"
+msgstr ""
+
+#: includes/admin-functions.php:366
+msgid "Bike Tab"
+msgstr ""
+
+#: includes/admin-functions.php:377
+msgid "Comparables Tab"
+msgstr ""
+
+#: includes/admin-functions.php:413
+msgid "Image"
+msgstr ""
+
+#: includes/admin-functions.php:414
+msgid "Title"
+msgstr ""
+
+#: includes/admin-functions.php:415
+msgid "Linked Suburb"
+msgstr ""
+
+#: includes/admin-functions.php:416
+msgid "Author"
+msgstr ""
+
+#: includes/admin-functions.php:417
+msgid "Date"
+msgstr ""
+
+#: includes/admin-functions.php:457
+msgid "No Location Set"
+msgstr ""
+
+#: includes/functions.php:69
+msgid "Tab Name "
+msgstr ""
+
+#: includes/functions.php:108
+msgid "Suburbs"
+msgstr ""
+
+#: includes/install.php:27 includes/install.php:73
+msgid "Suburb"
+msgstr ""
+
+#: includes/install.php:34 includes/install.php:80
+#: includes/template-functions.php:187
+#: templates/content/content-location-profiles-tabs-expanded.php:20
+msgid "Fast Facts"
+msgstr ""
+
+#: includes/meta-boxes-location-profiles.php:26
+msgid "Location Details"
+msgstr ""
+
+#: includes/meta-boxes-location-profiles.php:59
+msgid "YouTube Video Link"
+msgstr ""
+
+#: includes/post-type-location-profiles.php:27
+msgid "s"
+msgstr ""
+
+#: includes/post-type-location-profiles.php:28
+msgid "Add New"
+msgstr ""
+
+#: includes/post-type-location-profiles.php:35
+msgid "Search "
+msgstr ""
+
+#: includes/shortcodes-location-profiles.php:98
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: includes/shortcodes-location-profiles.php:99
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: includes/shortcodes-location-profiles.php:105
+msgid "Nothing found, please check back later."
+msgstr ""
+
+#: includes/template-functions.php:223
+msgid "Fast Facts about "
+msgstr ""
+
+#: includes/widget-location-profiles.php:22
+msgid "EPL - Location Profile"
+msgstr ""
+
+#: includes/widget-location-profiles.php:38
+#: includes/widget-location-profiles.php:169
+msgid "Read More"
+msgstr ""
+
+#: includes/widget-location-profiles.php:193
+msgid "Title:"
+msgstr ""
+
+#: includes/widget-location-profiles.php:198
+msgid "Sub Title:"
+msgstr ""
+
+#: includes/widget-location-profiles.php:203
+msgid "Footer Text:"
+msgstr ""
+
+#: includes/widget-location-profiles.php:208
+msgid "Style"
+msgstr ""
+
+#: includes/widget-location-profiles.php:212
+msgid "List"
+msgstr ""
+
+#: includes/widget-location-profiles.php:214
+msgid "Tabbed Box"
+msgstr ""
+
+#: includes/widget-location-profiles.php:224
+msgid "Image Size"
+msgstr ""
+
+#: includes/widget-location-profiles.php:237
+msgid "Image Alignment"
+msgstr ""
+
+#: includes/widget-location-profiles.php:249
+msgid "Sort Order"
+msgstr ""
+
+#: includes/widget-location-profiles.php:267
+msgid "Profile(s)"
+msgstr ""
+
+#: includes/widget-location-profiles.php:278
+msgid "Skip"
+msgstr ""
+
+#: includes/widget-location-profiles.php:288
+msgid "Columns"
+msgstr ""
+
+#: includes/widget-location-profiles.php:292
+msgid "Display Featured Image"
+msgstr ""
+
+#: includes/widget-location-profiles.php:297
+msgid "Display Excerpt"
+msgstr ""
+
+#: includes/widget-location-profiles.php:301
+msgid "Read More Label"
+msgstr ""
+
+#: includes/widget-location-profiles.php:307
+msgid "Read More Button (Card Style)"
+msgstr ""
+
+#: includes/widget-location-profiles.php:312
+msgid "Random (Skip ignored)"
+msgstr ""
+
+#: templates/content/content-location-profiles-single.php:71
+#: templates/content/content-location-profiles-tabs-expanded.php:94
+msgid "Gallery"
+msgstr ""
+
+#: templates/content/content-location-profiles-single.php:101
+#: templates/content/content-location-profiles-tabs-expanded.php:108
+msgid "Pages:"
+msgstr ""
+
+#: templates/content/content-location-profiles-tabs-expanded.php:23
+msgid "Postcode is"
+msgstr ""
+
+#: templates/content/content-location-profiles-tabs-expanded.php:32
+msgid "People & Property"
+msgstr ""
+
+#: templates/content/content-location-profiles-tabs-expanded.php:42
+msgid "Location"
+msgstr ""
+
+#: templates/content/content-location-profiles-tabs-expanded.php:52
+msgid "Amenities"
+msgstr ""
+
+#: templates/content/content-location-profiles-tabs-expanded.php:62
+msgid "Recreation"
+msgstr ""
+
+#: templates/content/content-location-profiles-tabs-expanded.php:72
+msgid "Transport"
+msgstr ""

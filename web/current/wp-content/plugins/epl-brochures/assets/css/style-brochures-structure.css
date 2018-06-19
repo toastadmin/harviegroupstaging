@@ -1,0 +1,402 @@
+-webkit-box-sizing:border-box;
+-moz-box-sizing:border-box;
+box-sizing:border-box
+}
+html,body,div,span,applet,object,iframe,
+h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,
+big,cite,code,del,dfn,em,font,img,ins,kbd,
+q,s,samp,small,strike,strong,tt,var,b,u,i,center,
+dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,
+tbody,tfoot,thead,tr,th,
+td {
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+	margin: 0;
+	padding: 0
+}
+body {
+	line-height: 1
+}
+img {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+ol,
+ul {
+	list-style: none
+}
+blockquote,
+q {
+	quotes: none
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+	content: none
+}
+:focus {
+	outline: 0
+}
+ins {
+	text-decoration: none
+}
+del {
+	text-decoration: line-through
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0
+}
+header,footer,aside,nav,article {
+	display: block
+}
+html,
+body {
+	-webkit-font-smoothing: antialiased
+}
+body {
+	width: 990px;
+	margin: 0 auto;
+	font: 0.75em/160% Arial, Helvetica , sans-serif;
+	color: #555;
+	overflow-x: none;
+	-webkit-text-size-adjust: 100%
+}
+a {
+	text-decoration: none;
+	color: #000000;
+}
+#main {
+	clear: both;
+	float: left;
+	width: 100%
+}
+.alignleft {
+	float: left;
+	width: 50%
+}
+.alignright {
+	float: right;
+	width: 50%
+}
+p {
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 20px;
+	-ms-word-wrap: break-word;
+	-moz-word-wrap: break-word;
+	word-wrap: break-word
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+header#header {
+	float: left;
+	width: 100%;
+	margin: 30px 0
+}
+header#header .alignleft img {
+	float: left
+}
+header#header .alignright h1 {
+	line-height: 1;
+	font-weight: 400;
+	font-size: 18px;
+	color: #555;
+	text-align: right
+}
+
+@media all {
+	.page-break	{
+		display: none;
+	}
+}
+
+@media print {
+	.page-break	{
+		display: block;
+		page-break-before: always;
+	}
+}
+.epl-brochures-header {
+	margin:0;
+}
+.epl-brochure-banner img{
+	background: #fff;
+	max-width: 100%;
+}
+.epl-brochure-left {
+	width: 74.9%;
+	float: left;
+}
+.epl-brochure-right {
+	width: 24.32%;
+	float: right;
+}
+.epl-brochure-left-half,
+.epl-brochure-right-half {
+	width: 50%;
+	float: left;
+}
+.epl-brochure-three-quarter{
+	width: 74.9%;
+}
+.epl-brochure-one-quarter{
+	width: 24.9%;
+}
+.epl-brochure-content .entry-content{
+	margin-top: 0;
+}
+.epl-brochure ul.listing-info,
+.epl-brochure ul.home-open-wrapper {
+	padding: 0;
+	margin: 0 1.4em;
+	list-style: square;
+}
+/*****************************
+	Spacing
+******************************/
+.epl-brochure .author-title,
+.epl-brochure .author-contact,
+.epl-brochure .epl-inspection-times,
+.epl-brochure .epl-brochure-features .tab-title {
+	margin: 1em 0 0.5em;
+}
+/*****************************
+	Large Titles
+******************************/
+.epl-brochure .author-title,
+.epl-brochure .author-contact,
+.epl-brochure .property-pricing-details .pricing {
+	font-size: 1.4em;
+}
+/*****************************
+	Small Titles
+******************************/
+.epl-brochure .epl-inspection-times-label,
+.epl-brochure .epl-brochure-features .tab-title {
+	font-size: 1em;
+	font-weight: bold;
+}
+/*****************************
+	Hidden Elements
+******************************/
+.epl-brochure .epl-author-box .author-tabs,
+.epl-brochure .epl-author-box .bio-more,
+.epl-brochure .epl-author-box .author-recent_listings,
+.epl-brochure .author-social-buttons,
+.epl-brochure .author-slogan {
+	display:none;
+}
+/*****************************
+	Brochure Option Wide
+******************************/
+.epl-brochure-wide {
+	margin-top: 0.5em;
+}
+.epl-brochure-wide .epl-content{
+
+}
+.epl-brochure-wide .epl-brochure-attached-images {
+	margin-bottom: 1em;
+	width: 100%;
+	overflow: hidden;
+	float: left;
+}
+.epl-brochure-wide .epl-brochure-attached-images img:first-child{
+	margin-right: 1em;
+}
+.epl-brochure-wide .epl-brochure-attached-images img{
+	margin-top: -40px;
+	margin-bottom: -40px;
+	width: 489px;
+	float: left;
+}
+.epl-brochure-wide .epl-featured-image {
+	overflow: hidden;
+	margin-bottom: 1em;
+}
+.epl-brochure-wide .epl-featured-image img{
+	margin-top: -80px;
+	margin-bottom: -200px;
+	width: 100%;
+}
+.epl-brochure-wide .epl-brochure-listing-details {
+	border-bottom: 0;
+}
+.epl-brochure-wide .epl-brochure-heading{
+	font-size: 2em;
+	margin-bottom: 2em;
+}
+/*****************************
+	Brochure Option Row
+******************************/
+.epl-brochure-row {
+
+}
+.epl-brochure-row .epl-featured-image {
+	overflow: hidden
+}
+.epl-brochure-row .epl-featured-image img {
+	margin-bottom: -150px;
+	overflow: hidden
+}
+.epl-brochure-row .epl-brochure-attached-images {
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+.epl-brochure-row .epl-brochure-attached-images img{
+	width: 242px;
+	float: left;
+	margin-right: 7px;
+	margin-bottom: 7px;
+}
+.epl-brochure-row .epl-brochure-attached-images img:nth-child(4n+4){
+	margin-right: 0;
+}
+.epl-brochure-row .epl-brochure-row-right-details{
+	margin-left: 4px;
+}
+.epl-brochure-row .epl-brochure-listing-details {
+	margin-right: 7px;
+}
+/*****************************
+	Author Elements
+******************************/
+.epl-brochure-default .epl-brochure-author {
+	text-align: center;
+}
+.epl-brochure-author .epl-brochure-author-image {
+
+}
+.epl-brochure-author .epl-brochure-author-name {
+	margin: 0.5em 0 0;
+	font-size: 2em;
+	font-weight: bold;
+}
+.epl-brochure-author .epl-brochure-author-position {
+	margin: 0.5em 0 1em;
+}
+.epl-brochure-author .epl-brochure-author-mobile {
+	margin: 0.5em 0;
+	font-size: 1.6em;
+}
+.epl-brochure-author .epl-brochure-author-description {
+	margin: 1em 0;
+}
+.epl-brochure-author .epl-brochure-author-description .bio-more{
+	display: none;
+}
+
+/*****************************
+	Author Elements Wide
+******************************/
+.epl-brochure-wide .epl-brochure-author {
+	text-align: left;
+}
+.epl-brochure-wide .epl-brochure-author .epl-brochure-author-image,
+.epl-brochure-wide .epl-brochure-author .epl-brochure-author-details {
+	width: 40%;
+	float: left;
+}
+.epl-brochure-wide .epl-brochure-author .epl-brochure-author-details {
+	width: 60%;
+	float: left;
+}
+.epl-brochure-wide .epl-brochure-author .epl-brochure-author-name {
+	margin: 0.5em 0 0;
+	font-size: 2em;
+	font-weight: bold;
+}
+.epl-brochure-wide .epl-brochure-author .epl-brochure-author-position {
+	margin: 0.5em 0 1em;
+}
+.epl-brochure-wide .epl-brochure-author .epl-brochure-author-mobile {
+	margin: 0.5em 0;
+	font-size: 1.6em;
+}
+.epl-brochure-wide .epl-brochure-author .epl-brochure-author-description {
+	display: none;
+}
+.epl-brochure-wide .epl-brochure-author .epl-brochure-author-description .bio-more{
+	display: none;
+}
+/*****************************
+	Assorted Elements
+******************************/
+.epl-brochure .epl-brochure-features a {
+	pointer-events: none;
+	cursor: default;
+	color: #555;
+}
+.epl-brochure .epl-brochure-map  {
+	margin-bottom: 0.5em;
+}
+.epl-brochure .epl-brochure-map .epl-tab-section > div {
+	height: 161px !important;
+}
+.epl-brochure .epl-brochure-content {
+	padding-right: 1em;
+}
+.epl-brochure-listing-details {
+	margin-bottom: 1em;
+	padding-bottom: 1em;
+	border-bottom: 1px solid #ccc;
+}
+.epl-brochure .epl-brochure-floor-plan {
+	text-align: center;
+}
+.epl-brochure .epl-brochure-floor-plan img{
+
+}
+.epl-brochure .epl-br-disclaimer {
+	margin: 2em 0;
+	font-size: 0.9em;
+	color: #888;
+	line-height: 1.1;
+}
+/*****************************
+	Templates
+******************************/
+.epl-brochure-content .epl-table {
+	font-size: 1.2em;
+}
+.epl-brochure-content .epl-table .epl-blog-image {
+	margin-right: 1em;
+}
+.epl-brochure-content .epl-property-blog-card {
+	min-height: 260px;
+}
+
+/** Card **/
+.epl-brochure-content .epl-property-blog,
+.epl-brochure-content .epl-property-blog-card {
+	font-size: 1em;
+	margin-bottom: 0.5em;
+	text-align: left;
+}
+
+/*****************************
+	EPL Clear Floating Div's
+******************************/
+.epl-clearfix {
+	clear:  both !important;
+}
+.epl-clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+/* Use this stylesheet for problems with IE7 and below */
+#ie6 .epl-clearfix,
+#ie7 .epl-clearfix {
+	zoom: 1;
+}

@@ -1,0 +1,88 @@
+/*
+ * EPL Location Profiles Front CSS
+ */
+ 
+/* Location Profiles Styling */
+.epl-location-profiles-card {
+	margin-bottom: 2em;
+}
+/* Location Profiles Structure */
+.epl-location-profiles-box {
+	overflow: hidden;
+	width: 100%;
+	margin-bottom: 1.5em;
+}
+.epl-location-profiles-box .location-profiles-title {
+	margin-top: 0;
+	margin-bottom: 0.5em;
+}
+.epl-location-profiles-box .epl-location-profiles-content {
+	background: #fafafa;
+	padding: 1em;
+	margin-bottom: 2em;
+}
+.epl-location-profiles-box .location-profiles-tab-content{
+	display: none;
+}
+.epl-location-profiles-box .location-profiles-tab-content.location-profiles-current{
+	display: inherit;
+}
+.epl-location-profiles-box .location-profiles-box.location-profiles-image {
+	width: 150px;
+	padding-right: 1em;
+}
+.epl-location-profiles-box .location-profiles-image img {
+	margin:0;
+	padding:0;
+	height: auto;
+}
+.epl-location-profiles-box .location-profiles-slogan {
+	font-size: 1.2em;
+	line-height: 1.1;
+	text-align: center;
+	margin-top: 2em;
+}
+.epl-location-profiles-box .location-profiles-contact-details {
+	width: 50%;
+	float: left;
+}
+.epl-location-profiles-box ul.location-profiles-tabs {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.epl-location-profiles-box ul.location-profiles-tabs li {
+	background: #eee;
+	color: #222;
+	display: inline-block;
+	padding: 10px 15px;
+	cursor: pointer;
+	margin: 0;
+}
+.epl-location-profiles-box ul.location-profiles-tabs li.location-profiles-current {
+	background: #fafafa;
+	color: #222;
+}
+/* Location Profiles Vertical Tabs Left*/
+.epl-location-profiles-tabs-left .epl-location-profiles-list,
+.epl-location-profiles-tabs-left .epl-location-profiles-content  {
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	float: left;
+}
+.epl-location-profiles-tabs-left .epl-location-profiles-list {
+	width: 30%;
+}
+.epl-location-profiles-tabs-left .epl-location-profiles-content {
+	width: 70%;
+}
+.epl-location-profiles-tabs-left .epl-location-profiles-list ul.location-profiles-tabs li {
+	display: block;
+}
+/* List Widget */
+ul.epl-location-profile-list {
+	margin: 0;
+}
+ul.epl-location-profile-list li {
+	list-style: none;
+}

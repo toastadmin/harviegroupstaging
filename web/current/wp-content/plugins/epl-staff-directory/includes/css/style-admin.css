@@ -1,0 +1,51 @@
+/**
+ * EPL Staff Directory Admin CSS
+ *
+ * @package     EPL-STAFF-DIRECTORY
+ * @since	2.3
+ * @subpackage  CSS/Admin
+ * @copyright   Copyright (c) 2014, Merv Barrett
+ * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+ */
+
+/* Post Type List Admin Columns */
+.epl-admin-page.post-type-directory {
+
+}
+.epl-admin-page.post-type-directory .column-cb,
+.epl-admin-page.post-type-directory .column-title,
+.epl-admin-page.post-type-directory .column-thumb,
+.epl-admin-page.post-type-directory .column-details,
+.epl-admin-page.post-type-directory .column-author,
+.epl-admin-page.post-type-directory .column-department,
+.epl-admin-page.post-type-directory .column-suburb,
+.epl-admin-page.post-type-directory .column-order,
+.epl-admin-page.post-type-directory .column-comments,
+.epl-admin-page.post-type-directory .column-date {
+
+}
+.epl-admin-page.post-type-directory .column-thumb img {
+	max-width: 100%;
+	height: auto;
+}
+
+/* Responsive */
+@media screen and (max-width: 782px) {
+
+	.epl-admin-page.post-type-directory .column-thumb,
+	.epl-admin-page.post-type-directory .column-details,
+	.epl-admin-page.post-type-directory .column-author,
+	.epl-admin-page.post-type-directory .column-department,
+	.epl-admin-page.post-type-directory .column-suburb,
+	.epl-admin-page.post-type-directory .column-order,
+	.epl-admin-page.post-type-directory .column-comments,
+	.epl-admin-page.post-type-directory .column-date {
+		display: none;
+	}
+	.epl-admin-page.post-type-directory .column-thumb {
+		display: none !important;
+	}
+	.epl-admin-page.post-type-directory .column-thumb[data-colname="Image"] {
+		color: transparent;
+	}
+}
