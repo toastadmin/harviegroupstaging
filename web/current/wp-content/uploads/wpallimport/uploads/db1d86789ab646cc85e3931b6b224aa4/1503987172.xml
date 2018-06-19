@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList date="2017-06-26-12:12:35" username="agentbox" password="5PaHvDtR">
+  <residential modTime="2017-06-26-11:58:35" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>11188780</uniqueID>
+    <isMultiple/>
+    <newConstruction>0</newConstruction>
+    <tenancy>vacant</tenancy>
+    <authority value="exclusive"/>
+    <price display="yes">649000</price>
+    <priceView>$649,000</priceView>
+    <underOffer value="no"/>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating></energyRating>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Julia Xia</name>
+      <telephone type="mobile">0450 808 268 </telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>julia@harviegroup.com.au</email>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Sharon Palmer</name>
+      <telephone type="mobile">0452 624 334 </telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>sharon@harviegroup.com.au</email>
+    </listingAgent>
+    <listingAgent id="3"/>
+    <listingAgent id="4"/>
+    <address display="yes" streetview="yes">
+      <subNumber></subNumber>
+      <lotNumber></lotNumber>
+      <streetNumber>52/14-18</streetNumber>
+      <street>College Crescent</street>
+      <suburb display="yes">Hornsby</suburb>
+      <state>NSW</state>
+      <postcode>2077</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>2</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>1</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Close to Schools, Close to Shops, Close to Transport, Pool</otherFeatures>
+    </features>
+    <headline>Modern 2 Bedroom Apartment - Excellent Location</headline>
+    <description>First time being offered, this two bedroom, well thought out apartment is located on a third level of rear block, moments to Westfield shops, trains and premier schools.
+
+Features large glass sliding doors lead onto balcony, open plan living with split system air conditioning, timber floors, gas kitchen with stainless steel appliances and solid double brick internal walls.
+
+Mirrored built in robes to bedrooms which enjoy natural light and ventilation.  Other features include; Lock up garage, security intercom, resort style pool and one level of visitor parking.
+
+Internal 81m2
+Balcony 16m2
+Parking 22m2
+(approx.)
+
+Contact agent to inspect by appointment contact Michael Caccamo - 0432 054 616 or Julia Xia 0450 808 268</description>
+    <inspectionTimes>
+      <inspection>01-Jul-2017 11:30AM to 12:15PM</inspection>
+      <inspection>08-Jul-2017 11:30AM to 12:15PM</inspection>
+      <inspection>15-Jul-2017 11:30AM to 12:15PM</inspection>
+      <inspection>22-Jul-2017 11:30AM to 12:15PM</inspection>
+      <inspection>29-Jul-2017 11:30AM to 12:15PM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2017-03-20-14:39:02" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0404/2004393419-rsd.jpg" format="jpg"></img>
+      <img modTime="2017-03-20-14:39:02" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0404/2004393919-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:52:02" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0404/2004523919-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:39:02" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0404/2004394419-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:53:02" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0404/2004534419-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:54:02" id="e" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0404/2004544419-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:55:02" id="f" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0404/2004554419-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:39:02" id="g" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0404/2004394920-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:56:02" id="h" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0404/2004564920-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:57:02" id="i" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0404/2004574920-rsd.jpg" format="jpg"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan modTime="2017-03-20-14:58:02" id="1" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0404/fp/2004584920-rsz.jpg" format="jpg"></floorplan>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName"/>
+    <extraFields name="inspectionOpenType"/>
+    <extraFields name="geoLat" value="-33.70960999"/>
+    <extraFields name="geoLong" value="151.09776306"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="52/14-18 College Crescent"/>
+    <extraFields name="hiddenListing" value="0"/>
+  </residential>
+  <residential modTime="2017-06-26-11:59:00" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1P0784</uniqueID>
+    <isMultiple/>
+    <newConstruction>0</newConstruction>
+    <tenancy>vacant</tenancy>
+    <authority value="exclusive"/>
+    <price display="yes">679000</price>
+    <priceView>$679000</priceView>
+    <underOffer value="no"/>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating></energyRating>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Julia Xia</name>
+      <telephone type="mobile">0450 808 268 </telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>julia@harviegroup.com.au</email>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Sharon Palmer</name>
+      <telephone type="mobile">0452 624 334 </telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>sharon@harviegroup.com.au</email>
+    </listingAgent>
+    <listingAgent id="3"/>
+    <listingAgent id="4"/>
+    <address display="yes" streetview="yes">
+      <subNumber></subNumber>
+      <lotNumber></lotNumber>
+      <streetNumber>604/3-5</streetNumber>
+      <street>Clydesdale Place</street>
+      <suburb display="yes">Pymble</suburb>
+      <state>NSW</state>
+      <postcode>2073</postcode>
+      <country>AUS</country>
+      <site>Clydesdale Place</site>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>1</bedrooms>
+      <bathrooms>1</bathrooms>
+      <garages>1</garages>
+      <carports>0</carports>
+      <toilets>1</toilets>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Close to Schools, Close to Transport</otherFeatures>
+    </features>
+    <headline>First Home Owners / Investors Take Advantage</headline>
+    <description>North Facing Oversized double brick apartment, large one bed plus study!
+
+67m2 Internal + 15m2 Balcony + 14m2 Parking (Approx.)
+
+Superior inclusions with contemporary neutral colour scheme throughout. It includes a gas kitchen with European stainless steel appliances which include convection microwave, dishwasher and stone benchtops.
+
+A large open plan living area opens to a terrific sized balcony, perfect for alfresco dining. The bedroom includes a large built in wardrobe and glass sliding doors open on to the balcony. Other inclusions; Security intercom, reverse cycle split system air conditioning, secure car parking and visitor parking available. The generous study room offers a multi purpose second room or home office. 
+
+Set in landscaped grounds these security apartments are privately secluded in a cul de sac, yet very close to local amenities. Positioned in one of the North Shore's most desired suburbs, moments walk to Pymble station, shops and parks.
+
+Water: $180 p/qtr
+Council: $315 p/qtr
+Strata: $685 p/qtr
+(Approx.)
+
+
+Inspection by appointment only 
+Please contact Julia Xia 0450 808 268 or Sharon Palmer 0452 624 334</description>
+    <inspectionTimes>
+      <inspection>01-Jul-2017 10:00AM to 10:30AM</inspection>
+      <inspection>08-Jul-2017 10:00AM to 10:30AM</inspection>
+      <inspection>15-Jul-2017 10:00AM to 10:30AM</inspection>
+      <inspection>22-Jul-2017 10:00AM to 10:30AM</inspection>
+      <inspection>29-Jul-2017 10:00AM to 10:30AM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2017-06-10-09:11:35" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0784/149704989537072813-rsd.jpg" format="jpg"></img>
+      <img modTime="2017-06-10-09:10:43" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0784/149704984313474566-rsd.jpg" format="jpg"/>
+      <img modTime="2017-06-10-09:10:44" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0784/149704984453745116-rsd.jpg" format="jpg"/>
+      <img modTime="2017-06-10-09:10:31" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0784/149704983262589080-rsd.jpg" format="jpg"/>
+      <img modTime="2017-06-10-09:10:40" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0784/149704984039799730-rsd.jpg" format="jpg"/>
+      <img modTime="2017-06-10-09:10:47" id="e" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0784/149704984858095948-rsd.jpg" format="jpg"/>
+      <img id="f"/>
+      <img id="g"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan modTime="2017-06-06-16:10:13" id="1" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0784/fp/149672941379469252-rsz.jpg" format="jpg"></floorplan>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName" value="Clydesdale Place"/>
+    <extraFields name="inspectionOpenType" value="Open by Appointment"/>
+    <extraFields name="geoLat" value="-33.74209595"/>
+    <extraFields name="geoLong" value="151.13798523"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="604/3-5 Clydesdale  Place"/>
+    <extraFields name="hiddenListing" value="0"/>
+  </residential>
+</propertyList>

@@ -1,0 +1,3163 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList>
+  <rental modTime="2018-06-18-12:15:50" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>2092276</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-06-12</dateAvailable>
+    <bond>0</bond>
+    <rent period="weekly" display="yes">1300</rent>
+    <priceView>$1,400 per week</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Peta Harvie</name>
+      <telephone type="mobile">0406 111 301</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>peta@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Peta</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>peta-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>1-3</streetNumber>
+      <street>Heydon Avenue</street>
+      <suburb display="yes">Warrawee</suburb>
+      <state>NSW</state>
+      <postcode>2074</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>4</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>2</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Car Parking - Basement, Carpeted, Close to Schools, Close to Shops, Close to Transport, Penthouse</otherFeatures>
+    </features>
+    <headline>SELECT FROM 2 BEAUTIFUL PENTHOUSE APARTMENTS</headline>
+    <description>One of the North Shore's most stylish developments, Amberleigh sits quietly in lush, leafy surrounds - yet is only moments to shops and transport, taking you to Hornsby in moments and just 25min to the CBD.
+
+Single level Penthouse. Defined by their light, space and stylish interiors and prestigious locale, Amberleigh offers luxury apartment living particularly showcased in this penthouse.
+
+The beautifully appointed and finished four bedroom Penthouse apartment features large, open living spaces, beautifully complemented by stylish gourmet gas kitchen, finished to the highest standards with Miele appliances and imported granite stone bench tops.
+
+Extremely generous in proportions the entertaining outdoor living spaces open to sweeping and inviting views.
+
+Bedrooms are light, spacious and include access to outdoor living. Huge main bedroom is private and separated from living areas and other bedrooms. A stylish, marble tiled ensuite includes Italian tapware and porcelain fittings.
+
+Luxury wool carpets, reverse cycle air conditioning, secure access and parking and large storage cage.
+
+Amberleigh is in the heart of Warrawee - a very short stroll to Warrawee Station. Famed for it's quiet, leafy ambiance and proximity to; shopping centres, CBDs, prestigious schools and the gateway to recreational playgrounds of National Parks and waterways of the Hawkesbury River.
+
+
+*Images are a display suite and are indicative of finishes and similar to the available penthouses</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes/>
+    <externalLink href=""/>
+    <videoLink href="http://www.youtube.com/embed/ari_JM_lgwQ"/>
+    <objects>
+      <img modTime="2017-03-20-14:38:58" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0208/2004384130-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:38:58" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0208/2004383129-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:58:58" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0208/2004584130-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:59:58" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0208/2004594130-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:38:58" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0208/2004384630-rsd.jpg" format="jpg"/>
+      <img id="e"/>
+      <img id="f"/>
+      <img id="g"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan modTime="2017-03-20-14:38:58" id="1" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0208/fp/2004385130-rsz.jpg" format="jpg"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName"/>
+    <extraFields name="inspectionOpenType" value="As Advertised or by Appointment"/>
+    <extraFields name="geoLat" value="-33.72829437"/>
+    <extraFields name="geoLong" value="151.12147522"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="1-3 Heydon Avenue"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2017-03-20 14:59:58</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-2092276</feedsyncUniqueID>
+    <firstDate>2017-09-22 10:19:31</firstDate>
+  </rental>
+  <rental modTime="2018-06-18-14:14:31" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1P0869</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-06-01</dateAvailable>
+    <bond>0</bond>
+    <rent period="weekly" display="yes">600</rent>
+    <priceView>From $630 per week</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Bianca Harvie</name>
+      <telephone type="mobile">0447 300 997 </telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>bianca@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Bianca</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>bianca-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <name>Peta Harvie</name>
+      <telephone type="mobile">0406 111 301</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>peta@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Peta</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>peta-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>4</streetNumber>
+      <street>Werombi Road</street>
+      <suburb display="yes">Mount Colah</suburb>
+      <state>NSW</state>
+      <postcode>2079</postcode>
+      <country>AUS</country>
+      <site>Mount Colah Gardens</site>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>3</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>0</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Area Views, Close to Schools, Close to Shops, Close to Transport</otherFeatures>
+    </features>
+    <headline>3 Bedroom Mezzanine Loft Style Apartment</headline>
+    <description>Please access from 530-532 PACIFIC HIGHWAY, MOUNT COLAH
+
+Brand new 3 bedroom mezzanine loft-style apartments offering large entertaining terraces/balcony. 
+
+Set in beautiful Mount Colah, surrounded by National Parks yet only a short drive to everything you need at nearby Hornsby. These affordable brand new chic apartments in convenient location to north shore and city run, and also north coast gateway. Quality selections and inclusions throughout with neutral palette. 
+
+Mt Colah Gardens offers a selection of 3 bedroom 2 storey loft/mezzanine penthouses with large tiles terraces wrap around to most.  Each with the highest attention to detail and premier fittings and finishes. these inspired apartments feature large rooms with flowing spaces that open to generous outdoor terraces. 
+
+They are designed to capture light and the landscaped garden/district views. Each apartment includes secure allocated parking and storage. 
+
+Features Include:
+- Premier school and shops in nearby Hornsbu
+- Hornsby Girls High School catchment
+- Asquith Golf Club
+- Walk to Mount Colah train station (5 min walk)
+- Express train to CBD and Western Sydney via nearby Hornsby
+- Easy access to Sydney CBD via M1 
+ 
+
+DISCLAIMER** Images used are for marketing purposes and reflect similar to but not the exact available apartment.</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes>
+      <inspection>20-Jun-2018 12:30PM to 01:00PM</inspection>
+      <inspection>23-Jun-2018 12:00PM to 01:00PM</inspection>
+      <inspection>30-Jun-2018 12:00PM to 01:00PM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2018-05-28-09:49:16" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0869/152746495686812324-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-28-09:49:40" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0869/152746498057063550-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-28-09:49:27" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0869/152746496732673653-rsd.jpg" format="jpg"/>
+      <img modTime="2018-01-24-12:38:16" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0869/151675789680847979-rsd.jpg" format="jpg"/>
+      <img modTime="2018-01-24-12:38:14" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0869/151675789440409843-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-28-09:50:00" id="e" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0869/152746500007241996-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-23-12:26:37" id="f" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0869/152704239776251096-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-23-12:27:07" id="g" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0869/152704242810258540-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-23-12:27:20" id="h" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0869/152704244023907234-rsd.jpg" format="jpg"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan id="1"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName" value="Mount Colah Gardens"/>
+    <extraFields name="inspectionOpenType" value="As Advertised or by Appointment"/>
+    <extraFields name="geoLat" value="-33.67510223"/>
+    <extraFields name="geoLong" value="151.11303711"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="4 Werombi Road"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2018-05-28 09:50:00</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1P0869</feedsyncUniqueID>
+    <firstDate>2018-01-24 13:06:47</firstDate>
+  </rental>
+  <rental modTime="2018-06-19-09:38:46" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1P0868</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-05-31</dateAvailable>
+    <bond>0</bond>
+    <rent period="weekly" display="yes">400</rent>
+    <priceView>$420 per week</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Bianca Harvie</name>
+      <telephone type="mobile">0447 300 997 </telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>bianca@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Bianca</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>bianca-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>27/4</streetNumber>
+      <street>Werombi Road</street>
+      <suburb display="yes">Mount Colah</suburb>
+      <state>NSW</state>
+      <postcode>2079</postcode>
+      <country>AUS</country>
+      <site>Mount Colah Gardens</site>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>1</openSpaces>
+      <bedrooms>1</bedrooms>
+      <bathrooms>1</bathrooms>
+      <garages>0</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>0</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Area Views, Close to Schools, Close to Shops, Close to Transport</otherFeatures>
+    </features>
+    <headline>LAST AVAILABLE 1 BEDROOM - access 530 Pacific Hwy </headline>
+    <description>Please access from 530-532 PACIFIC HIGHWAY, MOUNT COLAH
+
+Set in verdant Mount Colah, surrounded by National Parks yet only a short drive to everything convenience in Hornsby. These affordable brand new chic apartments in convenient location to North Shore and city run and also North Coast gateway. Quality selections and inclusions throughout with neutral palette. 
+
+Each apartment includes secure allocated parking and storage.
+
+Features Include:
+
+- Premier school and shops in nearby Hornsby
+- Hornsby Girls High school catchment
+- Asquith Golf Club
+- Walk to Mount Colah train station ( 5 min walk)
+- Express trains to CBD and Western Sydney via nearby Hornsby
+- Easy access to Sydney CBD via M1
+
+** Images used are for marketing purposes and reflect similar to but not the exact available apartment.
+</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes>
+      <inspection>20-Jun-2018 12:30PM to 01:00PM</inspection>
+      <inspection>23-Jun-2018 12:00PM to 01:00PM</inspection>
+      <inspection>30-Jun-2018 12:00PM to 01:00PM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2018-05-22-11:21:16" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0868/152695207633496523-rsd.jpg" format="jpg"/>
+      <img modTime="2018-01-24-13:08:26" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0868/151675970609755825-rsd.jpg" format="jpg"/>
+      <img modTime="2018-01-24-13:08:23" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0868/151675970340409843-rsd.jpg" format="jpg"/>
+      <img modTime="2018-01-24-13:08:27" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0868/151675970780847979-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-22-11:19:28" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0868/152695196923907234-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-22-11:18:08" id="e" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0868/152695188876251096-rsd.jpg" format="jpg"/>
+      <img id="f"/>
+      <img id="g"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan id="1"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName" value="Mount Colah Gardens"/>
+    <extraFields name="inspectionOpenType" value="As Advertised or by Appointment"/>
+    <extraFields name="geoLat" value="-33.6750946"/>
+    <extraFields name="geoLong" value="151.11303711"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="27/4 Werombi Road"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2018-05-22 11:21:16</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1P0868</feedsyncUniqueID>
+    <firstDate>2018-01-24 13:33:24</firstDate>
+  </rental>
+  <rental modTime="2018-06-08-13:56:30" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1P0895</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-03-24</dateAvailable>
+    <bond>0</bond>
+    <rent period="weekly" display="yes">750</rent>
+    <priceView>From $790 per week</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Peta Harvie</name>
+      <telephone type="mobile">0406 111 301</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>peta@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Peta</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>peta-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>131-135</streetNumber>
+      <street>Mona Vale Road</street>
+      <suburb display="yes">St Ives</suburb>
+      <state>NSW</state>
+      <postcode>2075</postcode>
+      <country>AUS</country>
+      <site>Barkala</site>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>2</openSpaces>
+      <bedrooms>2</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>0</garages>
+      <carports>0</carports>
+      <study>1</study>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Area Views, Car Parking - Basement, Carpeted, Close to Schools, Close to Shops, Close to Transport</otherFeatures>
+    </features>
+    <headline>Extraordinary Design, Exceptional Spaces | 2 BED PLUS STUDY APARTMENTS </headline>
+    <description>First Months Rent Free!!
+
+These new luxury designed and oversized two bedroom plus study apartments are available for lease (One occupant over 55), study in some can be converted into another room/ nursery or guest room.   
+
+Flexible, large living spaces with a true abundance of light and ventilation, designed for privacy and to compliment the State Forest surrounding, enormous living spaces and terraces with tranquil tree top outlooks.  Surprisingly quiet, these apartments are not the usual leasing opprtunity on offer, they have light ash coloured floorboards throughout living, dining, Smeg Gas kitchen with stone benches and dishwasher, large main bathroom and ensuite to main with rain shower heads, both rooms have good sized built in robes and there is a large internal laundry with dryer.  
+
+2 car spaces with security parking in basement car park with lift access to relavant units level.
+
+Conveniently located and within walking distance to extensive bus network, St Ives shopping village and local eateries.
+
+Please call make private appointment Peta 0406 111 301 or Ciara 0416 368 808
+
+Please note: This complex is over 55's and selection of 2 bedroom apartments starting from $850 per week
+
+DISCLAIMER: Photos used are for marketing purposes and may not necessarily be of actual apartment</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes/>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2018-03-20-17:32:47" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0895/152152756705044533-rsd.jpg" format="jpg"/>
+      <img modTime="2018-03-20-17:32:48" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0895/152152756838169305-rsd.jpg" format="jpg"/>
+      <img modTime="2018-03-20-17:32:48" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0895/152152756933672950-rsd.jpg" format="jpg"/>
+      <img modTime="2018-03-20-17:32:49" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0895/152152756900483028-rsd.jpg" format="jpg"/>
+      <img modTime="2018-03-20-17:32:47" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0895/152152756733160168-rsd.jpg" format="jpg"/>
+      <img modTime="2018-03-20-17:32:47" id="e" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0895/152152756738982747-rsd.jpg" format="jpg"/>
+      <img modTime="2018-03-20-17:32:47" id="f" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0895/152152756749776282-rsd.jpg" format="jpg"/>
+      <img modTime="2018-03-20-17:32:47" id="g" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0895/152152756795990825-rsd.jpg" format="jpg"/>
+      <img modTime="2018-03-20-17:32:48" id="h" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0895/152152756841366632-rsd.jpg" format="jpg"/>
+      <img modTime="2018-03-20-17:32:49" id="i" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0895/152152756909086198-rsd.jpg" format="jpg"/>
+      <img modTime="2018-03-20-17:32:49" id="j" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0895/152152756945085243-rsd.jpg" format="jpg"/>
+      <img modTime="2018-03-20-17:32:48" id="k" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0895/152152756993694179-rsd.jpg" format="jpg"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan id="1"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName" value="Barkala"/>
+    <extraFields name="inspectionOpenType"/>
+    <extraFields name="geoLat" value="-33.73441696"/>
+    <extraFields name="geoLong" value="151.15446472"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="131-135 Mona Vale Road"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2018-03-20 17:32:49</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1P0895</feedsyncUniqueID>
+    <firstDate>2018-03-21 12:45:02</firstDate>
+  </rental>
+  <rental modTime="2018-06-18-12:54:45" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1P0898</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-06-01</dateAvailable>
+    <bond>0</bond>
+    <rent period="weekly" display="yes">500</rent>
+    <priceView>From $520 per week</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Bianca Harvie</name>
+      <telephone type="mobile">0447 300 997 </telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>bianca@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Bianca</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>bianca-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>  4</streetNumber>
+      <street>Werombi Road</street>
+      <suburb display="yes">Mount Colah</suburb>
+      <state>NSW</state>
+      <postcode>2079</postcode>
+      <country>AUS</country>
+      <site>Mount Colah Gardens</site>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>1</openSpaces>
+      <bedrooms>2</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>0</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>1</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>1</ensuite>
+      <otherFeatures>Area Views, Car Parking - Basement, Carpeted, Close to Schools, Close to Shops, Close to Transport</otherFeatures>
+    </features>
+    <headline>AVAILABLE NOW - Selection of Brand New 2 Bdrs</headline>
+    <description>Please access from 530-532 PACIFIC HIGHWAY, MOUNT COLAH
+
+Selection of mezzanine/loft style &amp; standard 2 bedroom apartments available from $530 per week
+
+Set in verdant Mount Colah, surrounded by National Parks yet only a short drive to everything convenience in Hornsby. These affordable brand new chic apartments in convenient location to North Shore and city run and also North Coast gateway. Quality selections and inclusions throughout with neutral palette. 
+
+Mt Colah Gardens offers a selection of standard 2 bedroom apartment with extra large terraces and district views. Each apartment includes secure allocated parking and storage.
+
+Features Include:
+
+- Premier school and shops in nearby Hornsby
+- Hornsby Girls High school catchment
+- Asquith Golf Club
+- Walk to Mount Colah train station ( 5 min walk)
+- Express trains to CBD and Western Sydney via nearby Hornsby
+- Easy access to Sydney CBD via M1
+
+** Images used are for marketing purposes and reflect similar to but not the exact available apartment.
+</description>
+    <allowances>
+      <petFriendly>1</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes/>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2018-01-24-13:08:26" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/402/151675970609755825-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-18-12:47:21" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0898/152929004105982637-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-01-12:10:57" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0898/152781905707241996-rsd.jpg" format="jpg"/>
+      <img modTime="2018-01-24-13:08:23" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/404/151675970340409843-rsd.jpg" format="jpg"/>
+      <img modTime="2018-01-24-13:08:27" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/405/151675970780847979-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-22-11:22:37" id="e" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0898/152695215710258540-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-22-11:22:47" id="f" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0898/152695216773097325-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-01-12:01:12" id="g" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0898/152781847256642225-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-01-12:01:32" id="h" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0898/152781849280535725-rsd.jpg" format="jpg"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan id="1"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName" value="Mount Colah Gardens"/>
+    <extraFields name="inspectionOpenType" value="As Advertised or by Appointment"/>
+    <extraFields name="geoLat" value="-33.67508316"/>
+    <extraFields name="geoLong" value="151.11300659"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="  4 Werombi Road"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2018-06-18 12:47:21</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1P0898</feedsyncUniqueID>
+    <firstDate>2018-03-26 14:49:44</firstDate>
+  </rental>
+  <rental modTime="2018-05-30-09:25:32" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1P0912</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-05-05</dateAvailable>
+    <bond>0</bond>
+    <rent period="weekly" display="yes">600</rent>
+    <priceView>$620 per week</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Peta Harvie</name>
+      <telephone type="mobile">0406 111 301</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>peta@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Peta</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>peta-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>6A</streetNumber>
+      <street>Carbeen Avenue</street>
+      <suburb display="yes">St Ives</suburb>
+      <state>NSW</state>
+      <postcode>2075</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Villa"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>2</bedrooms>
+      <bathrooms>1</bathrooms>
+      <garages>0</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Close to Schools, Close to Shops, Close to Transport</otherFeatures>
+    </features>
+    <headline>Brand new 2 bedroom Flat</headline>
+    <description>Newly built 2 bedroom villa/ granny-flat, private tree lined street location only minutes from St.Ives Shopping Village.  
+
+Fully tiled, open-plan living and kitchen, generous sized with ample built in robes space plus spacious bathroom and internal laundry.
+
+Living area opens out to sunny private garden courtyard. 
+
+More value &amp; privacy than apartment living!  
+
+Features:
+-  Both bedrooms have built-in robes
+-  Tiled living
+-  Reverse cycle air-conditioner in living area
+-  Westinghouse oven and stove top
+-  Private &amp; secure gated entrance  
+-  Walking distance to local shopping centre &amp; extensive bus network 
+   connecting you to Northern beaches,  Macquarie, City &amp; local stations 
+   (Killeaton St)
+
+Please contact Ciara to arrange private inspections 0416 368 808</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes/>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2018-05-30-09:22:43" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0912/152763616342311656-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-30-09:22:43" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0912/152763616338046221-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-30-09:22:41" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0912/152763616118421756-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-30-09:22:43" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0912/152763616388266573-rsd.jpg" format="jpg"/>
+      <img id="d"/>
+      <img id="e"/>
+      <img id="f"/>
+      <img id="g"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan id="1"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName"/>
+    <extraFields name="inspectionOpenType"/>
+    <extraFields name="geoLat" value="-33.72468185"/>
+    <extraFields name="geoLong" value="151.15536499"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="6a Carbeen Avenue"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2018-05-30 09:22:43</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1P0912</feedsyncUniqueID>
+    <firstDate>2018-05-01 12:42:42</firstDate>
+  </rental>
+  <rental modTime="2018-06-18-14:13:25" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>8602191</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-05-22</dateAvailable>
+    <bond>3600</bond>
+    <rent period="weekly" display="yes">850</rent>
+    <priceView>$900 per week</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Bianca Harvie</name>
+      <telephone type="mobile">0447 300 997 </telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>bianca@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Bianca</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>bianca-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>3</streetNumber>
+      <street>Ramsay Avenue</street>
+      <suburb display="yes">West Pymble</suburb>
+      <state>NSW</state>
+      <postcode>2073</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="House"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>3</bedrooms>
+      <bathrooms>1</bathrooms>
+      <garages>1</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Close to Transport</otherFeatures>
+    </features>
+    <headline>Three Bedroom Family Home | Quiet cul-de-sac location</headline>
+    <description>Backing onto reserve and Avondale Golf Course, this elevated family home is light and bright with bush reserve views from near every window.
+
+With practical design throughout, floorboards in all rooms, open plan kitchen to eat in dining area flowing into the comfortable living space complete with cosy fireplace.  Updated, frameless glass terrace extends from the living area to provide an entertaining/ extended living option, perfect for enjoying al fresco bbq in the warmer months.
+
+The large kitchen with dishwasher has been updated with glass splash backs and stone benches, it has two eating areas providing an informal eat in kitchen, and a more formal designated dining area.  There is an abundance of natural light and green views from the large glass windows/ panels used
+throughout the house.
+
+Large family sized bathroom with natural ventilation.
+
+Rear deck for soaking up some sun and relaxing in the peaceful location with nature reserve around.
+
+A childrens park/ playground next door pirivately located for street occupants, with picnic area/s, buses a 2 minutes walk to Hornsby, Macquarie, Pymble and beyond.</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes>
+      <inspection>23-Jun-2018 12:30PM to 12:45PM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2017-03-20-15:39:58" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0220/2005395142-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:38:58" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0220/2004384642-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:38:58" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0220/2004385642-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-15:40:58" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0220/2005405642-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-15:41:58" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0220/2005415642-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-15:42:58" id="e" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0220/2005425642-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:38:58" id="f" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0220/2004386142-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:38:58" id="g" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0220/2004385142-rsd.jpg" format="jpg"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan id="1"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName"/>
+    <extraFields name="inspectionOpenType" value="As Advertised or by Appointment"/>
+    <extraFields name="geoLat" value="-33.75409317"/>
+    <extraFields name="geoLong" value="151.12265015"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="3 Ramsay Avenue"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2017-03-20 15:42:58</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-8602191</feedsyncUniqueID>
+    <firstDate>2018-05-03 11:50:50</firstDate>
+  </rental>
+  <rental modTime="2018-06-09-14:17:18" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1842154</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-05-23</dateAvailable>
+    <bond>2240</bond>
+    <rent period="weekly" display="yes">550</rent>
+    <priceView>$575 per week</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Bianca Harvie</name>
+      <telephone type="mobile">0447 300 997 </telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>bianca@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Bianca</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>bianca-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>14/1219</streetNumber>
+      <street>Pacific Highway</street>
+      <suburb display="yes">Turramurra</suburb>
+      <state>NSW</state>
+      <postcode>2074</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>2</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>1</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>0</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+    </features>
+    <headline>Executive two bedroom apartment</headline>
+    <description>Conveniently located 2 bedroom 2 bathroom 1 car apartment with storage cage and only within a few minutes stroll to Turramurra Village, Station, Buses and large array of convenient shops/ eateries.
+
+Two good sized bedrooms both with mirrored robes built in, modern finish in both ensuite and main bathroom.
+
+Gas kitchen with granite bench tops and dishwasher. Ducted air conditioning in lounge and main bed.
+
+
+**Photos used are for marketing and may not depict actual available apatment</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes>
+      <inspection>16-Jun-2018 11:00AM to 11:30AM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2017-03-20-14:38:56" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0078/2004387302-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:38:56" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0078/2004387802-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-16:10:56" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0078/2006108302-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-16:08:56" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0078/2006087802-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-16:09:56" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0078/2006097802-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:38:56" id="e" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0078/2004388302-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-16:12:56" id="f" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0078/2006128302-rsd.jpg" format="jpg"/>
+      <img id="g"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan id="1"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName"/>
+    <extraFields name="inspectionOpenType" value="As Advertised or by Appointment"/>
+    <extraFields name="geoLat" value="-33.73420334"/>
+    <extraFields name="geoLong" value="151.13233948"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="14/1219 Pacific Highway"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2017-03-20 16:12:56</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1842154</feedsyncUniqueID>
+    <firstDate>2018-05-07 15:54:08</firstDate>
+  </rental>
+  <rental modTime="2018-06-18-14:11:49" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1P0921</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-05-19</dateAvailable>
+    <bond>0</bond>
+    <rent period="weekly" display="yes">500</rent>
+    <priceView>$550 per week</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Bianca Harvie</name>
+      <telephone type="mobile">0447 300 997 </telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>bianca@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Bianca</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>bianca-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>1805/41-45</streetNumber>
+      <street>Waitara Avenue</street>
+      <suburb display="yes">Waitara</suburb>
+      <state>NSW</state>
+      <postcode>2077</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Unit"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>2</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>1</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>0</airConditioning>
+      <builtInRobes>0</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+    </features>
+    <headline>Two bedroom penthouse, expansive views with HUGE entertaining terrace</headline>
+    <description>Freshly carpeted two bedroom penthouse situated apartment with panoramic views surround, from the enormous partially covered entertaining terrace/ balcony.  
+
+Enjoy the comfortable living area with access and outlook to terrace, filled with natural light and ventilation, open plan living and kitchen.  Main bathroom and main bedroom enjoys ensuite bathroom.
+
+ - Walk to Hornsby and Waitara stations.
+ - Split system air con in living and main bedroom
+ - Secure parking space
+ - Walk to PCYC and various sports facilities
+ - Walk to Hornsby Shopping Central and Westfields
+ - Walk to various schools
+ - Transport networks within walking distance 
+ 
+Please contact Ciara to arrange private inspections
+
+</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes>
+      <inspection>23-Jun-2018 10:00AM to 10:30AM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2018-05-18-11:12:16" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0921/152660593650713017-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-18-11:12:16" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0921/152660593604205451-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-18-11:12:16" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0921/152660593664737713-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-18-11:12:14" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0921/152660593406299200-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-18-11:12:16" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0921/152660593691016746-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-18-11:12:16" id="e" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0921/152660593631851206-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-18-11:17:20" id="f" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0921/152660624057784681-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-18-12:44:05" id="g" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0921/152928984527731256-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-18-12:44:05" id="h" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0921/152928984584873231-rsd.jpg" format="jpg"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan id="1"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName"/>
+    <extraFields name="inspectionOpenType" value="As Advertised or by Appointment"/>
+    <extraFields name="geoLat" value="-33.70695114"/>
+    <extraFields name="geoLong" value="151.10519409"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="1805/41-45 Waitara Avenue"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2018-06-18 12:44:05</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1P0921</feedsyncUniqueID>
+    <firstDate>2018-05-18 15:34:55</firstDate>
+  </rental>
+  <rental modTime="2018-06-12-11:48:23" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1P0922</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-05-20</dateAvailable>
+    <bond>2280</bond>
+    <rent period="weekly" display="yes">500</rent>
+    <priceView>$525 per week</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Bianca Harvie</name>
+      <telephone type="mobile">0447 300 997 </telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>bianca@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Bianca</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>bianca-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>35/447-451</streetNumber>
+      <street>Pacific Highway</street>
+      <suburb display="yes">Asquith</suburb>
+      <state>NSW</state>
+      <postcode>2077</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>2</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>1</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Close to Schools, Close to Shops, Close to Transport</otherFeatures>
+    </features>
+    <headline>Two Bedroom Loft-style Apartment</headline>
+    <description>Craftly built, 2 bedroom apartment, offering open plan, bright and stylish design, showcasing the natural surroundings, views ,light and internal finishes with neutral palette selections throughout. This unit features mezzanine/loft style layout.
+
+De Longhi gas kitchens with stone benches and dishwasher, split system air conditioning to the living areas that extend seamlessly onto the generous outdoor terrace that enjoy district views surround. 
+
+Bedrooms are fitted out with data and tv points, well fitted out built in robes, ensuite to master bedroom.
+
+Balcony is equipped with gas points, water, and power, the unit also has gas heater points internally.  Secure intercom access, security basement visitor parking and secure parking.
+
+Walk to Asquith Station, close to local shops and schools, and minutes drive Hornsby Westfield and business centre.
+</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes>
+      <inspection>16-Jun-2018 11:00AM to 11:30AM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2018-05-11-11:52:27" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/471/152600354805982637-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-11-11:52:23" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/469/152600354351963251-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-11-11:52:29" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/470/152600354904923585-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-11-11:52:19" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/472/152600353907536989-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-11-11:52:16" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/473/152600353773522729-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-11-11:52:26" id="e" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/474/152600354676267347-rsd.jpg" format="jpg"/>
+      <img modTime="2018-02-15-14:25:25" id="f" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/475/151866512536726239-rsd.jpg" format="jpg"/>
+      <img id="g"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan id="1"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName"/>
+    <extraFields name="inspectionOpenType" value="As Advertised or by Appointment"/>
+    <extraFields name="geoLat" value="-33.6840744"/>
+    <extraFields name="geoLong" value="151.1101532"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="Unit 35/447-451 Pacific Highway"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2018-05-11 11:52:29</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1P0922</feedsyncUniqueID>
+    <firstDate>2018-05-26 10:26:28</firstDate>
+  </rental>
+  <rental modTime="2018-06-13-15:41:42" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>9489010</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-06-18</dateAvailable>
+    <bond>2000</bond>
+    <rent period="weekly" display="yes">485</rent>
+    <priceView>APPLICATION &amp; DEPOSIT TAKEN</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Bianca Harvie</name>
+      <telephone type="mobile">0447 300 997 </telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>bianca@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Bianca</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>bianca-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>19/24-28</streetNumber>
+      <street>College Crescent</street>
+      <suburb display="yes">Hornsby</suburb>
+      <state>NSW</state>
+      <postcode>2077</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>2</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>1</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Close to Schools, Close to Shops, Close to Transport</otherFeatures>
+    </features>
+    <headline>Charter Apartments</headline>
+    <description>An exceptional offering in Charter Apartments, large two bedroom apartment with sunny balcony's, perfect for relaxing and entertaining.
+
+Stylish living with quality inclusions and neutral colour scheme. Offers open plan living and dining, gourmet kitchen with dishwasher. Bedrooms with built in wardrobes, internal laundry and parking to complete this package.
+
+Charter Apartments is ideally situated within minutes walk to both Hornsby and Waitara stations and offers a great lifestyle in a secure environment.
+
+** Images used are for marketing purposes and reflect similar to but not the exact available apartment.</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes/>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2018-05-28-17:27:18" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0231/152749243845124383-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-28-17:27:18" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0231/152749243856032841-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-28-17:27:18" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0231/152749243841215152-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-16:14:58" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0231/2006146154-rsd.jpg" format="jpg"/>
+      <img id="d"/>
+      <img id="e"/>
+      <img id="f"/>
+      <img id="g"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan modTime="2017-03-20-16:16:58" id="1" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0231/fp/2006166154-rsz.jpg" format="jpg"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName"/>
+    <extraFields name="inspectionOpenType"/>
+    <extraFields name="geoLat" value="-33.710495"/>
+    <extraFields name="geoLong" value="151.09780884"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="19/24-28 College Crescent"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2018-05-28 17:27:18</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-9489010</feedsyncUniqueID>
+    <firstDate>2018-05-28 17:32:50</firstDate>
+  </rental>
+  <rental modTime="2018-06-19-09:43:34" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1P0932</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-07-03</dateAvailable>
+    <bond>0</bond>
+    <rent period="weekly" display="yes">800</rent>
+    <priceView>$825 per week</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Peta Harvie</name>
+      <telephone type="mobile">0406 111 301</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>peta@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Peta</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>peta-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>1/18</streetNumber>
+      <street>Shinfield Avenue</street>
+      <suburb display="yes">St Ives</suburb>
+      <state>NSW</state>
+      <postcode>2075</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>3</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>2</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Car Parking - Basement, Close to Schools, Close to Shops, Close to Transport</otherFeatures>
+    </features>
+    <headline>Spacious courtyard apartment</headline>
+    <description>Nestled in a private, leafy enclave of prestigious St Ives, Eden apartments combine refined luxury with the best of contemporary living. Architect designed, they feature harmoniously proportioned spaces, integrated outdoor living and beautiful landscaped vistas.
+
+APARTMENT
+
+Beautifully crafted interiors and masterful design combine to create private, elegant spaces. Flexible living area flow seamlessly to outdoor entertaining area. This particular apartment enjoys a private courtyard and grassed area.
+
+Elegant kitchen with discreet soft closing cabinetry and designer finishes in natural, muted tones complement these stylish interiors without dominating. Premium collection appliances, caesarstone bench top, glass splash back and polyurethane cabinetry.
+
+Each bedroom is generously proportioned and includes built in wardrobes. The master bedroom includes a designer ensuite. The main bathroom and ensuite are both luxuriously appointed with quality fittings, frameless glass screens and fully tiled with a limestone feature wall.
+
+Also includes; ducted air conditioning, security access, secure private storage and secure parking.
+
+Set in a quiet tree lined street in landscaped gardens with majestic mature trees, it is an oasis of serene luxury.
+
+These apartments will bring new level of refinement and sophistication to apartment living in St Ives - with Eden certain to become the standard against which all other apartments will be measured.
+
+LOCATION
+
+St Ives is one of the Upper North Shore's most sought after suburbs. Destination shopping, prestigious schools, recreation facilities and multiple modes of transport are all within easy reach.
+
+Eden apartments are only a short stroll to St Ives shopping centre, where you'll find: Woolworths, Harris Farm, wonderful cafes, travel centre, homewares, clothing and medical suites.
+
+Offering an ideal lifestyle in a picture perfect setting and with easy access to national parks, business precincts and shops, it's no surprise that St Ives is one of the North Shore's most desirable suburbs.
+
+* Please note images are for marketing purposes and may not be of the actual apartment</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes>
+      <inspection>23-Jun-2018 11:30AM to 12:00PM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2018-06-04-15:46:31" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0932/152809119189692298-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-04-15:46:29" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0932/152809118902230867-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-04-15:48:11" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0932/152809129142772547-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-04-15:48:13" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0932/152809129437002829-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-04-15:43:35" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0932/152809101505202839-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-04-15:43:31" id="e" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0932/152809101191946189-rsd.jpg" format="jpg"/>
+      <img id="f"/>
+      <img id="g"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan modTime="2018-06-04-15:44:13" id="1" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0932/fp/152809105363096100-rsz.jpg" format="jpg"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName"/>
+    <extraFields name="inspectionOpenType" value="As Advertised or by Appointment"/>
+    <extraFields name="geoLat" value="-33.73213196"/>
+    <extraFields name="geoLong" value="151.15971375"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="Unit 1/18 Shinfield Avenue"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2018-06-04 15:48:13</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1P0932</feedsyncUniqueID>
+    <firstDate>2018-06-05 09:21:40</firstDate>
+  </rental>
+  <rental modTime="2018-06-18-15:51:09" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1873419</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-07-09</dateAvailable>
+    <bond>2600</bond>
+    <rent period="weekly" display="yes">640</rent>
+    <priceView>APPLICATION &amp; DEPOSIT TAKEN</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Bianca Harvie</name>
+      <telephone type="mobile">0447 300 997 </telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>bianca@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Bianca</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>bianca-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>310/640</streetNumber>
+      <street>Pacific Highway</street>
+      <suburb display="yes">Chatswood</suburb>
+      <state>NSW</state>
+      <postcode>2067</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>2</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>1</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>0</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+    </features>
+    <headline>2 Bedroom in Prime Chatswood Location</headline>
+    <description>Allure' Luxury Apartments
+
+Near New architecturally designed apartment in the quality 'Allure' development. Unrivalled lifestyle apartments offering sophistication and luxury in the heart of prime North Shore location.
+
+Generously sized with two bedrooms and located exclusively on the top floor this fantastic apartment includes quality built in wardrobes. Also included are; internal laundry, video intercom, reverse cycle air conditioning as well as secure parking .
+
+Comprising spacious living and dining areas which extend seamlessly to terraces. As well as beautifully designed gourmet gas kitchen in caesar stone with stainless steel appliances.
+
+Superbly designed to offer contemporary, luxury living. Features landscaped private central park.
+
+Finished to the highest standards throughout, these apartments offer the best of North Shore living. Enjoy the vibrant diversity of Chatswood with renowned array of shops (including Chatswood Chase and Westfieldsa) cinemas, restaurants and schools.   Also enjoy the convenience of health facilities, banks, supermarkets and transport (buses/trains/taxis) a short stroll away.</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes/>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2018-06-05-11:30:48" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0091/152816224851494662-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:38:56" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0091/2004381815-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-05-11:30:46" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0091/152816224659008810-rsd.jpg" format="jpg"/>
+      <img id="c"/>
+      <img id="d"/>
+      <img id="e"/>
+      <img id="f"/>
+      <img id="g"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan modTime="2018-06-05-11:25:57" id="1" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0091/fp/152816195780619517-rsz.jpg" format="jpg"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName"/>
+    <extraFields name="inspectionOpenType"/>
+    <extraFields name="geoLat" value="-33.80041885"/>
+    <extraFields name="geoLong" value="151.179245"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="310/640-650 Pacific Highway, Chatswood Nsw 2067"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2018-06-05 11:30:48</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1873419</feedsyncUniqueID>
+    <firstDate>2018-06-05 11:33:46</firstDate>
+  </rental>
+  <rental modTime="2018-06-09-14:50:14" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1P0937</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-06-06</dateAvailable>
+    <bond>0</bond>
+    <rent period="weekly" display="yes">480</rent>
+    <priceView>From $490 Per week</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Peta Harvie</name>
+      <telephone type="mobile">0406 111 301</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>peta@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Peta</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>peta-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>1-1A</streetNumber>
+      <street>Cowan Road</street>
+      <suburb display="yes">Mount Colah</suburb>
+      <state>NSW</state>
+      <postcode>2079</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>1</openSpaces>
+      <bedrooms>2</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>0</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>1</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Car Parking - Basement, Close to Schools, Close to Shops, Close to Transport</otherFeatures>
+    </features>
+    <headline>Selection of Brand New 2 Bedroom Apartments </headline>
+    <description>COLAH GRAND
+
+Secure an exceptional brand new two bedroom apartment, boasting luxury finishes, generous sized rooms with flowing spaces that open to large outdoor balconies, mezzanine style also available 
+
+Modern kitchens with stone bench tops, glass splash back, Delonghi stainless steel appliances including oven, gas cook top and dishwasher 
+Split system air-conditioning, Internal laundry with clothes dryer, bedrooms with built-in robes and secure basement parking &amp; storage cage with lift access.  
+
+Set in leafy Mount Colah, surrounded by National Parks, walk to shops and transport network, and only a short distance to everything you need at major shopping hub in Hornsby.
+
+- Premier schools and shops in nearby Hornsby
+- Hornsby Girls High School catchment
+- Asquith Golf Club
+- Walk to Mount Colah train station (5 mins)
+- Express trains to CBD and Western Sydney via nearby Hornsby
+- Easy access to Sydney CBD via M1
+
+DISCLAIMER: Please note these images are indicative and used for marketing purposes and may not be of the actual apartment</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes>
+      <inspection>16-Jun-2018 11:00AM to 11:45AM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2017-09-06-12:51:47" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/217/150466630758856603-rsd.jpg" format="jpg"/>
+      <img modTime="2017-12-06-13:13:35" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/343/151252641567419799-rsd.jpg" format="jpg"/>
+      <img modTime="2017-09-06-12:51:39" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/216/150466629961406141-rsd.jpg" format="jpg"/>
+      <img modTime="2018-02-23-15:49:11" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/446/151936135194048002-rsd.jpg" format="jpg"/>
+      <img modTime="2017-09-06-12:51:38" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/219/150466629846613227-rsd.jpg" format="jpg"/>
+      <img modTime="2018-02-23-15:47:52" id="e" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/445/151936127368216082-rsd.jpg" format="jpg"/>
+      <img id="f"/>
+      <img id="g"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan modTime="2018-02-23-16:04:48" id="1" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/10/506/151936228992313544-rsz.jpg" format="jpg"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName"/>
+    <extraFields name="inspectionOpenType" value="As Advertised or by Appointment"/>
+    <extraFields name="geoLat" value="-33.67359161"/>
+    <extraFields name="geoLong" value="151.11314392"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="1-1a Cowan Road"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2018-02-23 15:49:11</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1P0937</feedsyncUniqueID>
+    <firstDate>2018-06-06 09:23:13</firstDate>
+  </rental>
+  <rental modTime="2018-06-14-12:46:24" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1953658</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-07-15</dateAvailable>
+    <bond>0</bond>
+    <rent period="weekly" display="yes">7500</rent>
+    <priceView>Contact Agent</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Peta Harvie</name>
+      <telephone type="mobile">0406 111 301</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>peta@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Peta</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>peta-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="no" streetview="no">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>29</streetNumber>
+      <street>Eastbourne Road</street>
+      <suburb display="yes">Darling Point</suburb>
+      <state>NSW</state>
+      <postcode>2027</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="House"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>5</bedrooms>
+      <bathrooms>7</bathrooms>
+      <garages>4</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>0</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Pool</otherFeatures>
+    </features>
+    <headline>Grand Celebrity Residence </headline>
+    <description>A world class residence with exceptional design pedigree situated in Sydney's most exclusive harbour front enclave.
+
+This is an outstanding home where uncompromising design by award winning architects Burley Katon Halliday (BKH) and interiors by highly acclaimed Tobias Partners have created the ultimate in luxury living.
+
+There are four levels of living all beautifully designed to showcase the spectacular harbour views. A grand formal entrance provides an inviting welcome and hints to the outstanding beauty and design within. From here it leads to an opulent entertainers retreat or formal living area, adjoining this is a handsome study, which is separated by custom joinery and includes an integrated open fireplace. The perfect winter retreat.
+
+There is a separate informal living area and an expansive dining area which seamlessly extend to beautiful terraced outdoor areas. A gourmet kitchen featuring custom marble benches, imported veneer cabinetry, professional standard appliances, a large walk-in pantry and wine cellar. 
+
+The bedroom wing comprises four double bedrooms each with their own ensuite and built in storage. The  master suite is a luxurious retreat which opens on to a private terrace overlooking the harbour. It has an exquisite dressing room, finished in marble, glass and travertine, the ensuite with an opulent stand alone bath.
+
+There is a separate fully self-contained level, with a kitchen, bathroom, separate rumpus room, ideal for in-law accommodation or live in help.
+
+Set in beautifully landscaped gardens, with an extensive level backyard and fully automated watering system.
+A designer in-ground salt water, heated pool with aqua jets and water features complements this exquisite setting.
+
+There is parking for four vehicles in a lock-up garage plus additional guest parking.
+
+Some of the other many features are; a home intelligence system, zoned ducted reverse cycle air conditioning and audio system, internal lift and designer lighting throughout.
+
+This is a very private and tranquil home offering the ultimate in luxury living.</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes/>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2017-03-20-14:58:57" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0110/2004589883-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:38:57" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0110/2004388883-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:38:57" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0110/2004389883-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:59:57" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0110/2004599883-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:38:57" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0110/2004380383-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-15:00:57" id="e" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0110/2005000383-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-15:01:57" id="f" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0110/2005010383-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-15:02:57" id="g" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0110/2005020383-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:38:57" id="h" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0110/2004380883-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-15:03:57" id="i" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0110/2005030883-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-15:04:57" id="j" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0110/2005040883-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-15:05:57" id="k" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0110/2005050883-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:38:57" id="l" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0110/2004381383-rsd.jpg" format="jpg"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan id="1"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName"/>
+    <extraFields name="inspectionOpenType"/>
+    <extraFields name="geoLat" value="-33.87168121"/>
+    <extraFields name="geoLong" value="151.24034119"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="29 Eastbourne Road"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2017-03-20 15:05:57</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1953658</feedsyncUniqueID>
+    <firstDate>2018-06-07 11:05:25</firstDate>
+  </rental>
+  <rental modTime="2018-06-18-14:12:28" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1P0938</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-07-03</dateAvailable>
+    <bond>3800</bond>
+    <rent period="weekly" display="yes">920</rent>
+    <priceView>$950 per week</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Peta Harvie</name>
+      <telephone type="mobile">0406 111 301</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>peta@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Peta</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>peta-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>1/208</streetNumber>
+      <street>Bridge Road</street>
+      <suburb display="yes">Glebe</suburb>
+      <state>NSW</state>
+      <postcode>2037</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Townhouse"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>2</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>1</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Car Parking - Basement, Close to Schools, Close to Shops, Close to Transport</otherFeatures>
+    </features>
+    <headline>Elegant Contemporary Two Bedroom Townhouse</headline>
+    <description>An innovative, contemporary townhouse designed by internationally renown architects Marchese + Partners with interior designer Greg Natale.
+
+Defined by exquisite details; from the spotted gum, floating stairs to the bespoke cabinetry this home offers a modern, relaxed luxury.
+
+Generous living areas extend seamlessly to the outdoors with full length glass bi-fold doors that open to the courtyard. Featuring beautiful Italian travertine tiled floors that link the two spaces. High walls offer privacy while plantings of Virgina Creeper and an ornamental flowering Plum will provide a spectacular seasonal backdrop.
+
+Beautiful kitchen complete with prestige appliances, Caesar stone bench tops and pantry
+There are two bedrooms each with built in cupboards and generously proportioned. Also included; a study/media area, internal laundry and lock up garage with private internal access.
+
+Lifestyle features include; split zone air conditioning, adjustable lighting, cable and foxtel ready.
+
+Fantastic location in historic Glebe, moments to cafes, restaurants, Sydney Uni and CBD.
+
+*Images are indicative of townhouse for rent, slight variation may exist.</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes>
+      <inspection>23-Jun-2018 10:00AM to 10:30AM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2017-11-17-10:59:05" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/517/151087674578487677-rsd.jpg" format="jpg"/>
+      <img modTime="2017-11-17-10:59:22" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/508/151087676250396218-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:38:58" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/510/2004389641-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-07-14:14:00" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0938/152834484059045069-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-15:36:58" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/514/2005360641-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-15:35:58" id="e" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/512/2005350141-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-14:38:58" id="f" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/513/2004380641-rsd.jpg" format="jpg"/>
+      <img modTime="2017-03-20-15:37:58" id="g" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/515/2005370641-rsd.jpg" format="jpg"/>
+      <img modTime="2017-11-17-11:00:07" id="h" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/518/151087680731838974-rsd.jpg" format="jpg"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan id="1"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName"/>
+    <extraFields name="inspectionOpenType" value="Open by Appointment"/>
+    <extraFields name="geoLat" value="-33.88198853"/>
+    <extraFields name="geoLong" value="151.18359375"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="Unit 1/208 Bridge Road"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2018-06-07 14:14:00</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1P0938</feedsyncUniqueID>
+    <firstDate>2018-06-07 14:18:03</firstDate>
+  </rental>
+  <rental modTime="2018-06-19-11:12:23" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1P0939</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-06-12</dateAvailable>
+    <bond>2520</bond>
+    <rent period="weekly" display="yes">600</rent>
+    <priceView>$650 per week</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>11/3</streetNumber>
+      <street>Cecil Street</street>
+      <suburb display="yes">Gordon</suburb>
+      <state>NSW</state>
+      <postcode>2072</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>2</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>1</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>0</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+    </features>
+    <headline>Clean &amp; comfortable 2 bedroom apartment, stroll to shops and transport</headline>
+    <description>Immaculate two bedroom apartment with terrace balcony, enjoying leafy district views, spacious and bright throughout with gas kitchen, Bosch appliances including dishwasher, video security intercom, reverse cycle ducted air con throughout.
+
+Two good sized bedrooms feature built in robe/s.
+
+Situated amongst perfectly styled landscaped gardens and stone features, the complex is security access and set away from the highway.
+
+Secure parking space with basement security car park and storage cage 
+
+**  These images are of a similar apartment and do not depict the actual 
+      available apartment. </description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes>
+      <inspection>23-Jun-2018 01:30PM to 02:00PM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2017-09-12-09:16:39" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/520/150517179985042900-rsd.jpg" format="jpg"/>
+      <img modTime="2017-09-12-09:16:29" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/521/150517179069645754-rsd.jpg" format="jpg"/>
+      <img modTime="2017-09-12-09:16:49" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/523/150517180911074500-rsd.jpg" format="jpg"/>
+      <img modTime="2017-09-12-09:16:16" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/522/150517177664084090-rsd.jpg" format="jpg"/>
+      <img id="d"/>
+      <img id="e"/>
+      <img id="f"/>
+      <img id="g"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan modTime="2018-06-12-14:04:18" id="1" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0939/fp/152877625897936457-rsz.jpg" format="jpg"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName"/>
+    <extraFields name="inspectionOpenType"/>
+    <extraFields name="geoLat" value="-33.76047897"/>
+    <extraFields name="geoLong" value="151.15405273"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="Unit 11/3 Cecil Street"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2017-09-12 09:16:49</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1P0939</feedsyncUniqueID>
+    <firstDate>2018-06-12 14:20:04</firstDate>
+  </rental>
+  <rental modTime="2018-06-14-09:52:49" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1P0940</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-06-01</dateAvailable>
+    <bond>0</bond>
+    <rent period="weekly" display="yes">700</rent>
+    <priceView>$720 per week</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Bianca Harvie</name>
+      <telephone type="mobile">0447 300 997 </telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>bianca@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Bianca</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>bianca-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <name>Peta Harvie</name>
+      <telephone type="mobile">0406 111 301</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>peta@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Peta</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>peta-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>72/4</streetNumber>
+      <street>Werombi Road</street>
+      <suburb display="yes">Mount Colah</suburb>
+      <state>NSW</state>
+      <postcode>2079</postcode>
+      <country>AUS</country>
+      <site>Mount Colah Gardens</site>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>4</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>2</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Area Views, Close to Schools, Close to Shops, Close to Transport</otherFeatures>
+    </features>
+    <headline>Penthouse Loft  Style Apartment | 4 Bedroom </headline>
+    <description>Please access from 530-532 PACIFIC HIGHWAY, MOUNT COLAH
+
+Brand new 4 bedroom penthouse loft-style apartment offering large entertaining terraces/balcony. 
+
+Surrounded by National Parks yet only a short drive to everything you need at nearby Hornsby. These affordable brand new chic apartments in convenient location to north shore and city run, and also north coast gateway. Quality selections and inclusions throughout with neutral palette. 
+
+Mt Colah Gardens offers a selection of 3 bedroom 2 storey loft/mezzanine penthouses with large tiles terraces wrap around to most.  Each with the highest attention to detail and premier fittings and finishes. these inspired apartments feature large rooms with flowing spaces that open to generous outdoor terraces. 
+
+They are designed to capture light and the landscaped garden/district views. Each apartment includes secure allocated parking and storage. 
+
+Features Include:
+- Premier school and shops in nearby Hornsbu
+- Hornsby Girls High School catchment
+- Asquith Golf Club
+- Walk to Mount Colah train station (5 min walk)
+- Express train to CBD and Western Sydney via nearby Hornsby
+- Easy access to Sydney CBD via M1 
+ 
+
+DISCLAIMER** Images used are for marketing purposes and reflect similar to but not the exact available apartment.</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes>
+      <inspection>16-Jun-2018 12:00PM to 01:00PM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2018-05-28-09:49:16" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/524/152746495686812324-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-28-09:49:40" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/531/152746498057063550-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-28-09:49:27" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/528/152746496732673653-rsd.jpg" format="jpg"/>
+      <img modTime="2018-01-24-12:38:16" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/526/151675789680847979-rsd.jpg" format="jpg"/>
+      <img modTime="2018-01-24-12:38:14" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/525/151675789440409843-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-28-09:50:00" id="e" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/532/152746500007241996-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-23-12:26:37" id="f" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/527/152704239776251096-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-23-12:27:07" id="g" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/529/152704242810258540-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-23-12:27:20" id="h" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/530/152704244023907234-rsd.jpg" format="jpg"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan id="1"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName" value="Mount Colah Gardens"/>
+    <extraFields name="inspectionOpenType" value="As Advertised or by Appointment"/>
+    <extraFields name="geoLat" value="-33.6750946"/>
+    <extraFields name="geoLong" value="151.11303711"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="72/4 Werombi Road"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2018-05-28 09:50:00</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1P0940</feedsyncUniqueID>
+    <firstDate>2018-06-13 15:00:09</firstDate>
+  </rental>
+  <rental modTime="2018-06-19-13:49:57" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1P0942</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-06-16</dateAvailable>
+    <bond>0</bond>
+    <rent period="weekly" display="yes">550</rent>
+    <priceView>APPLICATION &amp; DEPOSIT TAKEN</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Peta Harvie</name>
+      <telephone type="mobile">0406 111 301</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>peta@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Peta</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>peta-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>6.14/135</streetNumber>
+      <street>Pacific Highway</street>
+      <suburb display="yes">Hornsby</suburb>
+      <state>NSW</state>
+      <postcode>2077</postcode>
+      <country>AUS</country>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>0</openSpaces>
+      <bedrooms>2</bedrooms>
+      <bathrooms>2</bathrooms>
+      <garages>1</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Close to Schools, Close to Shops, Close to Transport</otherFeatures>
+    </features>
+    <headline>Pacific Point |  Two bedroom luxury apartment with views </headline>
+    <description>Spacious 2 bedroom apartment with sweeping views, natural light and generous proportions 
+
+- Generous living areas and alfresco entertaining spaces 
+- Premium quality fixtures and finishes, stylish light-filled interiors 
+- All with security parking, extensive common parkland
+- Stone polyurethane gas kitchens, integrated dryers and air conditioning 
+- Moments to Westfield, Hornsby Station, buses, quality schools and parklands
+
+Contact Peta 0406 111 301
+
+</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes/>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2018-06-14-13:11:22" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0942/152894588215146152-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-14-13:11:22" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0942/152894588293330750-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-14-13:10:36" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0942/152894583677100264-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-14-13:11:23" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0942/152894588334515035-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-14-13:11:23" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0942/152894588394328391-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-14-13:11:22" id="e" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0942/152894588294376143-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-14-13:11:22" id="f" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0942/152894588230292733-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-14-13:11:23" id="g" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0942/152894588392677590-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-14-13:11:22" id="h" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0942/152894588245106750-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-14-13:11:23" id="i" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0942/152894588308396280-rsd.jpg" format="jpg"/>
+      <img modTime="2018-06-14-13:11:22" id="j" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/lt/1/1P0942/152894588223272705-rsd.jpg" format="jpg"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan id="1"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName"/>
+    <extraFields name="inspectionOpenType" value="As Advertised or by Appointment"/>
+    <extraFields name="geoLat" value="-33.70624161"/>
+    <extraFields name="geoLong" value="151.09858704"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="6.14/135 Pacific Highway"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2018-06-14 13:11:23</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1P0942</feedsyncUniqueID>
+    <firstDate>2018-06-15 16:26:08</firstDate>
+  </rental>
+  <rental modTime="2018-06-19-17:09:59" status="current">
+    <agentID>HGR2210</agentID>
+    <uniqueID>1P0944</uniqueID>
+    <isMultiple/>
+    <dateAvailable>2018-06-19</dateAvailable>
+    <bond>0</bond>
+    <rent period="weekly" display="yes">450</rent>
+    <priceView>$480</priceView>
+    <exclusivity value="exclusive"/>
+    <outgoings/>
+    <landDetails>
+      <area unit="squareMeter">0</area>
+      <frontage unit="meter">0</frontage>
+    </landDetails>
+    <buildingDetails>
+      <energyRating/>
+    </buildingDetails>
+    <listingAgent id="1">
+      <name>Ciara Harvie</name>
+      <telephone type="mobile">0416 368 808</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>ciara@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Ciara</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>ciara-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="2">
+      <name>Peta Harvie</name>
+      <telephone type="mobile">0406 111 301</telephone>
+      <telephone type="BH">(02) 9449 3000</telephone>
+      <email>peta@harviegroup.com.au</email>
+      <office_id>HGR2210</office_id>
+      <agentFirstName>Peta</agentFirstName>
+      <agentLastName>Harvie</agentLastName>
+      <agentUserName>peta-harvie</agentUserName>
+    </listingAgent>
+    <listingAgent id="3">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <listingAgent id="4">
+      <office_id>HGR2210</office_id>
+    </listingAgent>
+    <address display="yes" streetview="yes">
+      <subNumber/>
+      <lotNumber/>
+      <streetNumber>6/1-1A</streetNumber>
+      <street>Pymble Avenue</street>
+      <suburb display="yes">Pymble</suburb>
+      <state>NSW</state>
+      <postcode>2073</postcode>
+      <country>AUS</country>
+      <site>Upton</site>
+    </address>
+    <category name="Apartment"/>
+    <features>
+      <openSpaces>1</openSpaces>
+      <bedrooms>1</bedrooms>
+      <bathrooms>1</bathrooms>
+      <garages>0</garages>
+      <carports>0</carports>
+      <toilets>0</toilets>
+      <livingAreas>0</livingAreas>
+      <airConditioning>1</airConditioning>
+      <builtInRobes>1</builtInRobes>
+      <alarmSystem>0</alarmSystem>
+      <tennisCourt>0</tennisCourt>
+      <intercom>0</intercom>
+      <openFirePlace>0</openFirePlace>
+      <vacuumSystem>0</vacuumSystem>
+      <ensuite>0</ensuite>
+      <otherFeatures>Close to Schools, Close to Shops, Close to Transport</otherFeatures>
+    </features>
+    <headline>Exclusive boutique apartment - UPTON</headline>
+    <description>Secure this exceptional apartment.
+
+Exciting opportunity for those seeking high standards of living and luxury in a brand new home. Features generous size bedroom with built in robe, open plan living flowing onto outdoor terrace. Designed to capture light and the landscaped garden views.
+
+Exceptional interiors blend a minimal aesthetic with luxury finishes. The apartment is thoughtfully designed with attention to the finer detail for a beautiful lifestyle experience. 
+
+Some of these features include; timber floors throughout kitchen and living, Stainless steel european appliances including integrated dishwasher, Caersarstone benches, Reverse cycle air-conditioning comfort of a carpeted bedroom and Mosaic feature walled bathrooms. The apartment is provided with security parking and separate lock up storage. 
+
+OUTDOOR STYLE
+The  terrace connects the interior to the outdoor in seamless flow. Luxury inclusions such as gas bbq outlet and faucets, beautiful gardens and common areas are managed with ease.
+
+Only a few minutes walk to Pymble Ladies College, Pymble station and a short walk or drive to the North Shore's finest 
+schools, premier shopping centres, four golf clubs, tennis courts, sporting facilities, parklands and nature reserves. 
+
+Local Pymble features:
+- Pymble Ladies College (2 Min walk)
+- Pymble train station  (2 min walk)
+- West Pymble farmers market  (5 min drive)
+- Pymble cafes and restaurants  (5 min walk)
+- Pymble Public school  (10 min walk)
+
+To view contact Ciara 0416 368 808</description>
+    <allowances>
+      <petFriendly>0</petFriendly>
+      <furnished>0</furnished>
+      <smokers>0</smokers>
+    </allowances>
+    <inspectionTimes>
+      <inspection>20-Jun-2018 01:00PM to 01:30PM</inspection>
+    </inspectionTimes>
+    <externalLink href=""/>
+    <videoLink href=""/>
+    <objects>
+      <img modTime="2018-04-05-11:07:52" id="m" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/535/152289047346819154-rsd.jpg" format="jpg"/>
+      <img modTime="2018-04-05-11:07:54" id="a" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/537/152289047476644362-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-23-12:33:28" id="b" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/534/152704280826249922-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-23-12:33:08" id="c" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/538/152704278823719323-rsd.jpg" format="jpg"/>
+      <img modTime="2018-05-23-12:33:19" id="d" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/9/539/152704279994512586-rsd.jpg" format="jpg"/>
+      <img id="e"/>
+      <img id="f"/>
+      <img id="g"/>
+      <img id="h"/>
+      <img id="i"/>
+      <img id="j"/>
+      <img id="k"/>
+      <img id="l"/>
+      <img id="n"/>
+      <img id="o"/>
+      <img id="p"/>
+      <img id="q"/>
+      <img id="r"/>
+      <img id="s"/>
+      <img id="t"/>
+      <img id="u"/>
+      <img id="v"/>
+      <img id="w"/>
+      <img id="x"/>
+      <img id="y"/>
+      <img id="z"/>
+      <img id="aa"/>
+      <img id="ab"/>
+      <img id="ac"/>
+      <img id="ad"/>
+      <img id="ae"/>
+      <img id="af"/>
+      <img id="ag"/>
+      <img id="ah"/>
+      <img id="ai"/>
+      <floorplan modTime="2018-03-23-11:09:53" id="1" title="" url="https://agentbox-2210.s3.amazonaws.com/public_html/media/resrc/10/540/152176379338059209-rsz.jpg" format="jpg"/>
+      <floorplan id="2"/>
+    </objects>
+    <media/>
+    <extraFields name="waterRates"/>
+    <extraFields name="councilRates"/>
+    <extraFields name="strataAdmin"/>
+    <extraFields name="strataSinking"/>
+    <extraFields name="otherOutgoings"/>
+    <extraFields name="propertyName" value="Upton"/>
+    <extraFields name="inspectionOpenType" value="As Advertised or by Appointment"/>
+    <extraFields name="geoLat" value="-33.7452507"/>
+    <extraFields name="geoLong" value="151.14074707"/>
+    <extraFields name="levelNumber"/>
+    <extraFields name="externalArea"/>
+    <extraFields name="landTax"/>
+    <extraFields name="holidayGuests"/>
+    <extraFields name="leaseDetails"/>
+    <extraFields name="streetAddress" value="6/1-1a Pymble Avenue"/>
+    <extraFields name="hiddenListing" value="0"/>
+    <feedsyncImageModtime>2018-05-23 12:33:28</feedsyncImageModtime>
+    <feedsyncUniqueID>HGR2210-1P0944</feedsyncUniqueID>
+    <firstDate>2018-06-19 13:59:39</firstDate>
+  </rental>
+</propertyList>

@@ -1,0 +1,1650 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" >
+<head>
+<meta charset="UTF-8" />
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://n2sites.com/xmlrpc.php">
+<title>Home - Taylors Lane</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="generator" content="Total WordPress Theme 3.6.0" />
+
+<!-- This site is optimized with the Yoast SEO plugin v4.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://n2sites.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - Taylors Lane" />
+<meta property="og:url" content="http://n2sites.com/" />
+<meta property="og:site_name" content="Taylors Lane" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Home - Taylors Lane" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/n2sites.com\/","name":"Taylors Lane","potentialAction":{"@type":"SearchAction","target":"http:\/\/n2sites.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/n2sites.com\/","sameAs":[],"@id":"#organization","name":"Taylors Lane Residences","logo":"http:\/\/n2sites.com\/wp-content\/uploads\/2017\/02\/TL-logo.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Taylors Lane &raquo; Feed" href="http://n2sites.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Taylors Lane &raquo; Comments Feed" href="http://n2sites.com/comments/feed/" />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://n2sites.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.12.1' type='text/css' media='all' />
+<link rel='stylesheet' id='la-icon-maneger-style-css'  href='http://n2sites.com/wp-content/uploads/la_icon_sets/style.min.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://n2sites.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='uaf_client_css-css'  href='http://n2sites.com/wp-content/uploads/useanyfont/uaf.css?ver=1487506078' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-particles-front-css'  href='http://n2sites.com/wp-content/plugins/revslider-particles-addon/public/assets/css/revolution.addon.particles.css?ver=1.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-typewriter-front-css'  href='http://n2sites.com/wp-content/plugins/revslider-typewriter-addon/public/assets/css/typewriter.css?ver=1.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpex-style-css'  href='http://n2sites.com/wp-content/themes/Total/style.css?ver=3.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpex-google-font-cutive-mono-css'  href='//fonts.googleapis.com/css?family=Cutive+Mono%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic&#038;subset=latin&#038;ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpex-visual-composer-css'  href='http://n2sites.com/wp-content/themes/Total/assets/css/wpex-visual-composer.css?ver=3.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wpex-visual-composer-extend-css'  href='http://n2sites.com/wp-content/themes/Total/assets/css/wpex-visual-composer-extend.css?ver=3.6.0' type='text/css' media='all' />
+<!--[if IE 8]>
+<link rel='stylesheet' id='wpex-ie8-css'  href='http://n2sites.com/wp-content/themes/Total/assets/css/wpex-ie8.css?ver=3.6.0' type='text/css' media='all' />
+<![endif]-->
+<!--[if IE 9]>
+<link rel='stylesheet' id='wpex-ie9-css'  href='http://n2sites.com/wp-content/themes/Total/assets/css/wpex-ie9.css?ver=3.6.0' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='wpex-responsive-css'  href='http://n2sites.com/wp-content/themes/Total/assets/css/wpex-responsive.css?ver=3.6.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://n2sites.com/wp-content/plugins/superfly-menu-2/includes/vendor/looks_awesome/icon_manager/js/md5.js?ver=1.0,0'></script>
+<script type='text/javascript' src='http://n2sites.com/wp-content/plugins/superfly-menu-2/includes/vendor/looks_awesome/icon_manager/js/util.js?ver=1.0,0'></script>
+<script type='text/javascript' src='http://n2sites.com/wp-content/plugins/popup-builder/javascript/sg_popup_core.js?ver=1'></script>
+<script type='text/javascript' src='http://n2sites.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://n2sites.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://n2sites.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4'></script>
+<script type='text/javascript' src='http://n2sites.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://n2sites.com/wp-content/themes/Total/assets/js/dynamic/html5.js?ver=3.6.0'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='http://n2sites.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://n2sites.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://n2sites.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.2" />
+<link rel='shortlink' href='http://n2sites.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://n2sites.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fn2sites.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://n2sites.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fn2sites.com%2F&#038;format=xml" />
+<script type='text/javascript'>SG_POPUPS_QUEUE = [];SG_POPUP_DATA = [];SG_APP_POPUP_URL = 'http://n2sites.com/wp-content/plugins/popup-builder';SG_POPUP_VERSION='2.51_1;'</script>
+<link rel="shortcut icon" href="http://n2sites.com/wp-content/uploads/2017/02/TL-logo-favicon.png">		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://n2sites.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://n2sites.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+.wpcf7 
+{
+	font: 24px caslon-std-book, serif;
+	line-height: 90%;
+    color: #fff;
+text-align: center;
+}
+
+.wpcf7 input[type="text"],
+.wpcf7 input[type="number"],
+.wpcf7 input[type="tel"],
+.wpcf7 input[type="email"],
+.wpcf7 textarea
+{
+    background-color: transparent;
+    border-style: none;
+	line-height: 90%;
+}
+
+span.wpcf7-list-item-label {
+  display: inline-block !important;
+  margin-right: 10px;
+}
+
+.wpcf7 input[type="text"]
+{
+    width: 240px;
+}
+
+.wpcf7 input[type="number"]
+{
+    width: 55px;
+}
+
+.wpcf7 input[type="tel"]
+{
+    width: 200px;
+}
+
+.wpcf7 input[type="email"]
+{
+    width: 300px;
+}
+
+.wpcf7 input[type="submit"] {
+    background-color: transparent;
+	border: 2px solid #999999;
+}
+
+.wpcf7 input[type="submit"]:hover {
+    background-color: #D3D3D3; 
+}
+
+span .wpcf7-not-valid {
+   color: #ff0000;
+}
+
+.wpcf7-response-output, .wpcf7-validation-errors { display: none !important; }
+
+@media only screen and (max-width : 525px) {
+   .wpcf7 {
+     font-size: 13px;
+	line-height: 100%;
+	padding-top: 50px;
+   }
+.wpcf7 input[type="text"]
+{
+    width: 140px; line-height: 100%;
+}
+.wpcf7 input[type="number"]
+{
+    width: 40px; line-height: 100%;
+}
+.wpcf7 input[type="tel"]
+{
+    width: 120px; line-height: 100%;
+}
+.wpcf7 input[type="email"]
+{
+    width: 190px; line-height: 100%;
+}
+}
+
+#thankyou
+{
+    font-size: 36px;
+    display: none;
+	color: #fff;
+	text-align: center;
+}
+
+#thankyou2
+{
+    font-size: 26px;
+    display: none;
+	color: #fff;
+	text-align: center;
+}
+		</style>
+	<style type="text/css" data-type="vc_custom-css">.form_border {
+   border: 3px solid #fff;
+}
+
+.vert_center {
+    vertical-align:middle;
+}
+
+.form_border2
+{
+   border: 3px solid #999999;
+   height: 500px;
+}
+
+.form_border_mb
+{
+   border: 3px solid #999999;
+   height: 500px;
+}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1487369576548{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1487458373213{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-image: url(http://n2sites.com/wp-content/uploads/2017/02/Sect-2-Copybackground7.png?id=1060) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1487369781275{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1487369675732{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1487370540584{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 3% !important;padding-right: 3% !important;padding-bottom: 3% !important;padding-left: 3% !important;background-image: url(http://n2sites.com/wp-content/uploads/2017/02/Sect-4-Copybackground1.jpg?id=1273) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1487459882942{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1487626169617{padding-top: 3% !important;padding-right: 3% !important;padding-bottom: 3% !important;padding-left: 3% !important;background-image: url(http://n2sites.com/wp-content/uploads/2017/02/Rectangle-65-copy-2-1.jpg?id=1102) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1487843922097{padding-top: 3% !important;padding-right: 3% !important;padding-bottom: 3% !important;padding-left: 3% !important;background-image: url(http://n2sites.com/wp-content/uploads/2017/02/Rectangle-65-copy-2.jpg?id=901) !important;}.vc_custom_1487723307008{padding-top: 3% !important;padding-right: 3% !important;padding-bottom: 3% !important;padding-left: 3% !important;background-image: url(http://n2sites.com/wp-content/uploads/2017/02/Rectangle-65-copy-2.jpg?id=901) !important;}.vc_custom_1487369585925{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1487369585925{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1487221106920{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1487368006253{margin-bottom: 0px !important;border-bottom-width: 0px !important;padding-bottom: 0px !important;}.vc_custom_1487221097475{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1487221097475{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1487370066727{margin-bottom: 0px !important;border-bottom-width: 0px !important;padding-bottom: 0px !important;}.vc_custom_1487221106920{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1487501860177{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1487368006253{margin-bottom: 0px !important;border-bottom-width: 0px !important;padding-bottom: 0px !important;}.vc_custom_1487368006253{margin-bottom: 0px !important;border-bottom-width: 0px !important;padding-bottom: 0px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style type="text/css" data-type="wpex-css">/*ACCENT COLOR*/.wpex-carousel-woocommerce .wpex-carousel-entry-details,a,.wpex-accent-color,#site-navigation .dropdown-menu a:hover,#site-navigation .dropdown-menu >.current-menu-item >a,#site-navigation .dropdown-menu >.current-menu-parent >a,h1 a:hover,h2 a:hover,a:hover h2,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.entry-title a:hover,.modern-menu-widget a:hover,.theme-button.outline,.theme-button.clean{color:#d3331c}.vcex-skillbar-bar,.vcex-icon-box.style-five.link-wrap:hover,.vcex-icon-box.style-four.link-wrap:hover,.vcex-recent-news-date span.month,.vcex-pricing.featured .vcex-pricing-header,.vcex-testimonials-fullslider .sp-button:hover,.vcex-testimonials-fullslider .sp-selected-button,.vcex-social-links a:hover,.vcex-testimonials-fullslider.light-skin .sp-button:hover,.vcex-testimonials-fullslider.light-skin .sp-selected-button,.vcex-divider-dots span,.wpex-accent-bg,.background-highlight,input[type="submit"],.theme-button,button,.theme-button.outline:hover,.active .theme-button,.theme-button.active,#main .tagcloud a:hover,.post-tags a:hover,.wpex-carousel .owl-dot.active,.navbar-style-one .menu-button >a >span.link-inner,.wpex-carousel .owl-prev,.wpex-carousel .owl-next,body #header-two-search #header-two-search-submit,.theme-button:hover,.modern-menu-widget li.current-menu-item a,#wp-calendar caption,#site-scroll-top:hover,input[type="submit"]:hover,button:hover,.wpex-carousel .owl-prev:hover,.wpex-carousel .owl-next:hover,#site-navigation .menu-button >a >span.link-inner,#site-navigation .menu-button >a >span.link-inner:hover,.navbar-style-six .dropdown-menu >.current-menu-item >a,.navbar-style-six .dropdown-menu >.current-menu-parent >a{background-color:#d3331c}.vcex-heading-bottom-border-w-color .vcex-heading-inner{border-bottom-color:#d3331c}.wpb_tabs.tab-style-alternative-two .wpb_tabs_nav li.ui-tabs-active a{border-bottom-color:#d3331c}.theme-button.outline{border-color:#d3331c}#searchform-dropdown{border-color:#d3331c}.toggle-bar-btn:hover{border-top-color:#d3331c;border-right-color:#d3331c}body #site-navigation-wrap.nav-dropdown-top-border .dropdown-menu >li >ul{border-top-color:#d3331c}.theme-heading.border-w-color span.text{border-bottom-color:#d3331c}/*TYPOGRAPHY*/body{font-family:"Cutive Mono";font-size:16px}#site-logo a.site-logo-text{font-size:28px}#site-navigation .dropdown-menu a{font-size:18px}.entry h1{font-weight:400}/*CUSTOMIZER STYLING*/#site-scroll-top{border-width:0;border-radius:0;right:25px;bottom:25px;color:#000000;background-color:#ffffff}#site-scroll-top:hover{color:#ffffff;background-color:#ba4603}#site-logo a.site-logo-text{color:#ffffff}#mobile-menu a{color:#ffffff;background:#000000;border-color:#000000}#mobile-menu a:hover{color:#ff6600;background:#000000;border-color:#000000}.mobile-toggle-nav{background:#000000}.wpex-mobile-toggle-menu-fixed_top .mobile-toggle-nav{background:#000000}.mobile-toggle-nav a{border-color:#222222;color:#ffffff}.wpex-mobile-toggle-menu-fixed_top .mobile-toggle-nav a{border-color:#222222;color:#ffffff}.mobile-toggle-nav a:hover{color:#d3331c}.wpex-mobile-toggle-menu-fixed_top .mobile-toggle-nav a:hover{color:#d3331c}.wpex-vc-column-wrapper{margin-bottom:40px}</style></head>
+
+<!-- Begin Body -->
+<body class="home page-template-default page page-id-894 wpex-theme wpex-responsive full-width-main-layout has-composer wpex-live-site content-full-width sidebar-widget-icons hasnt-overlay-header page-header-disabled wpex-site-header-disabled wpb-js-composer js-comp-ver-4.12.1 vc_responsive" >
+
+<span data-ls_id="#site_top"></span>
+<div id="outer-wrap" class="clr">
+
+	
+	<div id="wrap" class="clr">
+
+		
+		
+		<main id="main" class="site-main clr" >
+
+			
+	<div id="content-wrap" class="container clr">
+
+		
+		<div id="primary" class="content-area clr">
+
+			
+			<div id="content" class="site-content clr">
+
+				
+				
+<article class="single-page-article wpex-clr">
+<div class="entry clr"><div class="wpex-vc-row-wrap clr wpex-offset-vc-15"><div id="first" class="vc_row wpb_row vc_row-fluid vc_custom_1487369576548"><div class="wpex-vc-columns-wrap clr"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr  vc_custom_1487221106920"><div class="vcex-sshortcode clr">
+<div id="rev_slider_15_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-source="gallery" style="background:transparent;padding:0px;">
+<!-- START REVOLUTION SLIDER 5.4 fullscreen mode -->
+	<div id="rev_slider_15_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-92" data-transition="slidingoverlayright" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://n2sites.com/wp-content/uploads/2017/02/top.jpg"  alt="" title="top"  width="1600" height="900" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="8" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-92-layer-1" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['-25','-25','-25','0']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="image" 
+			data-basealign="slide" 
+			data-responsive_offset="off" 
+
+			data-frames='[{"delay":1500,"speed":2100,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5;"><img src="http://n2sites.com/wp-content/uploads/2017/02/Taylors-LOgo.png" alt="" data-ww="['973px','973px','973px','460px']" data-hh="['155px','155px','155px','73px']" width="973" height="155" data-no-retina> </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption  " 
+			 id="slide-92-layer-2" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['bottom','bottom','bottom','bottom']" data-voffset="['80','80','80','80']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="image" 
+			data-basealign="slide" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":3000,"speed":2000,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6;"><img src="http://n2sites.com/wp-content/uploads/2017/02/Icon-Lockup.png" alt="" data-ww="['144px','144px','180px','120px']" data-hh="['68px','68px','85','57px']" width="144" height="68" data-no-retina> </div>
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_15_1');
+					e.responsiveLevels = [1240,1024,778,480];
+					e.gridwidth = [1600,1024,778,480];
+					e.gridheight = [800,768,960,720];
+							
+					e.sliderLayout = "fullscreen";
+					e.fullScreenAutoWidth='off';
+					e.fullScreenAlignForce='off';
+					e.fullScreenOffsetContainer= '';
+					e.fullScreenOffset='';
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			
+			var revapi15;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_15_1").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_15_1");
+				}else{
+					revapi15 = tpj("#rev_slider_15_1").show().revolution({
+						sliderType:"standard",
+jsFileLocation:"//n2sites.com/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"fullscreen",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+							onHoverStop:"off",
+						},
+						responsiveLevels:[1240,1024,778,480],
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:[1600,1024,778,480],
+						gridheight:[800,768,960,720],
+						lazyType:"none",
+						parallax: {
+							type:"mouse",
+							origo:"enterpoint",
+							speed:400,
+							levels:[5,10,15,20,25,30,35,40,45,46,47,48,49,50,51,55],
+						},
+						shadow:0,
+						spinner:"off",
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+						shuffle:"off",
+						autoHeight:"off",
+						fullScreenAutoWidth:"off",
+						fullScreenAlignForce:"off",
+						fullScreenOffsetContainer: "",
+						fullScreenOffset: "",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div></div></div><div class="wpex-vc-row-wrap clr wpex-vc-row-stretch_row"><div id="second" data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1487458373213"><div class="wpex-vc-columns-wrap clr"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr  vc_custom_1487368006253"><div class="vcex-sshortcode clr">
+<div id="rev_slider_19_2_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.4 fullwidth mode -->
+	<div id="rev_slider_19_2" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-101" data-transition="notransition" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-rotate="0"  data-saveperformance="off"  data-invisible="true"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://n2sites.com/wp-content/plugins/revslider/admin/assets/images/transparent.png"  alt="" title="Sect 2 &#8211; Copybackground7"  width="1624" height="250" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="8" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-101-layer-1" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="image" 
+			data-actions='[{"event":"mouseenter","action":"startlayer","layer":"backgroundvideo","delay":""}]'
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":3000,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5;"><img src="http://n2sites.com/wp-content/plugins/revslider/admin/assets/images/dummy.png" alt="" data-ww="['968','836','616','396px']" data-hh="['110px','95px','70px','45px']" width="1012" height="115" data-lazyload="http://n2sites.com/wp-content/uploads/2017/02/Exceptional-boutique-development-in-Lane-Cove-2.png" data-no-retina> </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-101-layer-3" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['-100','-100','-100','-100']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6;"><img src="http://n2sites.com/wp-content/uploads/2017/02/Vector-Smart-Object-copy-12.png" alt="" data-ww="['185px','185px','185px','185px']" data-hh="['3px','3px','3px','3px']" width="185" height="3" data-no-retina> </div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-101-layer-4" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['110','110','110','110']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":1500,"frame":"0","from":"x:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 7;"><img src="http://n2sites.com/wp-content/uploads/2017/02/Vector-Smart-Object-copy-12.png" alt="" data-ww="['185px','185px','185px','185px']" data-hh="['3px','3px','3px','3px']" width="185" height="3" data-no-retina> </div>
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_19_2');
+					e.responsiveLevels = [1240,1024,778,480];
+					e.gridwidth = [1240,1024,778,480];
+					e.gridheight = [400,300,300,300];
+							
+					e.sliderLayout = "fullwidth";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			
+			var revapi19;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_19_2").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_19_2");
+				}else{
+					revapi19 = tpj("#rev_slider_19_2").show().revolution({
+						sliderType:"hero",
+jsFileLocation:"//n2sites.com/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"fullwidth",
+						dottedOverlay:"none",
+						delay:3000,
+						navigation: {
+						},
+						viewPort: {
+							enable:true,
+							outof:"pause",
+							visible_area:"80%",
+							presize:false
+						},
+						responsiveLevels:[1240,1024,778,480],
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:[1240,1024,778,480],
+						gridheight:[400,300,300,300],
+						lazyType:"none",
+						parallax: {
+							type:"mouse",
+							origo:"enterpoint",
+							speed:400,
+							levels:[5,10,15,20,25,30,35,40,45,46,47,48,49,50,51,55],
+							disable_onmobile:"on"
+						},
+						shadow:0,
+						spinner:"off",
+						autoHeight:"off",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div></div><div class="vc_row-full-width"></div></div><div class="wpex-vc-row-wrap clr wpex-offset-vc-15"><div id="third" class="vc_row wpb_row vc_row-fluid vc_custom_1487369781275 hidden-phone"><div class="wpex-vc-columns-wrap clr"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr  vc_custom_1487221097475"><div class="vcex-sshortcode clr">
+<div id="rev_slider_16_3_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.4 fullwidth mode -->
+	<div id="rev_slider_16_3" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-93" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb=""  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://n2sites.com/wp-content/plugins/revslider/admin/assets/images/transparent.png"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-93-layer-3" 
+			 data-x="['center','center','center','center']" data-hoffset="['-500','-500','-500','-500']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":1500,"frame":"999","to":"y:top;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5;"><img src="http://n2sites.com/wp-content/uploads/2017/02/Shops.jpg" alt="" data-ww="['1000px','1000px','1000px','1000px']" data-hh="['1000px','1000px','1000px','1000px']" width="1000" height="1000" data-no-retina> </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-93-layer-4" 
+			 data-x="['center','center','center','center']" data-hoffset="['500','500','500','500']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":2000,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":1500,"frame":"999","to":"y:bottom;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6;"><img src="http://n2sites.com/wp-content/uploads/2017/02/Dining.jpg" alt="" data-ww="['1000px','1000px','1000px','1000px']" data-hh="['1000px','1000px','1000px','1000px']" width="1000" height="1000" data-no-retina> </div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-103" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://n2sites.com/wp-content/uploads/2017/02/2017343_T0A1767-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://n2sites.com/wp-content/uploads/2017/02/2017343_T0A1767.jpg"  alt="" title="2017343_T0A1767"  width="1600" height="800" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-104" data-transition="slideremoveright" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="1500"  data-thumb="http://n2sites.com/wp-content/uploads/2017/02/top-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://n2sites.com/wp-content/uploads/2017/02/top.jpg"  alt="" title="top"  width="1600" height="900" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer" style="height: 5px; background: rgba(0,0,0,0.15);"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_16_3');
+					e.responsiveLevels = [1240,1024,778,480];
+					e.gridwidth = [1600,1024,778,480];
+					e.gridheight = [800,600,500,720];
+							
+					e.sliderLayout = "fullwidth";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			
+			var revapi16;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_16_3").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_16_3");
+				}else{
+					revapi16 = tpj("#rev_slider_16_3").show().revolution({
+						sliderType:"standard",
+jsFileLocation:"//n2sites.com/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"fullwidth",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+							keyboardNavigation:"off",
+							keyboard_direction: "horizontal",
+							mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+							onHoverStop:"on",
+							touch:{
+								touchenabled:"on",
+								touchOnDesktop:"off",
+								swipe_threshold: 75,
+								swipe_min_touches: 50,
+								swipe_direction: "horizontal",
+								drag_block_vertical: false
+							}
+							,
+							arrows: {
+								style:"hesperiden",
+								enable:true,
+								hide_onmobile:true,
+								hide_under:600,
+								hide_onleave:true,
+								hide_delay:200,
+								hide_delay_mobile:1200,
+								tmp:'',
+								left: {
+									h_align:"left",
+									v_align:"center",
+									h_offset:30,
+									v_offset:0
+								},
+								right: {
+									h_align:"right",
+									v_align:"center",
+									h_offset:30,
+									v_offset:0
+								}
+							}
+							,
+							bullets: {
+								enable:true,
+								hide_onmobile:true,
+								hide_under:600,
+								style:"hesperiden",
+								hide_onleave:true,
+								hide_delay:200,
+								hide_delay_mobile:1200,
+								direction:"horizontal",
+								h_align:"center",
+								v_align:"bottom",
+								h_offset:0,
+								v_offset:30,
+								space:5,
+								tmp:''
+							}
+						},
+						viewPort: {
+							enable:true,
+							outof:"wait",
+							visible_area:"80%",
+							presize:false
+						},
+						responsiveLevels:[1240,1024,778,480],
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:[1600,1024,778,480],
+						gridheight:[800,600,500,720],
+						lazyType:"none",
+						parallax: {
+							type:"mouse",
+							origo:"slidercenter",
+							speed:2000,
+							levels:[2,3,4,5,6,7,12,16,10,50,47,48,49,50,51,55],
+						},
+						shadow:0,
+						spinner:"off",
+						stopLoop:"on",
+						stopAfterLoops:0,
+						stopAtSlide:1,
+						shuffle:"off",
+						autoHeight:"off",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		<script>
+					var htmlDivCss = unescape(".hesperiden.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A100%3B%0A%20%20%20%20border-radius%3A%2050%25%3B%0A%7D%0A.hesperiden.tparrows%3Ahover%20%7B%0A%09background%3Argba%280%2C%200%2C%200%2C%201%29%3B%0A%7D%0A.hesperiden.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22revicons%22%3B%0A%09font-size%3A20px%3B%0A%09color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A.hesperiden.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82c%22%3B%0A%20%20%20%20margin-left%3A-3px%3B%0A%7D%0A.hesperiden.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82d%22%3B%0A%20%20%20%20margin-right%3A-3px%3B%0A%7D%0A.hesperiden.tp-bullets%20%7B%0A%7D%0A.hesperiden.tp-bullets%3Abefore%20%7B%0A%09content%3A%22%20%22%3B%0A%09position%3Aabsolute%3B%0A%09width%3A100%25%3B%0A%09height%3A100%25%3B%0A%09background%3Atransparent%3B%0A%09padding%3A10px%3B%0A%09margin-left%3A-10px%3Bmargin-top%3A-10px%3B%0A%09box-sizing%3Acontent-box%3B%0A%20%20%20border-radius%3A8px%3B%0A%20%20%0A%7D%0A.hesperiden%20.tp-bullet%20%7B%0A%09width%3A12px%3B%0A%09height%3A12px%3B%0A%09position%3Aabsolute%3B%0A%09background%3A%20rgb%28153%2C%20153%2C%20153%29%3B%20%2F%2A%20old%20browsers%20%2A%2F%0A%20%20%20%20background%3A%20-moz-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2C%20rgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20ff3.6%2B%20%2A%2F%0A%20%20%20%20background%3A%20-webkit-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20chrome10%2B%2Csafari5.1%2B%20%2A%2F%0A%20%20%20%20background%3A%20-o-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20opera%2011.10%2B%20%2A%2F%0A%20%20%20%20background%3A%20-ms-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20ie10%2B%20%2A%2F%0A%20%20%20%20background%3A%20linear-gradient%28to%20bottom%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20w3c%20%2A%2F%0A%20%20%20%20filter%3A%20progid%3Adximagetransform.microsoft.gradient%28%20%0A%20%20%20%20startcolorstr%3D%22rgb%28153%2C%20153%2C%20153%29%22%2C%20endcolorstr%3D%22rgb%28225%2C%20225%2C%20225%29%22%2Cgradienttype%3D0%20%29%3B%20%2F%2A%20ie6-9%20%2A%2F%0A%09border%3A3px%20solid%20rgb%28229%2C%20229%2C%20229%29%3B%0A%09border-radius%3A50%25%3B%0A%09cursor%3A%20pointer%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A.hesperiden%20.tp-bullet%3Ahover%2C%0A.hesperiden%20.tp-bullet.selected%20%7B%0A%09background%3Argb%28102%2C%20102%2C%20102%29%3B%0A%7D%0A.hesperiden%20.tp-bullet-image%20%7B%0A%7D%0A.hesperiden%20.tp-bullet-title%20%7B%0A%7D%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div></div></div><div class="wpex-vc-row-wrap clr wpex-offset-vc-15"><div id="third_mb" class="vc_row wpb_row vc_row-fluid vc_custom_1487369675732 visible-phone"><div class="wpex-vc-columns-wrap clr"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr  vc_custom_1487221097475"><div class="vcex-sshortcode clr">
+<div id="rev_slider_18_4_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.4 fullwidth mode -->
+	<div id="rev_slider_18_4" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-99" data-transition="slidehorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://n2sites.com/wp-content/uploads/2017/02/Shops_mb-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://n2sites.com/wp-content/uploads/2017/02/Shops_mb.jpg"  alt="" title="Shops_mb"  width="500" height="500" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-100" data-transition="slidehorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://n2sites.com/wp-content/uploads/2017/02/Dining_mb-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://n2sites.com/wp-content/uploads/2017/02/Dining_mb.jpg"  alt="" title="Dining_mb"  width="500" height="500" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-111" data-transition="slidehorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://n2sites.com/wp-content/uploads/2017/02/top_mb-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://n2sites.com/wp-content/uploads/2017/02/top_mb.jpg"  alt="" title="top_mb"  width="500" height="500" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-112" data-transition="slidehorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://n2sites.com/wp-content/uploads/2017/02/flowers_mb-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://n2sites.com/wp-content/uploads/2017/02/flowers_mb.jpg"  alt="" title="flowers_mb"  width="500" height="500" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer" style="height: 5px; background: rgba(0,0,0,0.15);"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_18_4');
+					e.responsiveLevels = [1240,1024,778,480];
+					e.gridwidth = [500,1024,778,500];
+					e.gridheight = [500,600,500,500];
+							
+					e.sliderLayout = "fullwidth";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			
+			var revapi18;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_18_4").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_18_4");
+				}else{
+					revapi18 = tpj("#rev_slider_18_4").show().revolution({
+						sliderType:"standard",
+jsFileLocation:"//n2sites.com/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"fullwidth",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+							keyboardNavigation:"off",
+							keyboard_direction: "horizontal",
+							mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+							onHoverStop:"on",
+							touch:{
+								touchenabled:"on",
+								touchOnDesktop:"off",
+								swipe_threshold: 75,
+								swipe_min_touches: 50,
+								swipe_direction: "horizontal",
+								drag_block_vertical: false
+							}
+							,
+							bullets: {
+								enable:true,
+								hide_onmobile:false,
+								style:"hesperiden",
+								hide_onleave:false,
+								direction:"horizontal",
+								h_align:"center",
+								v_align:"bottom",
+								h_offset:0,
+								v_offset:30,
+								space:5,
+								tmp:''
+							}
+						},
+						viewPort: {
+							enable:true,
+							outof:"pause",
+							visible_area:"80%",
+							presize:false
+						},
+						responsiveLevels:[1240,1024,778,480],
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:[500,1024,778,500],
+						gridheight:[500,600,500,500],
+						lazyType:"none",
+						parallax: {
+							type:"mouse",
+							origo:"slidercenter",
+							speed:2000,
+							levels:[2,3,4,5,6,7,12,16,10,50,47,48,49,50,51,55],
+						},
+						shadow:0,
+						spinner:"off",
+						stopLoop:"on",
+						stopAfterLoops:0,
+						stopAtSlide:1,
+						shuffle:"off",
+						autoHeight:"off",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		<script>
+					var htmlDivCss = unescape(".hesperiden.tp-bullets%20%7B%0A%7D%0A.hesperiden.tp-bullets%3Abefore%20%7B%0A%09content%3A%22%20%22%3B%0A%09position%3Aabsolute%3B%0A%09width%3A100%25%3B%0A%09height%3A100%25%3B%0A%09background%3Atransparent%3B%0A%09padding%3A10px%3B%0A%09margin-left%3A-10px%3Bmargin-top%3A-10px%3B%0A%09box-sizing%3Acontent-box%3B%0A%20%20%20border-radius%3A8px%3B%0A%20%20%0A%7D%0A.hesperiden%20.tp-bullet%20%7B%0A%09width%3A6px%3B%0A%09height%3A6px%3B%0A%09position%3Aabsolute%3B%0A%09background%3A%20rgb%28153%2C%20153%2C%20153%29%3B%20%2F%2A%20old%20browsers%20%2A%2F%0A%20%20%20%20background%3A%20-moz-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2C%20rgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20ff3.6%2B%20%2A%2F%0A%20%20%20%20background%3A%20-webkit-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20chrome10%2B%2Csafari5.1%2B%20%2A%2F%0A%20%20%20%20background%3A%20-o-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20opera%2011.10%2B%20%2A%2F%0A%20%20%20%20background%3A%20-ms-linear-gradient%28top%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20ie10%2B%20%2A%2F%0A%20%20%20%20background%3A%20linear-gradient%28to%20bottom%2C%20%20rgb%28153%2C%20153%2C%20153%29%200%25%2Crgb%28225%2C%20225%2C%20225%29%20100%25%29%3B%20%2F%2A%20w3c%20%2A%2F%0A%20%20%20%20filter%3A%20progid%3Adximagetransform.microsoft.gradient%28%20%0A%20%20%20%20startcolorstr%3D%22rgb%28153%2C%20153%2C%20153%29%22%2C%20endcolorstr%3D%22rgb%28225%2C%20225%2C%20225%29%22%2Cgradienttype%3D0%20%29%3B%20%2F%2A%20ie6-9%20%2A%2F%0A%09border%3A3px%20solid%20rgb%28229%2C%20229%2C%20229%29%3B%0A%09border-radius%3A50%25%3B%0A%09cursor%3A%20pointer%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A.hesperiden%20.tp-bullet%3Ahover%2C%0A.hesperiden%20.tp-bullet.selected%20%7B%0A%09background%3Argb%28102%2C%20102%2C%20102%29%3B%0A%7D%0A.hesperiden%20.tp-bullet-image%20%7B%0A%7D%0A.hesperiden%20.tp-bullet-title%20%7B%0A%7D%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div></div></div><div class="wpex-vc-row-wrap clr wpex-vc-row-stretch_row"><div id="fourth" data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1487370540584"><div class="wpex-vc-columns-wrap clr"><div class="form_border wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr  vc_custom_1487370066727"><div class="vcex-sshortcode clr">
+<div id="rev_slider_20_5_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.4 auto mode -->
+	<div id="rev_slider_20_5" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-102" data-transition="notransition" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://n2sites.com/wp-content/plugins/revslider/admin/assets/images/transparent.png"  alt="" title="Sect 4 &#8211; Copybackground1"  width="1614" height="559" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-102-layer-5" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','-1']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5;"><img src="http://n2sites.com/wp-content/uploads/2017/02/A-selection-of-1.png" alt="" data-ww="['841','726','535','344']" data-hh="['110px','95px','70px','45px']" width="917" height="120" data-no-retina> </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-102-layer-9" 
+			 data-x="['center','center','center','center']" data-hoffset="['1','1','1','0']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['101','101','101','100']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":2800,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6;"><img src="http://n2sites.com/wp-content/uploads/2017/02/section-4-divider.png" alt="" data-ww="['184px','184px','184px','184px']" data-hh="['3px','3px','3px','3px']" width="184" height="3" data-no-retina> </div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-102-layer-11" 
+			 data-x="['center','center','center','center']" data-hoffset="['-17','-17','-17','-13']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['-112','-112','-112','-105']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 7;"><img src="http://n2sites.com/wp-content/uploads/2017/02/T-logo.png" alt="" data-ww="['36px','36px','36px','27px']" data-hh="['46px','46px','46px','35px']" width="36" height="46" data-no-retina> </div>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-102-layer-12" 
+			 data-x="['center','center','center','center']" data-hoffset="['17','17','17','13']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['-112','-112','-112','-105']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":2000,"frame":"0","from":"x:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 8;"><img src="http://n2sites.com/wp-content/uploads/2017/02/L-logo.png" alt="" data-ww="['35px','35px','35px','27px']" data-hh="['46px','46px','46px','35px']" width="35" height="46" data-no-retina> </div>
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_20_5');
+					e.responsiveLevels = [1240,1024,778,480];
+					e.gridwidth = [1240,1024,778,480];
+					e.gridheight = [400,300,300,300];
+							
+					e.sliderLayout = "auto";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			
+			var revapi20;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_20_5").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_20_5");
+				}else{
+					revapi20 = tpj("#rev_slider_20_5").show().revolution({
+						sliderType:"hero",
+jsFileLocation:"//n2sites.com/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"auto",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+						},
+						viewPort: {
+							enable:true,
+							outof:"wait",
+							visible_area:"80%",
+							presize:false
+						},
+						responsiveLevels:[1240,1024,778,480],
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:[1240,1024,778,480],
+						gridheight:[400,300,300,300],
+						lazyType:"none",
+						parallax: {
+							type:"mouse",
+							origo:"enterpoint",
+							speed:400,
+							levels:[5,10,15,20,25,30,35,40,45,46,47,48,49,50,51,55],
+							disable_onmobile:"on"
+						},
+						shadow:0,
+						spinner:"off",
+						autoHeight:"off",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div></div><div class="vc_row-full-width"></div></div><div class="wpex-vc-row-wrap clr wpex-offset-vc-15"><div class="vc_row wpb_row vc_row-fluid vc_custom_1487459882942"><div class="wpex-vc-columns-wrap clr"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr  vc_custom_1487221106920"><div class="vcex-sshortcode clr">
+<div id="rev_slider_21_6_wrapper" class="rev_slider_wrapper fullscreen-container" data-source="gallery" style="background:transparent;padding:0px;">
+<!-- START REVOLUTION SLIDER 5.4 fullscreen mode -->
+	<div id="rev_slider_21_6" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-105" data-transition="slotslide-vertical" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://n2sites.com/wp-content/uploads/2017/02/Sect-5-Nature-1.jpg"  alt="" title="Sect 5 &#8211; Nature 1"  width="1624" height="844" data-bgposition="center center" data-kenburns="on" data-duration="7500" data-ease="Linear.easeNone" data-scalestart="140" data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-blurstart="0" data-blurend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="8" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-105-layer-6" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['339','339','339','211']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5;"><img src="http://n2sites.com/wp-content/uploads/2017/02/natural-meets-syd-1.png" alt="" data-ww="['781px','781px','781px','408px']" data-hh="['186px','186px','186px','97px']" width="781" height="186" data-no-retina> </div>
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_21_6');
+					e.responsiveLevels = [1240,1024,778,480];
+					e.gridwidth = [1624,1024,778,480];
+					e.gridheight = [844,768,960,720];
+							
+					e.sliderLayout = "fullscreen";
+					e.fullScreenAutoWidth='off';
+					e.fullScreenAlignForce='off';
+					e.fullScreenOffsetContainer= '';
+					e.fullScreenOffset='';
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			
+			var revapi21;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_21_6").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_21_6");
+				}else{
+					revapi21 = tpj("#rev_slider_21_6").show().revolution({
+						sliderType:"standard",
+jsFileLocation:"//n2sites.com/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"fullscreen",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+							onHoverStop:"off",
+						},
+						viewPort: {
+							enable:true,
+							outof:"pause",
+							visible_area:"80%",
+							presize:false
+						},
+						responsiveLevels:[1240,1024,778,480],
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:[1624,1024,778,480],
+						gridheight:[844,768,960,720],
+						lazyType:"none",
+						parallax: {
+							type:"mouse",
+							origo:"enterpoint",
+							speed:400,
+							levels:[5,10,15,20,25,30,35,40,45,46,47,48,49,50,51,55],
+							disable_onmobile:"on"
+						},
+						shadow:0,
+						spinner:"off",
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+						shuffle:"off",
+						autoHeight:"off",
+						fullScreenAutoWidth:"off",
+						fullScreenAlignForce:"off",
+						fullScreenOffsetContainer: "",
+						fullScreenOffset: "",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div></div></div><div class="wpex-vc-row-wrap clr wpex-vc-row-stretch_row"><div id="form" data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1487843922097"><div class="wpex-vc-columns-wrap clr"><div class="form_border2 wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr "><div class="vcex-sshortcode clr"><div role="form" class="wpcf7" id="wpcf7-f1601-p894-o1" lang="en" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/#wpcf7-f1601-p894-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="1601" />
+<input type="hidden" name="_wpcf7_version" value="4.6.1" />
+<input type="hidden" name="_wpcf7_locale" value="en" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1601-p894-o1" />
+<input type="hidden" name="_wpnonce" value="84500b72e5" />
+</div>
+<p><label><br />
+<h1 style="color:white;">Register your interest</h1>
+<p></label><br />
+<label> My name is <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="(Preferred Name)" /></span></label><br />
+<label> I'm interested in a <span class="wpcf7-form-control-wrap your-number"><input type="number" name="your-number" value="" class="wpcf7-form-control wpcf7-number wpcf7-validates-as-required wpcf7-validates-as-number" aria-required="true" aria-invalid="false" placeholder="(#)" /></span> bedroom</label><br />
+<label> You can reach me on <span class="wpcf7-form-control-wrap your-tel"><input type="tel" name="your-tel" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-tel" aria-invalid="false" placeholder="(Phone Number)" /></span> </label><br />
+<label> or <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="(Preferred Email Address)" /></span></label><br />
+<label> </label><br />
+<label> I am an </label> <span class="wpcf7-form-control-wrap your-option"><span class="wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required"><span class="wpcf7-list-item first"><span class="wpcf7-list-item-label">owner</span><input type="checkbox" name="your-option[]" value="owner" /></span><span class="wpcf7-list-item last"><span class="wpcf7-list-item-label">investor</span><input type="checkbox" name="your-option[]" value="investor" /></span></span></span><br />
+<br><br />
+<center><input type="submit" value="Register" class="wpcf7-form-control wpcf7-submit" /></center></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+		<div class="wpb_wrapper">
+			<div id="thankyou"><br><br><br>Thank you for your enquiry.</div>
+		</div>
+	</div>
+</div></div></div></div></div><div class="vc_row-full-width"></div></div><div class="wpex-vc-row-wrap clr wpex-vc-row-stretch_row"><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1487369585925"><div class="wpex-vc-columns-wrap clr"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr  vc_custom_1487368006253"><div class="vcex-sshortcode clr">
+<div id="rev_slider_23_7_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.4 fullwidth mode -->
+	<div id="rev_slider_23_7" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-108" data-transition="notransition" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://n2sites.com/wp-content/uploads/2017/02/Sect-7-FOOTER-PARALAX2.png"  alt="" title="Sect 7 &#8211; FOOTER PARALAX2"  width="1624" height="250" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<a class="tp-caption   tp-resizeme" 
+ href="tel:1800554888" target="_blank"			 id="slide-108-layer-5" 
+			 data-x="center" data-hoffset="" 
+			 data-y="center" data-voffset="79" 
+						data-width="['none','none','none','none']"
+			data-height="['none','none','none','none']"
+ 
+			data-type="image" 
+			data-actions=''
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":2300,"frame":"0","from":"y:bottom;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5;text-decoration: none;"><img src="http://n2sites.com/wp-content/uploads/2017/02/Section-7-name-and-number.png" alt="" data-ww="560px" data-hh="111px" width="560" height="111" data-no-retina> </a>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-108-layer-7" 
+			 data-x="center" data-hoffset="" 
+			 data-y="46" 
+						data-width="['none','none','none','none']"
+			data-height="['none','none','none','none']"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":0,"speed":3000,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":3000,"frame":"999","ease":"nothing"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6;"><img src="http://n2sites.com/wp-content/uploads/2017/02/section-7-TL-Res.png" alt="" data-ww="771px" data-hh="122px" width="771" height="122" data-no-retina> </div>
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_23_7');
+					e.gridwidth = [1240];
+					e.gridheight = [400];
+							
+					e.sliderLayout = "fullwidth";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			
+			var revapi23;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_23_7").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_23_7");
+				}else{
+					revapi23 = tpj("#rev_slider_23_7").show().revolution({
+						sliderType:"hero",
+jsFileLocation:"//n2sites.com/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"fullwidth",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+						},
+						viewPort: {
+							enable:true,
+							outof:"pause",
+							visible_area:"80%",
+							presize:false
+						},
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:1240,
+						gridheight:400,
+						lazyType:"none",
+						shadow:0,
+						spinner:"off",
+						autoHeight:"off",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div></div><div class="vc_row-full-width"></div></div><div class="wpex-vc-row-wrap clr wpex-vc-row-stretch_row"><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1487369585925"><div class="wpex-vc-columns-wrap clr"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner wpex-clr"><div class="wpb_wrapper wpex-vc-column-wrapper wpex-clr  vc_custom_1487368006253"><div class="vcex-sshortcode clr"><link href="http://fonts.googleapis.com/css?family=Open+Sans:400" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+<div id="rev_slider_24_8_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.4 fullwidth mode -->
+	<div id="rev_slider_24_8" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-109" data-transition="notransition" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://n2sites.com/wp-content/uploads/2017/02/section-8-background.png"  alt="" title="section 8 background"  width="1624" height="254" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-109-layer-13" 
+			 data-x="['center','center','center','center']" data-hoffset="['-300','-300','-250','-150']" 
+			 data-y="['top','top','top','middle']" data-voffset="['55','55','55','-30']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="image" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5;"><img src="http://n2sites.com/wp-content/uploads/2017/02/claireleigh.png" alt="" data-ww="['213px','213px','181px','109px']" data-hh="['94px','94px','80px','48px']" width="213" height="94" data-no-retina> </div>
+
+		<!-- LAYER NR. 2 -->
+		<a class="tp-caption   tp-resizeme" 
+ href="http://bmvpropertygroup.com.au" target="_blank"			 id="slide-109-layer-14" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['top','top','top','middle']" data-voffset="['55','55','55','-30']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="image" 
+			data-actions=''
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6;text-decoration: none;"><img src="http://n2sites.com/wp-content/uploads/2017/02/BMV.png" alt="" data-ww="['222px','222px','189','113px']" data-hh="['94px','94px','80px','48px']" width="222" height="94" data-no-retina> </a>
+
+		<!-- LAYER NR. 3 -->
+		<a class="tp-caption   tp-resizeme" 
+ href="https://www.ljhooker.com.au" target="_blank"			 id="slide-109-layer-16" 
+			 data-x="['center','center','center','center']" data-hoffset="['300','300','250','149']" 
+			 data-y="['top','top','top','middle']" data-voffset="['55','55','55','-30']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="image" 
+			data-actions=''
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 7;text-decoration: none;"><img src="http://n2sites.com/wp-content/uploads/2017/02/LJHOOKER.png" alt="" data-ww="['194px','194px','165px','99px']" data-hh="['94px','94px','80px','48px']" width="194" height="94" data-no-retina> </a>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-109-layer-18" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['top','middle','middle','middle']" data-voffset="['193','65','60','25']" 
+						data-fontsize="['24','24','24','20']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":10,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 8; white-space: nowrap; font-size: 24px; line-height: 22px; font-weight: 400; color: rgba(255,255,255,1);font-family:Open Sans;"><style type="text/css">
+				
+				.sg-popup-overlay-1,
+				.sg-popup-content-1 {
+					z-index: 9999 !important;
+				}
+			</style><script type='text/javascript'>SG_POPUP_DATA[1] ={"id":"1","title":"Disclaimer","type":"html","effect":"No effect","0":"width","1":"640px","height":"480px","delay":0,"duration":1,"2":"initialWidth","3":"300","initialHeight":"100","width":"640px","escKey":"on","isActiveStatus":"","scrolling":"on","scaling":"on","reposition":"on","overlayClose":"on","reopenAfterSubmission":"","contentClick":"","content-click-behavior":"close","click-redirect-to-url":"","redirect-to-new-tab":"","opacity":"0.8","popup-background-opacity":"1","sgOverlayColor":"","sg-content-background-color":"","popupFixed":"","fixedPostion":"","popup-dimension-mode":"responsiveMode","popup-responsive-dimension-measure":"70","maxWidth":"","maxHeight":"","initialWidth":"300","closeButton":"on","theme":"colorbox6.css","sgTheme3BorderColor":"","sgTheme3BorderRadius":"0","onScrolling":"","inActivityStatus":"","inactivity-timout":"0","beforeScrolingPrsent":0,"forMobile":"","openMobile":"","repeatPopup":"","popup-appear-number-limit":"1","save-cookie-page-level":"","autoClosePopup":"","countryStatus":"","showAllPages":"all","allPagesStatus":"","allPostsStatus":"","allCustomPostsStatus":"","allSelectedPages":"","showAllPosts":"all","showAllCustomPosts":"all","allSelectedPosts":"","allSelectedCustomPosts":"","posts-all-categories":"","all-custom-posts":"","sg-user-status":"","loggedin-user":"true","popup-timer-status":"","popup-schedule-status":"","popup-start-timer":"Feb 21 17 08:38","popup-finish-timer":"","schedule-start-weeks":"","schedule-start-time":"08:38","schedule-end-time":"","allowCountries":"","countryName":"","countryIso":"","disablePopup":"","disablePopupOverlay":"","popupClosingTimer":"","yesButtonLabel":"","noButtonLabel":"","restrictionUrl":"","yesButtonBackgroundColor":"","noButtonBackgroundColor":"","yesButtonTextColor":"","noButtonTextColor":"","yesButtonRadius":0,"noButtonRadius":0,"sgRestrictionExpirationTime":0,"restrictionCookeSavingLevel":"","pushToBottom":"","onceExpiresTime":"7","sgOverlayCustomClasss":"sg-popup-overlay","sgContentCustomClasss":"sg-popup-content","popup-z-index":"9999","theme-close-text":"Close","socialButtons":"{u0022sgTwitterStatusu0022:u0022u0022,u0022sgFbStatusu0022:u0022u0022,u0022sgEmailStatusu0022:u0022u0022,u0022sgLinkedinStatusu0022:u0022u0022,u0022sgGoogleStatusu0022:u0022u0022,u0022sgPinterestStatusu0022:u0022u0022,u0022pushToBottomu0022:u0022u0022}","socialOptions":"{u0022sgSocialThemeu0022:u0022u0022,u0022sgSocialButtonsSizeu0022:u0022u0022,u0022sgSocialLabelu0022:u0022u0022,u0022sgSocialShareCountu0022:u0022u0022,u0022sgRoundButtonu0022:u0022u0022,u0022fbShareLabelu0022:u0022u0022,u0022lindkinLabelu0022:u0022u0022,u0022sgShareUrlu0022:u0022u0022,u0022shareUrlTypeu0022:u0022u0022,u0022googLelabelu0022:u0022u0022,u0022twitterLabelu0022:u0022u0022,u0022pinterestLabelu0022:u0022u0022,u0022sgMailSubjectu0022:u0022u0022,u0022sgMailLableu0022:u0022u0022}","countdownOptions":"{u0022pushToBottomu0022:u0022u0022,u0022countdownNumbersBgColoru0022:u0022u0022,u0022countdownNumbersTextColoru0022:u0022u0022,u0022sg-due-dateu0022:u0022u0022,u0022countdown-positionu0022:u0022u0022,u0022counts-languageu0022:u0022u0022,u0022sg-time-zoneu0022:u0022u0022,u0022sg-countdown-typeu0022:u0022u0022,u0022countdown-autocloseu0022:u0022u0022}","exitIntentOptions":"{u0022exit-intent-typeu0022:u0022u0022,u0022exit-intent-expire-timeu0022:u0022u0022,u0022exit-intent-alertu0022:u0022u0022}","videoOptions":"{u0022video-autoplayu0022:u0022u0022}","fblikeOptions":"{u0022fblike-like-urlu0022:u0022u0022,u0022fblike-layoutu0022:u0022u0022}","html":"DISCLAIMER: All information contained herein is gathered from sources we consider reliable. We cannot guarantee or give any warranty to the information provided. Interested parties must solely rely upon their own enquiries. The lifestyle images are taken from locations within close proximity of the site area.","customEvent":"0"};</script><a href='javascript:void(0)' class='sg-show-popup' data-sgpopupid=1  data-popup-event=click><font color="#999999">Disclaimer</font></a> </div>
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_24_8');
+					e.responsiveLevels = [1240,1024,778,480];
+					e.gridwidth = [1240,1024,778,480];
+					e.gridheight = [250,220,220,140];
+							
+					e.sliderLayout = "fullwidth";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			
+			var revapi24;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_24_8").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_24_8");
+				}else{
+					revapi24 = tpj("#rev_slider_24_8").show().revolution({
+						sliderType:"hero",
+jsFileLocation:"//n2sites.com/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"fullwidth",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+						},
+						responsiveLevels:[1240,1024,778,480],
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:[1240,1024,778,480],
+						gridheight:[250,220,220,140],
+						lazyType:"none",
+						shadow:0,
+						spinner:"spinner0",
+						autoHeight:"off",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div></div><div class="vc_row-full-width"></div></div>
+</div></article>
+				
+			</div><!-- #content -->
+
+			
+		</div><!-- #primary -->
+
+		
+	</div><!-- .container -->
+
+
+            
+        </main><!-- #main-content -->
+                
+        
+        
+
+
+
+    </div><!-- #wrap -->
+
+    
+</div><!-- .outer-wrap -->
+
+
+			<script type="text/javascript">
+			function revslider_showDoubleJqueryError(sliderID) {
+				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+				errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+				errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+				errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+				errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+					jQuery(sliderID).show().html(errorMessage);
+			}
+		</script>
+				<script type="text/javascript">
+			function revslider_showDoubleJqueryError(sliderID) {
+				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+				errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+				errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+				errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+				errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+					jQuery(sliderID).show().html(errorMessage);
+			}
+		</script>
+				<script type="text/javascript">
+			function revslider_showDoubleJqueryError(sliderID) {
+				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+				errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+				errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+				errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+				errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+					jQuery(sliderID).show().html(errorMessage);
+			}
+		</script>
+				<script type="text/javascript">
+			function revslider_showDoubleJqueryError(sliderID) {
+				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+				errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+				errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+				errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+				errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+					jQuery(sliderID).show().html(errorMessage);
+			}
+		</script>
+				<script type="text/javascript">
+			function revslider_showDoubleJqueryError(sliderID) {
+				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+				errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+				errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+				errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+				errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+					jQuery(sliderID).show().html(errorMessage);
+			}
+		</script>
+				<script type="text/javascript">
+			function revslider_showDoubleJqueryError(sliderID) {
+				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+				errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+				errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+				errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+				errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+					jQuery(sliderID).show().html(errorMessage);
+			}
+		</script>
+				<script type="text/javascript">
+			function revslider_showDoubleJqueryError(sliderID) {
+				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+				errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+				errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+				errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+				errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+					jQuery(sliderID).show().html(errorMessage);
+			}
+		</script>
+				<script type="text/javascript">
+			function revslider_showDoubleJqueryError(sliderID) {
+				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+				errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+				errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+				errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+				errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+					jQuery(sliderID).show().html(errorMessage);
+			}
+		</script>
+		<link rel='stylesheet' id='sg_animate-css'  href='http://n2sites.com/wp-content/plugins/popup-builder/style/animate.css?ver=4.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='sg_colorbox_theme-css'  href='http://n2sites.com/wp-content/plugins/popup-builder/style/sgcolorbox/sgthemes.css?ver=2.51' type='text/css' media='all' />
+<script type='text/javascript' src='http://n2sites.com/wp-content/plugins/revslider-particles-addon/public/assets/js/revolution.addon.particles.min.js?ver=1.0.2'></script>
+<script type='text/javascript' src='http://n2sites.com/wp-content/plugins/revslider-typewriter-addon/public/assets/js/revolution.addon.typewriter.min.js?ver=1.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpexLocalize = {"isRTL":"","mainLayout":"full-width","menuSearchStyle":"","siteHeaderStyle":"disabled","megaMenuJS":"1","superfishDelay":"600","superfishSpeed":"fast","superfishSpeedOut":"fast","hasMobileMenu":"","mobileMenuBreakpoint":"960","mobileMenuStyle":"toggle","mobileMenuToggleStyle":"icon_buttons","localScrollUpdateHash":"","localScrollSpeed":"1000","localScrollEasing":"easeInOutExpo","scrollTopSpeed":"1000","scrollTopOffset":"100","carouselSpeed":"150","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, #bbp_stick_topic_select, #bbp_topic_status_select, #bbp_destination_topic, .single-product .variations_form .variations select","overlaysMobileSupport":"1","animateMobileToggle":"1","mobileToggleMenuPosition":"absolute","altercf7Prealoader":"1","iLightbox":{"auto":false,"skin":"minimal","path":"horizontal","infinite":true,"controls":{"arrows":true,"thumbnail":true,"fullscreen":true,"mousewheel":false},"effects":{"loadedFadeSpeed":50,"fadeSpeed":500},"show":{"title":true,"speed":200},"hide":{"speed":200},"overlay":{"blur":true,"opacity":0.9},"social":{"start":true,"show":"mouseenter","hide":"mouseleave","buttons":false}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://n2sites.com/wp-content/themes/Total/assets/js/total-min.js?ver=3.6.0'></script>
+<script type='text/javascript' src='http://n2sites.com/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='http://n2sites.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.12.1'></script>
+<script type='text/javascript' src='http://n2sites.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://n2sites.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://n2sites.com/wp-content/plugins/popup-builder/javascript/sg_popup_frontend.js?ver=2.51'></script>
+<script type='text/javascript' src='http://n2sites.com/wp-content/plugins/popup-builder/javascript/sg_popup_init.js?ver=2.51'></script>
+<script type='text/javascript' src='http://n2sites.com/wp-content/plugins/popup-builder/javascript/jquery.sgcolorbox-min.js?ver=2.51'></script>
+
+</body>
+</html>

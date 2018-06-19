@@ -1,0 +1,126 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE propertyList SYSTEM "http://reaxml.realestate.com.au/propertyList.dtd">
+<propertyList>
+  <listingAgent id="1">
+    <name>Michael Caccamo</name>
+    <telephone type="mobile">0432 054 616</telephone>
+    <telephone type="BH">(02) 9449 3000</telephone>
+    <email>michael@harviegroup.com.au</email>
+    <office_id>HGR2210</office_id>
+    <agentFirstName>Michael</agentFirstName>
+    <agentLastName>Caccamo</agentLastName>
+    <agentUserName>michael-caccamo</agentUserName>
+  </listingAgent>
+  <listingAgent id="2">
+    <name>Julia Xia</name>
+    <telephone type="mobile">0450 808 268 </telephone>
+    <telephone type="BH">(02) 9449 3000</telephone>
+    <email>julia@harviegroup.com.au</email>
+    <office_id>HGR2210</office_id>
+    <agentFirstName>Julia</agentFirstName>
+    <agentLastName>Xia</agentLastName>
+    <agentUserName>julia-xia</agentUserName>
+  </listingAgent>
+  <listingAgent id="3">
+    <office_id>HGR2210</office_id>
+  </listingAgent>
+  <listingAgent id="1">
+    <name>Ciara Harvie</name>
+    <telephone type="mobile">0416 368 808</telephone>
+    <telephone type="BH">(02) 9449 3000</telephone>
+    <email>ciara@harviegroup.com.au</email>
+    <office_id>HGR2210</office_id>
+    <agentFirstName>Ciara</agentFirstName>
+    <agentLastName>Harvie</agentLastName>
+    <agentUserName>ciara-harvie</agentUserName>
+  </listingAgent>
+  <listingAgent id="2">
+    <name>Peta Harvie</name>
+    <telephone type="mobile">0406 111 301</telephone>
+    <telephone type="BH">(02) 9449 3000</telephone>
+    <email>peta@harviegroup.com.au</email>
+    <office_id>HGR2210</office_id>
+    <agentFirstName>Peta</agentFirstName>
+    <agentLastName>Harvie</agentLastName>
+    <agentUserName>peta-harvie</agentUserName>
+  </listingAgent>
+  <listingAgent id="2">
+    <name>Bianca Harvie</name>
+    <telephone type="mobile">0447 300 997 </telephone>
+    <telephone type="BH">(02) 9449 3000</telephone>
+    <email>bianca@harviegroup.com.au</email>
+    <office_id>HGR2210</office_id>
+    <agentFirstName>Bianca</agentFirstName>
+    <agentLastName>Harvie</agentLastName>
+    <agentUserName>bianca-harvie</agentUserName>
+  </listingAgent>
+  <listingAgent id="2">
+    <name>Sharon Palmer</name>
+    <telephone type="mobile">0452 624 334 </telephone>
+    <telephone type="BH">(02) 9449 3000</telephone>
+    <email>sharon@harviegroup.com.au</email>
+    <office_id>HGR2210</office_id>
+    <agentFirstName>Sharon</agentFirstName>
+    <agentLastName>Palmer</agentLastName>
+    <agentUserName>sharon-palmer</agentUserName>
+  </listingAgent>
+  <listingAgent id="1">
+    <name>George Rogers</name>
+    <telephone type="mobile">0418 405 699</telephone>
+    <telephone type="BH">(02) 9449 3000</telephone>
+    <email>george@harviegroup.com.au</email>
+    <office_id>HGR2210</office_id>
+    <agentFirstName>George</agentFirstName>
+    <agentLastName>Rogers</agentLastName>
+    <agentUserName>george-rogers</agentUserName>
+  </listingAgent>
+  <listingAgent id="2">
+    <name>Chris Harvie</name>
+    <telephone type="mobile">0411 507 750</telephone>
+    <telephone type="BH">9449 3000</telephone>
+    <email>chris@harviegroup.com.au</email>
+    <office_id>HGR2210</office_id>
+    <agentFirstName>Chris</agentFirstName>
+    <agentLastName>Harvie</agentLastName>
+    <agentUserName>chris-harvie</agentUserName>
+  </listingAgent>
+  <listingAgent id="1">
+    <name>Don Douglas</name>
+    <telephone type="mobile">0438 883 612</telephone>
+    <telephone type="BH">9449 3000</telephone>
+    <email>don@harviegroup.com.au</email>
+    <office_id>HGR2210</office_id>
+    <agentFirstName>Don</agentFirstName>
+    <agentLastName>Douglas</agentLastName>
+    <agentUserName>don-douglas</agentUserName>
+  </listingAgent>
+  <listingAgent id="1">
+    <name>Harvie Group Real Estate</name>
+    <telephone type="BH">(02) 9449 3000</telephone>
+    <email>info@harviegroup.com.au</email>
+    <office_id>HGR2210</office_id>
+    <agentFirstName>Harvie</agentFirstName>
+    <agentLastName>Group</agentLastName>
+    <agentUserName>harvie-group-real-estate</agentUserName>
+  </listingAgent>
+  <listingAgent id="2">
+    <name>Emma Moreton</name>
+    <telephone type="mobile">0403053770</telephone>
+    <telephone type="BH">(02) 9449 3000</telephone>
+    <email>emma@harviegroup.com.au</email>
+    <office_id>HGR2210</office_id>
+    <agentFirstName>Emma</agentFirstName>
+    <agentLastName>Moreton</agentLastName>
+    <agentUserName>emma-moreton</agentUserName>
+  </listingAgent>
+  <listingAgent id="2">
+    <name>Fernando Yip</name>
+    <telephone type="mobile">0404 538 438 </telephone>
+    <telephone type="BH">(02) 9449 3000</telephone>
+    <email>fernando@harviegroup.com.au</email>
+    <office_id>HGR2210</office_id>
+    <agentFirstName>Fernando</agentFirstName>
+    <agentLastName>Yip</agentLastName>
+    <agentUserName>fernando-yip</agentUserName>
+  </listingAgent>
+</propertyList>
